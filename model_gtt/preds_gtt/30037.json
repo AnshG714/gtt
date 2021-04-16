@@ -1,1 +1,53 @@
-{"doctext": "two persons were injured in dynamite attacks per ##pet ##rated this evening against two bank branches in this northwestern colombian city . the first police reports indicate that a bomb exploded in front of the state - owned agrarian board in the suburbs of man ##ri ##que , and another at the agrarian board branch in the sector of ara ##n ##ju ##ez . one person was seriously wounded in each of the terrorist attacks , but no deaths were reported . the device which exploded in man ##ri ##que destroyed the bank building and a bus that was parked in front of the building , and caused considerable damage in several stores nearby . the explosion in the other branch was of a lesser magnitude , and it broke windows and caused damage inside the offices . the scan ##t police information said that the devices were apparently left in front of the two bank branches minutes before the cu ##rf ##ew began for the 6th consecutive day - - precisely to counter the wave of terrorism caused by drug traffic ##kers . these represent the second and third dynamite attacks in med ##elli ##n this evening . the previous one took place 2 hours earlier and blew up a police post , but failed to in ##jure its five occupants .", "pred_seq": "bombing [SEP] [SEP] [SEP] state board bank building bus bus [SEP] [SEP] dynamite bomb [SEP] [unused0] bombing [SEP] drug ##kers [SEP] [SEP] bank branches stores stores stores stores stores [SEP] [SEP] bomb bomb [SEP] [unused0] bombing [SEP] drug ##kers [SEP] [SEP] stores stores stores stores stores stores stores stores stores stores stores stores [SEP] [SEP] bomb bomb bomb bomb bomb [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["stateowned agrarian board"], ["bank building"], ["bus"]], "Victim": [], "Weapon": []}, {"incident_type": "bombing", "PerpInd": [["drug traffickers"]], "PerpOrg": [], "Target": [["bank branches"], ["stores"]], "Victim": [], "Weapon": [["bomb"]]}, {"incident_type": "bombing", "PerpInd": [["drug traffickers"]], "PerpOrg": [], "Target": [["stores"]], "Victim": [], "Weapon": [["bomb"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["drug traffickers"]], "PerpOrg": [], "Target": [["stateowned agrarian board", "agrarian board", "bank building"], ["bus"], ["stores"]], "Victim": [], "Weapon": [["dynamite"], ["bomb"]]}, {"incident_type": "bombing", "PerpInd": [["drug traffickers"]], "PerpOrg": [], "Target": [["agrarian board", "agrarian board branch"]], "Victim": [], "Weapon": [["dynamite"], ["bomb"]]}], "docid": "30037"}
+{
+  "doctext": "two persons were injured in dynamite attacks per ##pet ##rated this evening against two bank branches in this northwestern colombian city . the first police reports indicate that a bomb exploded in front of the state - owned agrarian board in the suburbs of man ##ri ##que , and another at the agrarian board branch in the sector of ara ##n ##ju ##ez . one person was seriously wounded in each of the terrorist attacks , but no deaths were reported . the device which exploded in man ##ri ##que destroyed the bank building and a bus that was parked in front of the building , and caused considerable damage in several stores nearby . the explosion in the other branch was of a lesser magnitude , and it broke windows and caused damage inside the offices . the scan ##t police information said that the devices were apparently left in front of the two bank branches minutes before the cu ##rf ##ew began for the 6th consecutive day - - precisely to counter the wave of terrorism caused by drug traffic ##kers . these represent the second and third dynamite attacks in med ##elli ##n this evening . the previous one took place 2 hours earlier and blew up a police post , but failed to in ##jure its five occupants .",
+  "pred_seq": "bombing [SEP] [SEP] [SEP] state board bank building bus bus [SEP] [SEP] dynamite bomb [SEP] [unused0] bombing [SEP] drug ##kers [SEP] [SEP] bank branches stores stores stores stores stores [SEP] [SEP] bomb bomb [SEP] [unused0] bombing [SEP] drug ##kers [SEP] [SEP] stores stores stores stores stores stores stores stores stores stores stores stores [SEP] [SEP] bomb bomb bomb bomb bomb [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["stateowned agrarian board"], ["bank building"], ["bus"]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["drug traffickers"]],
+      "PerpOrg": [],
+      "Target": [["bank branches"], ["stores"]],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["drug traffickers"]],
+      "PerpOrg": [],
+      "Target": [["stores"]],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["drug traffickers"]],
+      "PerpOrg": [],
+      "Target": [
+        ["stateowned agrarian board", "agrarian board", "bank building"],
+        ["bus"],
+        ["stores"]
+      ],
+      "Victim": [],
+      "Weapon": [["dynamite"], ["bomb"]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["drug traffickers"]],
+      "PerpOrg": [],
+      "Target": [["agrarian board", "agrarian board branch"]],
+      "Victim": [],
+      "Weapon": [["dynamite"], ["bomb"]]
+    }
+  ],
+  "docid": "30037"
+}

@@ -1,1 +1,55 @@
-{"doctext": "far ##ab ##und ##o mart ##i national liberation front ( fm ##ln ) urban commandos have denied reports they participated in an attack on vice president - elect francisco mer ##ino ' s home . at 05 ##30 this morning , unidentified individuals placed three explosive devices at the main entrance of mer ##ino ' s home in the mach ##ili ##gua ##s neighborhood . two of the devices exploded . reports indicate that the perpetrators , who arrived in a vehicle , also fired at the guards protecting mer ##ino ' s residence . early reports pointed to urban commandos as the presumed perpetrators , but a spokesman for the modest ##o ramirez central front , in a telephone call , denied the report . ( begin recording ) ( unidentified fm ##ln spokesman ) on this occasion , the fm ##ln must explain that our forces did not participate in the attack in question . the fm ##ln warns that the armed forces are taking advantage of the situation to create confusion and promote true state terrorism . the fm ##ln condemn ##s the ( word ind ##ist ##in ##ct ) against our people and warns that these actions will not be allowed to take place without the appropriate response . the fm ##ln claims responsibility for actions in which it is directly involved . in this case , we were not directly involved . the fm ##ln warns that the armed forces are taking advantage of this situation to per ##pet ##rate attacks on individuals and institutions which can be easily attributed to the fm ##ln . ( end recording ) the fm ##ln described statements made by president - elect alfredo cr ##ist ##iani as ir ##res ##pon ##sible . the president - elect immediately condemned the attack and attributed it to the urban commandos . as a result of the attack , a 15 - year - old girl was wounded and considerable damage was reported . mer ##ino is currently out of the country .", "pred_seq": "bombing [SEP] unidentified individuals [SEP] far front [SEP] main home [SEP] francisco home [SEP] explosive devices [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [["unidentified individuals"]], "PerpOrg": [["farabundo marti national liberation front"]], "Target": [["main entrance of merino s home"]], "Victim": [["francisco merino s home"]], "Weapon": [["explosive devices"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["urban commandos", "modesto ramirez central front"], ["unidentified individuals"]], "PerpOrg": [["farabundo marti national liberation front", "fmln"]], "Target": [["vice presidentelect francisco merinos home"]], "Victim": [], "Weapon": [["three explosive devices", "explosive devices"]]}, {"incident_type": "bombing", "PerpInd": [["unidentified individuals"]], "PerpOrg": [["armed forces"]], "Target": [["vice presidentelect francisco merinos home"]], "Victim": [], "Weapon": [["three explosive devices", "explosive devices"]]}, {"incident_type": "attack", "PerpInd": [["urban commandos", "modesto ramirez central front"], ["unidentified individuals"]], "PerpOrg": [["farabundo marti national liberation front", "fmln"]], "Target": [], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [["unidentified individuals"]], "PerpOrg": [["armed forces"]], "Target": [], "Victim": [], "Weapon": []}], "docid": "30017"}
+{
+  "doctext": "far ##ab ##und ##o mart ##i national liberation front ( fm ##ln ) urban commandos have denied reports they participated in an attack on vice president - elect francisco mer ##ino ' s home . at 05 ##30 this morning , unidentified individuals placed three explosive devices at the main entrance of mer ##ino ' s home in the mach ##ili ##gua ##s neighborhood . two of the devices exploded . reports indicate that the perpetrators , who arrived in a vehicle , also fired at the guards protecting mer ##ino ' s residence . early reports pointed to urban commandos as the presumed perpetrators , but a spokesman for the modest ##o ramirez central front , in a telephone call , denied the report . ( begin recording ) ( unidentified fm ##ln spokesman ) on this occasion , the fm ##ln must explain that our forces did not participate in the attack in question . the fm ##ln warns that the armed forces are taking advantage of the situation to create confusion and promote true state terrorism . the fm ##ln condemn ##s the ( word ind ##ist ##in ##ct ) against our people and warns that these actions will not be allowed to take place without the appropriate response . the fm ##ln claims responsibility for actions in which it is directly involved . in this case , we were not directly involved . the fm ##ln warns that the armed forces are taking advantage of this situation to per ##pet ##rate attacks on individuals and institutions which can be easily attributed to the fm ##ln . ( end recording ) the fm ##ln described statements made by president - elect alfredo cr ##ist ##iani as ir ##res ##pon ##sible . the president - elect immediately condemned the attack and attributed it to the urban commandos . as a result of the attack , a 15 - year - old girl was wounded and considerable damage was reported . mer ##ino is currently out of the country .",
+  "pred_seq": "bombing [SEP] unidentified individuals [SEP] far front [SEP] main home [SEP] francisco home [SEP] explosive devices [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["unidentified individuals"]],
+      "PerpOrg": [["farabundo marti national liberation front"]],
+      "Target": [["main entrance of merino s home"]],
+      "Victim": [["francisco merino s home"]],
+      "Weapon": [["explosive devices"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        ["urban commandos", "modesto ramirez central front"],
+        ["unidentified individuals"]
+      ],
+      "PerpOrg": [["farabundo marti national liberation front", "fmln"]],
+      "Target": [["vice presidentelect francisco merinos home"]],
+      "Victim": [],
+      "Weapon": [["three explosive devices", "explosive devices"]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["unidentified individuals"]],
+      "PerpOrg": [["armed forces"]],
+      "Target": [["vice presidentelect francisco merinos home"]],
+      "Victim": [],
+      "Weapon": [["three explosive devices", "explosive devices"]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        ["urban commandos", "modesto ramirez central front"],
+        ["unidentified individuals"]
+      ],
+      "PerpOrg": [["farabundo marti national liberation front", "fmln"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["unidentified individuals"]],
+      "PerpOrg": [["armed forces"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "30017"
+}

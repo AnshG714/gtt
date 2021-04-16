@@ -1,1 +1,37 @@
-{"doctext": "police sources have reported that unidentified individuals planted a bomb in front of a mormon church in tal ##ca ##hua ##no district . the bomb , which exploded and caused property damage worth 50 , 000 pe ##sos , was placed at a chapel of the church of jesus christ of latter - day saints located at no 385 ##6 gomez carr ##eno street . the shock wave destroyed a wall , the roof , and the windows of the church , but did not cause any injuries . cara ##bine ##ros bomb squad personnel immediately went to the location and discovered that the bomb was made of 50 grams of an - f ##o ( am ##monium nitrate - fuel oil blasting agents ) and a slow fuse . cara ##bine ##ros special forces soon raided a large area to try to arrest those responsible for the attack , but they were unsuccessful . the police have already informed the appropriate authorities , that is , the national prosecutor and the tal ##ca ##hua ##no criminal court , of this attack .", "pred_seq": "bombing [SEP] unidentified individuals [SEP] [SEP] mormon church [SEP] [SEP] bomb bomb [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [["unidentified individuals"]], "PerpOrg": [], "Target": [["mormon church"]], "Victim": [], "Weapon": [["bomb"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["unidentified individuals"]], "PerpOrg": [], "Target": [["mormon church", "church", "chapel of church of jesus christ of latterday saints located at no 3856 gomez carreno street", "chapel of church of jesus christ of latterday saints", "chapel", "church of jesus christ of latterday saints"]], "Victim": [], "Weapon": [["bomb"], ["50 grams of anfo", "anfo", "ammonium nitratefuel oil blasting agents"]]}], "docid": "40001"}
+{
+  "doctext": "police sources have reported that unidentified individuals planted a bomb in front of a mormon church in tal ##ca ##hua ##no district . the bomb , which exploded and caused property damage worth 50 , 000 pe ##sos , was placed at a chapel of the church of jesus christ of latter - day saints located at no 385 ##6 gomez carr ##eno street . the shock wave destroyed a wall , the roof , and the windows of the church , but did not cause any injuries . cara ##bine ##ros bomb squad personnel immediately went to the location and discovered that the bomb was made of 50 grams of an - f ##o ( am ##monium nitrate - fuel oil blasting agents ) and a slow fuse . cara ##bine ##ros special forces soon raided a large area to try to arrest those responsible for the attack , but they were unsuccessful . the police have already informed the appropriate authorities , that is , the national prosecutor and the tal ##ca ##hua ##no criminal court , of this attack .",
+  "pred_seq": "bombing [SEP] unidentified individuals [SEP] [SEP] mormon church [SEP] [SEP] bomb bomb [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["unidentified individuals"]],
+      "PerpOrg": [],
+      "Target": [["mormon church"]],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["unidentified individuals"]],
+      "PerpOrg": [],
+      "Target": [
+        [
+          "mormon church",
+          "church",
+          "chapel of church of jesus christ of latterday saints located at no 3856 gomez carreno street",
+          "chapel of church of jesus christ of latterday saints",
+          "chapel",
+          "church of jesus christ of latterday saints"
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [
+        ["bomb"],
+        ["50 grams of anfo", "anfo", "ammonium nitratefuel oil blasting agents"]
+      ]
+    }
+  ],
+  "docid": "40001"
+}

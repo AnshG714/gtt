@@ -1,1 +1,32 @@
-{"doctext": "those accused of the assassination of six jesuits will have a \" fair trial \" and if found guilty , will be punished whether they are civilians , military , or influential people , supreme court president dr ma ##uri ##cio gutierrez castro said . the technical investigation commission has determined that some military were reportedly involved in the assassination of the six jesuits and their two maids , which took place at day ##break on 16 november , as reported by president alfredo cr ##ist ##iani on 7 january . \" the local and international community can rest assured the salvador ##an judiciary system will not hesitate to enforce the law upon the authors of this horrible crime , \" dr gutierrez pointed out . gutierrez said he does not know how many people are involved or their military ranks , because the commission to investigate criminal actions is still conducting investigations and has not presented its report to the tribunal . however , general prosecutor dr ma ##uri ##cio eduardo colorado maintained that the military suspects \" are reg ##roup ##ed and have been put in custody . \" however , he did not reveal the names or the military ranks of the suspects . the prosecutor said that the scientific test conducted by the commission to investigate criminal actions and the specialized police working on this case have determined that the crime could have been per ##pet ##rated by armed forces members . \" the attorney general office will proceed according to the law and against whoever turns out to be guilty , because it is the constitutional duty of the attorney general ' s office , \" colorado said . asked about this issue , justice minister dr oscar alfredo santa ##mar ##ia , president of the commission to investigate criminal actions said : \" we understand that the most recent information on this case was announced by the president of the republic a few days ago . \" he refused to make any further statements . new uc ##a ( central american university ) rector jesuit francisco estrada admitted president alfredo cr ##ist ##iani has taken \" a step forward \" by un ##mas ##king the suspects in this crime , \" because his et ##hic principles do not tolerate such atrocities . \" estrada said he understands why cr ##ist ##iani , during his 7 january speech , did not give any names , \" because the investigations are still being conducted . \" moreover , there must not only be one suspect , but rather several . \" before meeting with the reporters , the uc ##a rector met with officials from scotland yard . a few days ago , he also met spanish , canadian , and u . s . policemen who , at the government ' s request , are assisting the salvador ##an commission in charge of clarify ##ing this case .", "pred_seq": "attack [SEP] armed members [SEP] military military [SEP] [SEP] [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["armed forces members"]], "PerpOrg": [["military"]], "Target": [], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["military", "some military", "military suspects", "armed forces members"]], "PerpOrg": [["armed forces"]], "Target": [], "Victim": [], "Weapon": []}], "docid": "30002"}
+{
+  "doctext": "those accused of the assassination of six jesuits will have a \" fair trial \" and if found guilty , will be punished whether they are civilians , military , or influential people , supreme court president dr ma ##uri ##cio gutierrez castro said . the technical investigation commission has determined that some military were reportedly involved in the assassination of the six jesuits and their two maids , which took place at day ##break on 16 november , as reported by president alfredo cr ##ist ##iani on 7 january . \" the local and international community can rest assured the salvador ##an judiciary system will not hesitate to enforce the law upon the authors of this horrible crime , \" dr gutierrez pointed out . gutierrez said he does not know how many people are involved or their military ranks , because the commission to investigate criminal actions is still conducting investigations and has not presented its report to the tribunal . however , general prosecutor dr ma ##uri ##cio eduardo colorado maintained that the military suspects \" are reg ##roup ##ed and have been put in custody . \" however , he did not reveal the names or the military ranks of the suspects . the prosecutor said that the scientific test conducted by the commission to investigate criminal actions and the specialized police working on this case have determined that the crime could have been per ##pet ##rated by armed forces members . \" the attorney general office will proceed according to the law and against whoever turns out to be guilty , because it is the constitutional duty of the attorney general ' s office , \" colorado said . asked about this issue , justice minister dr oscar alfredo santa ##mar ##ia , president of the commission to investigate criminal actions said : \" we understand that the most recent information on this case was announced by the president of the republic a few days ago . \" he refused to make any further statements . new uc ##a ( central american university ) rector jesuit francisco estrada admitted president alfredo cr ##ist ##iani has taken \" a step forward \" by un ##mas ##king the suspects in this crime , \" because his et ##hic principles do not tolerate such atrocities . \" estrada said he understands why cr ##ist ##iani , during his 7 january speech , did not give any names , \" because the investigations are still being conducted . \" moreover , there must not only be one suspect , but rather several . \" before meeting with the reporters , the uc ##a rector met with officials from scotland yard . a few days ago , he also met spanish , canadian , and u . s . policemen who , at the government ' s request , are assisting the salvador ##an commission in charge of clarify ##ing this case .",
+  "pred_seq": "attack [SEP] armed members [SEP] military military [SEP] [SEP] [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["armed forces members"]],
+      "PerpOrg": [["military"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          "military",
+          "some military",
+          "military suspects",
+          "armed forces members"
+        ]
+      ],
+      "PerpOrg": [["armed forces"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "30002"
+}

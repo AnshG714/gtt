@@ -1,1 +1,62 @@
-{"doctext": "the fm ##ln reports to our people and the people of the world the following : 1 . the massacre against the salvador ##an workers national union federation ( fen ##ast ##ras ) was planned in cold blood . the site and the moment when the fen ##ast ##ras leaders were meeting had been selected . 2 . we have trust ##worthy information from our intelligence organs that this action was ordered by colonel ponce , that cr ##ist ##iani knew about it and approved it , and that it was carried out by colonel elena fu ##ente as the head of the mor ##bid death squad of the army ' s 1st infantry brigade in response to our military attack on the army staff . this behavior by cr ##ist ##iani should surprise no one . terrorism is an old practice of the nationalist republican alliance ( arena ) . only a few days ago , arena assassins tried to kill the president of the mortgage bank , mr mason , for not following their orders . 3 . the people demand the resignation of chief of staff col emilio ponce because his responsibility in this criminal action is real . 4 . the fm ##ln has pr ##ude ##ntly taken time before adopting a definite position . the government and the armed forces have adopted an ir ##res ##pon ##sible attitude and have bra ##zen ##ly accused the fm ##ln of the crimes they commit . in view of this attitude and of the people ' s ind ##ign ##ation , we have to prevent our presence at the dialogue from being used to cover up the government ' s responsibility in this massacre and to enhance the mask of moderator and ne ##go ##tia ##tor that cr ##ist ##iani has been using to secure political support and u . s . financial support to extend the war . in san jose , speaking on its view of the war , the government said that it considers popular movements as support organizations of the fm ##ln , and therefore , as enemies of the government in the armed conflict . we demanded that the government delegation give us a list of those organizations , but to no avail . the terrorist attacks and massacre ##s are now yielding the lists that were denied to us at the dialogue table . even before the san jose meeting , the government had greatly increased its repression . since the meeting , it has increased its detention ##s and attacked the residences of leaders of the social christian people ' s movement and the ud ##n ( nationalist democratic union ) , university , fe ##cm ##asa ##n ( ms ##gr oscar ar ##nu ##lf ##o romero federation of committees of mothers and relatives ) , and fen ##ast ##ras . meanwhile , cr ##ist ##iani is maintaining his h ##yp ##oc ##rit ##ical position of mode ##ration . the massacre ##s , detention ##s , and repression of earthquake victims , the rep ##at ##riated , universities , labor unions , peasant cooperative ##s , mothers ' organizations , and other segments of the population show that the war of the armed forces , government , and arena is aimed against the people and , therefore , these groups cannot and will not remain idle . the salvador ##an people have the right to take up arms and exercise their legitimate defense . the armed people ' s and revolutionary struggle headed by the fm ##ln is just , legitimate , and necessary . ( words ind ##ist ##in ##ct ) two - faced cr ##ist ##iani administration , the fm ##ln has decided to immediately contact the dialogue observers and the church , which is the media ##tor , to demand through them guarantees for opposition civic and labor groups and a review of the current conditions of the dialogue , negotiation process , and its prospects . meanwhile , we believe that it is necessary to suspend our participation in the caracas meeting . ( signed ) fm ##ln general command : commanders salvador sanchez ce ##ren , francisco jo ##vel , sha ##fi ##k jorge hand ##al , eduardo san ##cho , and joaquin villa ##lo ##bos el salvador , 2 november 1989", "pred_seq": "attack [SEP] cr ##iani [SEP] [SEP] salvador federation [SEP] [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["cristiani"]], "PerpOrg": [], "Target": [["salvadoran workers national union federation"]], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["colonel ponce", "chief of staff col emilio ponce"], ["cristiani"], ["colonel elena fuente"], ["morbid death squad of armys 1st infantry brigade", "morbid death squad", "death squad"]], "PerpOrg": [["army", "armys 1st infantry brigade", "armed forces"], ["nationalist republican alliance", "arena", "government"]], "Target": [["salvadoran workers national union federation", "fenastras"]], "Victim": [["salvadoran workers national union federation", "fenastras"]], "Weapon": []}, {"incident_type": "attack", "PerpInd": [["arena assassins", "assassins"]], "PerpOrg": [["nationalist republican alliance", "arena"]], "Target": [], "Victim": [["mason"]], "Weapon": []}, {"incident_type": "attack", "PerpInd": [], "PerpOrg": [["government"]], "Target": [["salvadoran workers national union federation", "fenastras"], ["residences of leaders of social christian peoples movement"], ["udn", "nationalist democratic union"], ["university"], ["fecmasan", "msgr oscar arnulfo romero federation of committees of mothers and relatives"]], "Victim": [], "Weapon": []}], "docid": "30013"}
+{
+  "doctext": "the fm ##ln reports to our people and the people of the world the following : 1 . the massacre against the salvador ##an workers national union federation ( fen ##ast ##ras ) was planned in cold blood . the site and the moment when the fen ##ast ##ras leaders were meeting had been selected . 2 . we have trust ##worthy information from our intelligence organs that this action was ordered by colonel ponce , that cr ##ist ##iani knew about it and approved it , and that it was carried out by colonel elena fu ##ente as the head of the mor ##bid death squad of the army ' s 1st infantry brigade in response to our military attack on the army staff . this behavior by cr ##ist ##iani should surprise no one . terrorism is an old practice of the nationalist republican alliance ( arena ) . only a few days ago , arena assassins tried to kill the president of the mortgage bank , mr mason , for not following their orders . 3 . the people demand the resignation of chief of staff col emilio ponce because his responsibility in this criminal action is real . 4 . the fm ##ln has pr ##ude ##ntly taken time before adopting a definite position . the government and the armed forces have adopted an ir ##res ##pon ##sible attitude and have bra ##zen ##ly accused the fm ##ln of the crimes they commit . in view of this attitude and of the people ' s ind ##ign ##ation , we have to prevent our presence at the dialogue from being used to cover up the government ' s responsibility in this massacre and to enhance the mask of moderator and ne ##go ##tia ##tor that cr ##ist ##iani has been using to secure political support and u . s . financial support to extend the war . in san jose , speaking on its view of the war , the government said that it considers popular movements as support organizations of the fm ##ln , and therefore , as enemies of the government in the armed conflict . we demanded that the government delegation give us a list of those organizations , but to no avail . the terrorist attacks and massacre ##s are now yielding the lists that were denied to us at the dialogue table . even before the san jose meeting , the government had greatly increased its repression . since the meeting , it has increased its detention ##s and attacked the residences of leaders of the social christian people ' s movement and the ud ##n ( nationalist democratic union ) , university , fe ##cm ##asa ##n ( ms ##gr oscar ar ##nu ##lf ##o romero federation of committees of mothers and relatives ) , and fen ##ast ##ras . meanwhile , cr ##ist ##iani is maintaining his h ##yp ##oc ##rit ##ical position of mode ##ration . the massacre ##s , detention ##s , and repression of earthquake victims , the rep ##at ##riated , universities , labor unions , peasant cooperative ##s , mothers ' organizations , and other segments of the population show that the war of the armed forces , government , and arena is aimed against the people and , therefore , these groups cannot and will not remain idle . the salvador ##an people have the right to take up arms and exercise their legitimate defense . the armed people ' s and revolutionary struggle headed by the fm ##ln is just , legitimate , and necessary . ( words ind ##ist ##in ##ct ) two - faced cr ##ist ##iani administration , the fm ##ln has decided to immediately contact the dialogue observers and the church , which is the media ##tor , to demand through them guarantees for opposition civic and labor groups and a review of the current conditions of the dialogue , negotiation process , and its prospects . meanwhile , we believe that it is necessary to suspend our participation in the caracas meeting . ( signed ) fm ##ln general command : commanders salvador sanchez ce ##ren , francisco jo ##vel , sha ##fi ##k jorge hand ##al , eduardo san ##cho , and joaquin villa ##lo ##bos el salvador , 2 november 1989",
+  "pred_seq": "attack [SEP] cr ##iani [SEP] [SEP] salvador federation [SEP] [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["cristiani"]],
+      "PerpOrg": [],
+      "Target": [["salvadoran workers national union federation"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        ["colonel ponce", "chief of staff col emilio ponce"],
+        ["cristiani"],
+        ["colonel elena fuente"],
+        [
+          "morbid death squad of armys 1st infantry brigade",
+          "morbid death squad",
+          "death squad"
+        ]
+      ],
+      "PerpOrg": [
+        ["army", "armys 1st infantry brigade", "armed forces"],
+        ["nationalist republican alliance", "arena", "government"]
+      ],
+      "Target": [["salvadoran workers national union federation", "fenastras"]],
+      "Victim": [["salvadoran workers national union federation", "fenastras"]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["arena assassins", "assassins"]],
+      "PerpOrg": [["nationalist republican alliance", "arena"]],
+      "Target": [],
+      "Victim": [["mason"]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [["government"]],
+      "Target": [
+        ["salvadoran workers national union federation", "fenastras"],
+        ["residences of leaders of social christian peoples movement"],
+        ["udn", "nationalist democratic union"],
+        ["university"],
+        [
+          "fecmasan",
+          "msgr oscar arnulfo romero federation of committees of mothers and relatives"
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "30013"
+}

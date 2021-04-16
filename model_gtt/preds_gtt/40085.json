@@ -1,1 +1,61 @@
-{"doctext": "with the murder of two more engineers last wednesday , 7 december - - which was learned about only today in lima - - a total of six engineers have been murdered this week apparently by members of the mao ##ist shining path guerrilla movement . four engineers , including two french ##men , were murdered last sunday . according to reports , a group of terrorists last wednesday entered the locality of situ ##can ##cha , jun ##in department , in the central mountain region of peru , and gathered all the people at the main square . they forced adolf ##o sp ##ez ##ua and augusto vi ##lc ##ahu ##man out of their offices and , after a \" people ' s trial , \" shot them to death . last sunday , terrorists murdered four engineers - - two peruvian ##s and two french ##men - - who were working in an agricultural development program in the small town of a ##qui ##ra , in the southern department of ap ##uri ##mac , where shining path terrorist activity is intense . the french engineers were identified as thomas pe ##llis ##sier and co ##rine se ##gui ##n . the justice of the peace from a ##qui ##ra was also murdered . moreover , five terrorists and an army corporal were killed in a clash between terrorists and an army patrol near the locality of nan ##shu ##im ##pu ##qui ##o , 41 km from the southern city of a ##ya ##cu ##cho . november was a particularly bloody month because of the political violence that caused the death of 403 people . thirteen thousand people have been killed by shining path since the beginning of its activities in 1980 .", "pred_seq": "attack [SEP] members members thomas ##sier co ##n [SEP] shining path [SEP] [SEP] [SEP] [SEP] [unused0] attack [SEP] members members [SEP] shining path [SEP] [SEP] [SEP] [SEP] [unused0] attack [SEP] terrorists terrorists [SEP] shining path path path path path path path path path path path path path path path path path path path path path path path path [SEP] [SEP] [SEP] [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["members"], ["thomas pellissier"], ["corine seguin"]], "PerpOrg": [["shining path"]], "Target": [], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [["members"]], "PerpOrg": [["shining path"]], "Target": [], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [["terrorists"]], "PerpOrg": [["shining path"]], "Target": [], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["members of maoist shining path guerrilla movement", "group of terrorists", "terrorists"]], "PerpOrg": [["shining path"]], "Target": [], "Victim": [["adolfo spezua"], ["augusto vilcahuman"]], "Weapon": []}, {"incident_type": "attack", "PerpInd": [["members of maoist shining path guerrilla movement", "group of terrorists", "terrorists"]], "PerpOrg": [["shining path"]], "Target": [], "Victim": [["thomas pellissier"], ["corine seguin"]], "Weapon": []}], "docid": "40085"}
+{
+  "doctext": "with the murder of two more engineers last wednesday , 7 december - - which was learned about only today in lima - - a total of six engineers have been murdered this week apparently by members of the mao ##ist shining path guerrilla movement . four engineers , including two french ##men , were murdered last sunday . according to reports , a group of terrorists last wednesday entered the locality of situ ##can ##cha , jun ##in department , in the central mountain region of peru , and gathered all the people at the main square . they forced adolf ##o sp ##ez ##ua and augusto vi ##lc ##ahu ##man out of their offices and , after a \" people ' s trial , \" shot them to death . last sunday , terrorists murdered four engineers - - two peruvian ##s and two french ##men - - who were working in an agricultural development program in the small town of a ##qui ##ra , in the southern department of ap ##uri ##mac , where shining path terrorist activity is intense . the french engineers were identified as thomas pe ##llis ##sier and co ##rine se ##gui ##n . the justice of the peace from a ##qui ##ra was also murdered . moreover , five terrorists and an army corporal were killed in a clash between terrorists and an army patrol near the locality of nan ##shu ##im ##pu ##qui ##o , 41 km from the southern city of a ##ya ##cu ##cho . november was a particularly bloody month because of the political violence that caused the death of 403 people . thirteen thousand people have been killed by shining path since the beginning of its activities in 1980 .",
+  "pred_seq": "attack [SEP] members members thomas ##sier co ##n [SEP] shining path [SEP] [SEP] [SEP] [SEP] [unused0] attack [SEP] members members [SEP] shining path [SEP] [SEP] [SEP] [SEP] [unused0] attack [SEP] terrorists terrorists [SEP] shining path path path path path path path path path path path path path path path path path path path path path path path path [SEP] [SEP] [SEP] [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["members"], ["thomas pellissier"], ["corine seguin"]],
+      "PerpOrg": [["shining path"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["members"]],
+      "PerpOrg": [["shining path"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["terrorists"]],
+      "PerpOrg": [["shining path"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          "members of maoist shining path guerrilla movement",
+          "group of terrorists",
+          "terrorists"
+        ]
+      ],
+      "PerpOrg": [["shining path"]],
+      "Target": [],
+      "Victim": [["adolfo spezua"], ["augusto vilcahuman"]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          "members of maoist shining path guerrilla movement",
+          "group of terrorists",
+          "terrorists"
+        ]
+      ],
+      "PerpOrg": [["shining path"]],
+      "Target": [],
+      "Victim": [["thomas pellissier"], ["corine seguin"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "40085"
+}

@@ -1,1 +1,49 @@
-{"doctext": "attention : the manuel jose arc ##e urban command has brilliant ##ly sabotage ##d a commercial building belonging to the bourgeois ##ie in the es ##cal ##on neighborhood , causing heavy economic losses to the idle class . at least 37 businesses were destroyed . the same urban command carried out other sabotage at the ( name ind ##ist ##in ##ct ) parking lot - - specifically , in the pink zone , or actually in what should be called the red zone . other sabotage took place at the lance ##r motel near ap ##opa . in a com ##mun ##ique , the manuel jose arc ##e urban command states that on 15 september , a lengthy organizational process to create a new political - military group - - in which 25 delegation ##s representing neighborhood commands participated - - ended with the establishment of the manuel jose arc ##e urban command . the com ##mun ##ique warns the army high command , its officers , christian democratic and arena ( nationalist republican alliance ) officials , and u . s . advisers that the manuel jose arc ##e urban command is a weapon that will be used against them wherever they may be - - at home , work , and at recreation and corruption centers . in addition , their property has been declared per ##mament military targets until they stop the blood ##shed against the people . ( passage omitted ) in the past few hours , the fm ##ln ' s pedro pablo castillo urban command executed an air force officer as part of the \" murder the criminals \" operation against repression , the massacre in san vicente , and the persecution of the university community . the execution of an air force pilot officer was carried out in san salvador ' s las br ##isa ##s neighborhood . we can imagine the happiness of our people upon hearing the news that one of the criminals among criminals - - that is , one of the pilots who have bombed villages and canton ##s throughout our father ##land - - was killed as a result of revolutionary justice . from now on , bombs will not only explode in the villages of cha ##late ##nan ##go , cab ##ana ##s , us ##ulu ##tan , mora ##zan , and northern san miguel ; more powerful bombs will now explode more frequently in the es ##cal ##on and san benito neighborhoods , that is , in the neighborhoods of the rich , in their recreation centers , mansions , and wherever else they may go .", "pred_seq": "attack [SEP] manuel command [SEP] manuel command [SEP] commercial building [SEP] [SEP] [SEP] [unused0] attack [SEP] pedro command [SEP] [SEP] lance motel businesses businesses [SEP] [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["manuel jose arce urban command"]], "PerpOrg": [["manuel jose arce urban command"]], "Target": [["commercial building"]], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [["pedro pablo castillo urban command"]], "PerpOrg": [], "Target": [["lancer motel"], ["businesses"]], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [["manuel jose arce urban command"]], "Target": [["commercial building"], ["businesses"]], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [], "PerpOrg": [["manuel jose arce urban command"]], "Target": [["parking lot"]], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [], "PerpOrg": [["manuel jose arce urban command"]], "Target": [["lancer motel"]], "Victim": [], "Weapon": []}], "docid": "40040"}
+{
+  "doctext": "attention : the manuel jose arc ##e urban command has brilliant ##ly sabotage ##d a commercial building belonging to the bourgeois ##ie in the es ##cal ##on neighborhood , causing heavy economic losses to the idle class . at least 37 businesses were destroyed . the same urban command carried out other sabotage at the ( name ind ##ist ##in ##ct ) parking lot - - specifically , in the pink zone , or actually in what should be called the red zone . other sabotage took place at the lance ##r motel near ap ##opa . in a com ##mun ##ique , the manuel jose arc ##e urban command states that on 15 september , a lengthy organizational process to create a new political - military group - - in which 25 delegation ##s representing neighborhood commands participated - - ended with the establishment of the manuel jose arc ##e urban command . the com ##mun ##ique warns the army high command , its officers , christian democratic and arena ( nationalist republican alliance ) officials , and u . s . advisers that the manuel jose arc ##e urban command is a weapon that will be used against them wherever they may be - - at home , work , and at recreation and corruption centers . in addition , their property has been declared per ##mament military targets until they stop the blood ##shed against the people . ( passage omitted ) in the past few hours , the fm ##ln ' s pedro pablo castillo urban command executed an air force officer as part of the \" murder the criminals \" operation against repression , the massacre in san vicente , and the persecution of the university community . the execution of an air force pilot officer was carried out in san salvador ' s las br ##isa ##s neighborhood . we can imagine the happiness of our people upon hearing the news that one of the criminals among criminals - - that is , one of the pilots who have bombed villages and canton ##s throughout our father ##land - - was killed as a result of revolutionary justice . from now on , bombs will not only explode in the villages of cha ##late ##nan ##go , cab ##ana ##s , us ##ulu ##tan , mora ##zan , and northern san miguel ; more powerful bombs will now explode more frequently in the es ##cal ##on and san benito neighborhoods , that is , in the neighborhoods of the rich , in their recreation centers , mansions , and wherever else they may go .",
+  "pred_seq": "attack [SEP] manuel command [SEP] manuel command [SEP] commercial building [SEP] [SEP] [SEP] [unused0] attack [SEP] pedro command [SEP] [SEP] lance motel businesses businesses [SEP] [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["manuel jose arce urban command"]],
+      "PerpOrg": [["manuel jose arce urban command"]],
+      "Target": [["commercial building"]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["pedro pablo castillo urban command"]],
+      "PerpOrg": [],
+      "Target": [["lancer motel"], ["businesses"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [["manuel jose arce urban command"]],
+      "Target": [["commercial building"], ["businesses"]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [["manuel jose arce urban command"]],
+      "Target": [["parking lot"]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [["manuel jose arce urban command"]],
+      "Target": [["lancer motel"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "40040"
+}

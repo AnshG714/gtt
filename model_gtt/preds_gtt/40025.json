@@ -1,1 +1,16 @@
-{"doctext": "two soldiers and a rebel were killed in skirmish ##es around the country in the past few hours . military reports state that a national guard officer was killed while fighting an fm ##ln attack near ju ##cu ##apa . another report indicates that the authorities have identified the corpse of policeman david diaz co ##rte ##z , who was killed at day ##break today in a skirmish by rebels against such ##ito ##to military . a rebel was killed during a skirmish with the army near te ##col ##uca , san vicente department . finally , the armed forces reported that the fm ##ln on wednesday destroyed ant ##el ( national administration for telecommunications ) installations in san francisco china ##me ##ca , la paz department .", "pred_seq": "[CLS]", "pred_templates": [], "gold_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [["fmln"]], "Target": [], "Victim": [], "Weapon": []}], "docid": "40025"}
+{
+  "doctext": "two soldiers and a rebel were killed in skirmish ##es around the country in the past few hours . military reports state that a national guard officer was killed while fighting an fm ##ln attack near ju ##cu ##apa . another report indicates that the authorities have identified the corpse of policeman david diaz co ##rte ##z , who was killed at day ##break today in a skirmish by rebels against such ##ito ##to military . a rebel was killed during a skirmish with the army near te ##col ##uca , san vicente department . finally , the armed forces reported that the fm ##ln on wednesday destroyed ant ##el ( national administration for telecommunications ) installations in san francisco china ##me ##ca , la paz department .",
+  "pred_seq": "[CLS]",
+  "pred_templates": [],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [["fmln"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "40025"
+}

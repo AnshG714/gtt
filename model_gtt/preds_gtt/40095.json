@@ -1,1 +1,25 @@
-{"doctext": "a suspected guerrilla was killed in a fierce clash between rebels and government troops early tuesday morning ( 20 dec ) in santa ana , 66 km west of san salvador . according to military sources , about 200 guerrillas from the felicia ##no ama front took up positions on the outskirts of the city and opened fire on the garrison ##s of the 2d infantry brigade and the national guard . they did not damage the garrison ##s or in ##flict any casualties . ( passage omitted ) while the rebels attacked the garrison ##s , another group attacked the ce ##l ( le ##mp ##a river hydroelectric executive commission ) san luis sub ##station , 3 km north of santa ana . they caused minor damage to the control room with explosives . this plant distribute ##s all of the electricity for the country ' s western area , so the damage was repaired under the supervision of ce ##l engineers . ( passage omitted )", "pred_seq": "attack [SEP] 200 guerrillas guerrillas [SEP] felicia front [SEP] control room [SEP] [SEP] explosives explosives explosives explosives explosives [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] attack attack attack attack attack attack [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["200 guerrillas"]], "PerpOrg": [["feliciano ama front"]], "Target": [["control room"]], "Victim": [], "Weapon": [["explosives"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["rebels", "another group"]], "PerpOrg": [], "Target": [], "Victim": [], "Weapon": [["explosives"]]}], "docid": "40095"}
+{
+  "doctext": "a suspected guerrilla was killed in a fierce clash between rebels and government troops early tuesday morning ( 20 dec ) in santa ana , 66 km west of san salvador . according to military sources , about 200 guerrillas from the felicia ##no ama front took up positions on the outskirts of the city and opened fire on the garrison ##s of the 2d infantry brigade and the national guard . they did not damage the garrison ##s or in ##flict any casualties . ( passage omitted ) while the rebels attacked the garrison ##s , another group attacked the ce ##l ( le ##mp ##a river hydroelectric executive commission ) san luis sub ##station , 3 km north of santa ana . they caused minor damage to the control room with explosives . this plant distribute ##s all of the electricity for the country ' s western area , so the damage was repaired under the supervision of ce ##l engineers . ( passage omitted )",
+  "pred_seq": "attack [SEP] 200 guerrillas guerrillas [SEP] felicia front [SEP] control room [SEP] [SEP] explosives explosives explosives explosives explosives [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] attack attack attack attack attack attack [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["200 guerrillas"]],
+      "PerpOrg": [["feliciano ama front"]],
+      "Target": [["control room"]],
+      "Victim": [],
+      "Weapon": [["explosives"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["rebels", "another group"]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": [["explosives"]]
+    }
+  ],
+  "docid": "40095"
+}

@@ -1,1 +1,7 @@
-{"doctext": "the political - military command has issued a com ##mun ##ique reporting that three terrorists have died and four were arrested in an armed clash between an army patrol and a terrorist column . the com ##mun ##ique says that a few days ago a group of terrorists clashed with the army in the chi ##l ##hua region , la mar province , a ##ya ##cu ##cho department . some terrorists were detained and put at the disposal of the san miguel police station .", "pred_seq": "[CLS]", "pred_templates": [], "gold_templates": [], "docid": "40036"}
+{
+  "doctext": "the political - military command has issued a com ##mun ##ique reporting that three terrorists have died and four were arrested in an armed clash between an army patrol and a terrorist column . the com ##mun ##ique says that a few days ago a group of terrorists clashed with the army in the chi ##l ##hua region , la mar province , a ##ya ##cu ##cho department . some terrorists were detained and put at the disposal of the san miguel police station .",
+  "pred_seq": "[CLS]",
+  "pred_templates": [],
+  "gold_templates": [],
+  "docid": "40036"
+}

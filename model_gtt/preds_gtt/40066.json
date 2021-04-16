@@ -1,1 +1,25 @@
-{"doctext": "luz leon , patriotic union ( up ) council ##woman for meta department , was seriously wounded today during an attack in villa ##vic ##en ##cio in which her husband , par ##men ##ides cue ##nca , was killed . the murderers have not yet been identified .", "pred_seq": "attack [SEP] [SEP] [SEP] [SEP] luz leon par ##nca [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [], "Victim": [["luz leon"], ["parmenides cuenca"]], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [], "Victim": [["luz leon"], ["parmenides cuenca"]], "Weapon": []}], "docid": "40066"}
+{
+  "doctext": "luz leon , patriotic union ( up ) council ##woman for meta department , was seriously wounded today during an attack in villa ##vic ##en ##cio in which her husband , par ##men ##ides cue ##nca , was killed . the murderers have not yet been identified .",
+  "pred_seq": "attack [SEP] [SEP] [SEP] [SEP] luz leon par ##nca [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["luz leon"], ["parmenides cuenca"]],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["luz leon"], ["parmenides cuenca"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "40066"
+}

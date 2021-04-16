@@ -1,1 +1,60 @@
-{"doctext": "official sources have reported blackout ##s in many parts of the country because of guerrillas sa ##bot ##aging the electric power system during the night of 31 may and the morning of 1 june . according to a military bulletin , the guerrillas destroyed 12 electric poles and 2 power p ##yl ##ons in the central and western parts of the country in less than 12 hours . in the eastern part of the country , the le ##mp ##a river hydroelectric executive commission ( ce ##l ) reported that one of the country ' s main power lines was out of service on the morning of 1 june because a number of p ##yl ##ons were destroyed . the armed forces press committee ( cop ##re ##fa ) reported that on the morning of 1 june guerrillas , using mortar ##s and rifles , attacked a ce ##l sub - station in the nat ##iv ##idad canton in the western department of santa ana . there were no casualties , but the guerrillas had damaged a transform ##er . on the morning of 1 june , there was a blackout throughout most of the capital caused by urban commandos of the far ##ab ##und ##o mart ##i national liberation front ( fm ##ln ) . the guerrillas have increased their activity on the first anniversary of president alfredo cr ##ist ##iani ' s government . cristina ##i is scheduled to address the nation on 1 june to comment on his first year in office . the army has increased its patrols aided by helicopters that over ##fly the capital city . cop ##re ##fa reported that one soldier was killed and seven were wounded on 1 june during an ambush of a military convoy near tex ##iste ##pe ##que , west of san salvador . according to cop ##re ##fa , another soldier was wounded in a guerrilla ambush against the elite bra ##cam ##onte battalion on a highway in central el salvador .", "pred_seq": "attack [SEP] guerrillas guerrillas [SEP] far front [SEP] electric system [SEP] [SEP] mortar ##s rifles rifles [SEP] [unused0] attack [SEP] guerrillas guerrillas [SEP] far front [SEP] power ##ons [SEP] [SEP] [SEP] [unused0] attack [SEP] urban commandos [SEP] fm ##ln [SEP] transform ##er rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["guerrillas"]], "PerpOrg": [["farabundo marti national liberation front"]], "Target": [["electric power system"]], "Victim": [], "Weapon": [["mortars"], ["rifles"]]}, {"incident_type": "attack", "PerpInd": [["guerrillas"]], "PerpOrg": [["farabundo marti national liberation front"]], "Target": [["power pylons"]], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [["urban commandos"]], "PerpOrg": [["fmln"]], "Target": [["transformer"], ["rifles"]], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["guerrillas", "urban commandos", "urban commandos of farabundo marti national liberation front fmln", "urban commandos of farabundo marti national liberation front"]], "PerpOrg": [["farabundo marti national liberation front", "fmln"]], "Target": [["electric poles"], ["power pylons", "pylons"], ["power pylons", "pylons"]], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [["guerrillas"]], "PerpOrg": [["farabundo marti national liberation front", "fmln"]], "Target": [["cel substation"], ["transformer"]], "Victim": [], "Weapon": [["mortars"], ["rifles"]]}], "docid": "30099"}
+{
+  "doctext": "official sources have reported blackout ##s in many parts of the country because of guerrillas sa ##bot ##aging the electric power system during the night of 31 may and the morning of 1 june . according to a military bulletin , the guerrillas destroyed 12 electric poles and 2 power p ##yl ##ons in the central and western parts of the country in less than 12 hours . in the eastern part of the country , the le ##mp ##a river hydroelectric executive commission ( ce ##l ) reported that one of the country ' s main power lines was out of service on the morning of 1 june because a number of p ##yl ##ons were destroyed . the armed forces press committee ( cop ##re ##fa ) reported that on the morning of 1 june guerrillas , using mortar ##s and rifles , attacked a ce ##l sub - station in the nat ##iv ##idad canton in the western department of santa ana . there were no casualties , but the guerrillas had damaged a transform ##er . on the morning of 1 june , there was a blackout throughout most of the capital caused by urban commandos of the far ##ab ##und ##o mart ##i national liberation front ( fm ##ln ) . the guerrillas have increased their activity on the first anniversary of president alfredo cr ##ist ##iani ' s government . cristina ##i is scheduled to address the nation on 1 june to comment on his first year in office . the army has increased its patrols aided by helicopters that over ##fly the capital city . cop ##re ##fa reported that one soldier was killed and seven were wounded on 1 june during an ambush of a military convoy near tex ##iste ##pe ##que , west of san salvador . according to cop ##re ##fa , another soldier was wounded in a guerrilla ambush against the elite bra ##cam ##onte battalion on a highway in central el salvador .",
+  "pred_seq": "attack [SEP] guerrillas guerrillas [SEP] far front [SEP] electric system [SEP] [SEP] mortar ##s rifles rifles [SEP] [unused0] attack [SEP] guerrillas guerrillas [SEP] far front [SEP] power ##ons [SEP] [SEP] [SEP] [unused0] attack [SEP] urban commandos [SEP] fm ##ln [SEP] transform ##er rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles rifles [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["guerrillas"]],
+      "PerpOrg": [["farabundo marti national liberation front"]],
+      "Target": [["electric power system"]],
+      "Victim": [],
+      "Weapon": [["mortars"], ["rifles"]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["guerrillas"]],
+      "PerpOrg": [["farabundo marti national liberation front"]],
+      "Target": [["power pylons"]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["urban commandos"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [["transformer"], ["rifles"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          "guerrillas",
+          "urban commandos",
+          "urban commandos of farabundo marti national liberation front fmln",
+          "urban commandos of farabundo marti national liberation front"
+        ]
+      ],
+      "PerpOrg": [["farabundo marti national liberation front", "fmln"]],
+      "Target": [
+        ["electric poles"],
+        ["power pylons", "pylons"],
+        ["power pylons", "pylons"]
+      ],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["guerrillas"]],
+      "PerpOrg": [["farabundo marti national liberation front", "fmln"]],
+      "Target": [["cel substation"], ["transformer"]],
+      "Victim": [],
+      "Weapon": [["mortars"], ["rifles"]]
+    }
+  ],
+  "docid": "30099"
+}

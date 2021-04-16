@@ -1,1 +1,36 @@
-{"doctext": "a powerful bomb hidden in a truck exploded outside the headquarters of colombia ' s secret police wednesday , causing severe damage , bogota mayor andres past ##rana said . early reports said several people were killed and injured . mr . past ##rana said the bomb exploded outside the building of the secret police , known from the spanish initials as das ( administrative department of security ) , in western bogota at 7 : 35 a . m . the nearby offices of the bogota transportation department were also damaged , he said .", "pred_seq": "bombing [SEP] [SEP] [SEP] headquarters police police [SEP] [SEP] bomb bomb [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["headquarters of colombia s secret police"]], "Victim": [], "Weapon": [["bomb"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["headquarters of colombias secret police", "building of secret police", "das", "administrative department of security"], ["nearby offices of bogota transportation department", "offices of bogota transportation department"]], "Victim": [], "Weapon": [["powerful bomb hidden in truck", "bomb hidden in truck"]]}], "docid": "30073"}
+{
+  "doctext": "a powerful bomb hidden in a truck exploded outside the headquarters of colombia ' s secret police wednesday , causing severe damage , bogota mayor andres past ##rana said . early reports said several people were killed and injured . mr . past ##rana said the bomb exploded outside the building of the secret police , known from the spanish initials as das ( administrative department of security ) , in western bogota at 7 : 35 a . m . the nearby offices of the bogota transportation department were also damaged , he said .",
+  "pred_seq": "bombing [SEP] [SEP] [SEP] headquarters police police [SEP] [SEP] bomb bomb [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["headquarters of colombia s secret police"]],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        [
+          "headquarters of colombias secret police",
+          "building of secret police",
+          "das",
+          "administrative department of security"
+        ],
+        [
+          "nearby offices of bogota transportation department",
+          "offices of bogota transportation department"
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [["powerful bomb hidden in truck", "bomb hidden in truck"]]
+    }
+  ],
+  "docid": "30073"
+}

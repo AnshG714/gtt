@@ -1,1 +1,33 @@
-{"doctext": "approximately 1 , 000 people demonstrated today at the bu ##rgos main square ( central ) to ask the spanish government to media ##te in the salvador ##an conflict , and in barcelona ( northeastern ) , a demonstration to express support for the salvador ##an people has been scheduled for 22 november . the demonstrators , con ##vo ##ked by the solidarity with latin america committee , verbal ##ly attacked salvador ##an president alfredo cr ##ist ##iani and have asked the spanish government to offer itself as a media ##tor to promote an end the armed conflict . some of the people who attended the demonstration , which was held without incidents , carried pl ##aca ##rts den ##oun ##cing the killing of six jesuit priests - - five of whom were spanish citizens - - and two salvador ##an women at the central american university . meanwhile , civic organizations , student associations , labor unions , and political parties in cat ##al ##una have scheduled a demonstration in support of the salvador ##an people to be held in barcelona on 22 november . these organizations , which have formed an emergency committee , have opened an account at the \" la cai ##xa \" savings bank where economic donations are being accepted to help the salvador ##an people . in a manifesto released , the committee demands an end to the bombing of civilians , the immediate evacuation of the wounded , and an end to attacks against the union headquarters and leaders . likewise , the committee has demanded an end to u . s . intervention in el salvador and that the guatemala ##n and hon ##dur ##an armies refrain from participating in the conflict . \" we ask the spanish government institutions and the ee ##c to pressure the salvador ##an government to begin a real negotiation that will an end to the conflict and its causes , the manifesto states .", "pred_seq": "attack [SEP] [SEP] [SEP] [SEP] alfredo ##iani [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [], "Victim": [["alfredo cristiani"]], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [["union headquarters"]], "Victim": [], "Weapon": []}], "docid": "30065"}
+{
+  "doctext": "approximately 1 , 000 people demonstrated today at the bu ##rgos main square ( central ) to ask the spanish government to media ##te in the salvador ##an conflict , and in barcelona ( northeastern ) , a demonstration to express support for the salvador ##an people has been scheduled for 22 november . the demonstrators , con ##vo ##ked by the solidarity with latin america committee , verbal ##ly attacked salvador ##an president alfredo cr ##ist ##iani and have asked the spanish government to offer itself as a media ##tor to promote an end the armed conflict . some of the people who attended the demonstration , which was held without incidents , carried pl ##aca ##rts den ##oun ##cing the killing of six jesuit priests - - five of whom were spanish citizens - - and two salvador ##an women at the central american university . meanwhile , civic organizations , student associations , labor unions , and political parties in cat ##al ##una have scheduled a demonstration in support of the salvador ##an people to be held in barcelona on 22 november . these organizations , which have formed an emergency committee , have opened an account at the \" la cai ##xa \" savings bank where economic donations are being accepted to help the salvador ##an people . in a manifesto released , the committee demands an end to the bombing of civilians , the immediate evacuation of the wounded , and an end to attacks against the union headquarters and leaders . likewise , the committee has demanded an end to u . s . intervention in el salvador and that the guatemala ##n and hon ##dur ##an armies refrain from participating in the conflict . \" we ask the spanish government institutions and the ee ##c to pressure the salvador ##an government to begin a real negotiation that will an end to the conflict and its causes , the manifesto states .",
+  "pred_seq": "attack [SEP] [SEP] [SEP] [SEP] alfredo ##iani [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["alfredo cristiani"]],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["union headquarters"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "30065"
+}

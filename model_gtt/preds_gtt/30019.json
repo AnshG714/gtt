@@ -1,1 +1,25 @@
-{"doctext": "oil will not be pumped through the can ##o limo ##n - coven ##as pipeline again until 30 may , because it was again blown up today near ur ##um municipality , norte de santa ##nder department .", "pred_seq": "bombing [SEP] [SEP] [SEP] can pipeline [SEP] [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["cano limoncovenas pipeline"]], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["cano limoncovenas pipeline", "pipeline"]], "Victim": [], "Weapon": []}], "docid": "30019"}
+{
+  "doctext": "oil will not be pumped through the can ##o limo ##n - coven ##as pipeline again until 30 may , because it was again blown up today near ur ##um municipality , norte de santa ##nder department .",
+  "pred_seq": "bombing [SEP] [SEP] [SEP] can pipeline [SEP] [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["cano limoncovenas pipeline"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["cano limoncovenas pipeline", "pipeline"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "30019"
+}

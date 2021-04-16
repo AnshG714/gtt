@@ -1,1 +1,33 @@
-{"doctext": "the commander of military detachment no 4 today reported today the discovery of 22 dead guerrillas in mora ##zan department . according to colonel roman alfonso barre ##ra , the bodies were found near os ##ical ##a following a search operation after an fm ##ln attack on army positions in that area . meanwhile , three guerrillas were killed yesterday during a clash with the 3d brigade from chi ##ril ##ig ##ua , san gerard ##o , in san miguel department . this morning , insurgents der ##ailed a train in the soy ##apa ##ngo jurisdiction . fen ##ades ##al ( salvador ##an national railroad ) spoke ##sm ##en said the incident took place at the km 249 point on the railway line where the train was der ##ailed by a clay ##more mine . there were no casualties .", "pred_seq": "attack [SEP] guerrillas guerrillas [SEP] fm ##ln [SEP] train train [SEP] [SEP] clay mine [SEP] [unused0] attack [SEP] guerrillas guerrillas guerrillas guerrillas [SEP] [SEP] train train train train [SEP] [SEP] clay mine [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["guerrillas"]], "PerpOrg": [["fmln"]], "Target": [["train"]], "Victim": [], "Weapon": [["claymore mine"]]}, {"incident_type": "attack", "PerpInd": [["guerrillas"]], "PerpOrg": [], "Target": [["train"]], "Victim": [], "Weapon": [["claymore mine"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["guerrillas", "insurgents"]], "PerpOrg": [["fmln"]], "Target": [["train"]], "Victim": [], "Weapon": [["claymore mine", "mine"]]}], "docid": "40081"}
+{
+  "doctext": "the commander of military detachment no 4 today reported today the discovery of 22 dead guerrillas in mora ##zan department . according to colonel roman alfonso barre ##ra , the bodies were found near os ##ical ##a following a search operation after an fm ##ln attack on army positions in that area . meanwhile , three guerrillas were killed yesterday during a clash with the 3d brigade from chi ##ril ##ig ##ua , san gerard ##o , in san miguel department . this morning , insurgents der ##ailed a train in the soy ##apa ##ngo jurisdiction . fen ##ades ##al ( salvador ##an national railroad ) spoke ##sm ##en said the incident took place at the km 249 point on the railway line where the train was der ##ailed by a clay ##more mine . there were no casualties .",
+  "pred_seq": "attack [SEP] guerrillas guerrillas [SEP] fm ##ln [SEP] train train [SEP] [SEP] clay mine [SEP] [unused0] attack [SEP] guerrillas guerrillas guerrillas guerrillas [SEP] [SEP] train train train train [SEP] [SEP] clay mine [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["guerrillas"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [["train"]],
+      "Victim": [],
+      "Weapon": [["claymore mine"]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["guerrillas"]],
+      "PerpOrg": [],
+      "Target": [["train"]],
+      "Victim": [],
+      "Weapon": [["claymore mine"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["guerrillas", "insurgents"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [["train"]],
+      "Victim": [],
+      "Weapon": [["claymore mine", "mine"]]
+    }
+  ],
+  "docid": "40081"
+}

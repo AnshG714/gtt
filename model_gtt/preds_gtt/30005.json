@@ -1,1 +1,25 @@
-{"doctext": "salvador ##an social democratic politician hector o ##quel ##i colin ##dre ##s was kidnapped today in guatemala city , his party reported in mexico city . o ##quel ##i colin ##dre ##s is the secretary of the national revolutionary movement ( mn ##r ) . the mn ##r is directed by guillermo un ##go . o ##quel ##i is also socialist international secretary for latin america . in a com ##mun ##ique , the mn ##r said o ##quel ##i had arrived in guatemala on 11 january and was planning to travel today to nicaragua as a member of a socialist international delegation . the com ##mun ##ique adds that o ##quel ##i colin ##dre ##s was kidnapped between 06 ##30 and 07 ##00 by heavily armed men while on his way to the airport along with guatemala ##n social democratic leader gil ##da flores , who was also kidnapped . o ##quel ##i , who returned last year to el salvador after a long exile in mexico , where he represented the far ##ab ##und ##o mart ##i national liberation front and the revolutionary democratic front ( fm ##ln - f ##dr ) political - diplomatic commission .", "pred_seq": "kidnapping [SEP] heavily men [SEP] [SEP] [SEP] hector ##s gil flores [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "kidnapping", "PerpInd": [["heavily armed men"]], "PerpOrg": [], "Target": [], "Victim": [["hector oqueli colindres"], ["gilda flores"]], "Weapon": []}], "gold_templates": [{"incident_type": "kidnapping", "PerpInd": [["heavily armed men"]], "PerpOrg": [], "Target": [], "Victim": [["hector oqueli colindres"], ["gilda flores"]], "Weapon": []}], "docid": "30005"}
+{
+  "doctext": "salvador ##an social democratic politician hector o ##quel ##i colin ##dre ##s was kidnapped today in guatemala city , his party reported in mexico city . o ##quel ##i colin ##dre ##s is the secretary of the national revolutionary movement ( mn ##r ) . the mn ##r is directed by guillermo un ##go . o ##quel ##i is also socialist international secretary for latin america . in a com ##mun ##ique , the mn ##r said o ##quel ##i had arrived in guatemala on 11 january and was planning to travel today to nicaragua as a member of a socialist international delegation . the com ##mun ##ique adds that o ##quel ##i colin ##dre ##s was kidnapped between 06 ##30 and 07 ##00 by heavily armed men while on his way to the airport along with guatemala ##n social democratic leader gil ##da flores , who was also kidnapped . o ##quel ##i , who returned last year to el salvador after a long exile in mexico , where he represented the far ##ab ##und ##o mart ##i national liberation front and the revolutionary democratic front ( fm ##ln - f ##dr ) political - diplomatic commission .",
+  "pred_seq": "kidnapping [SEP] heavily men [SEP] [SEP] [SEP] hector ##s gil flores [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [["heavily armed men"]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["hector oqueli colindres"], ["gilda flores"]],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [["heavily armed men"]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["hector oqueli colindres"], ["gilda flores"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "30005"
+}

@@ -1,1 +1,28 @@
-{"doctext": "twenty - six people , four of whom are policemen , were injured in a bomb explosion that occurred before dawn on 30 october . the bomb was placed in a dance hall in a ##ya ##cu ##cho , a city located south of lima . the local press today reported that the police have attributed the attack to terrorists who used a home - made bomb called \" russian cheese . \" this bomb is made up of powder , tack ##s , pieces of iron , and steel wire . it explodes when it touches the floor . a ##ya ##cu ##cho was the site of a similar explosion on 3 july when several unidentified people hurled explosives at a dance hall where the music group \" los sha ##pis \" was playing . the \" los sha ##pis \" music group has received death threats from the \" shining path \" guerrilla group because the latter believes \" los sha ##pis \" play alien ##ating music . according to police sources , the \" shining path , \" which began its activities in a ##ya ##cu ##cho in may 1980 , is responsible for the death of about 12 , 000 people and material losses estimated at $ 10 billion .", "pred_seq": "bombing [SEP] terrorists terrorists [SEP] shining path [SEP] dance hall [SEP] [SEP] bomb bomb russian cheese [SEP] [unused0] attack [SEP] unidentified people people people people people people people people people people [SEP] shining path [SEP] dance hall [SEP] [SEP] bomb bomb bomb bomb russian cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [["terrorists"]], "PerpOrg": [["shining path"]], "Target": [["dance hall"]], "Victim": [], "Weapon": [["bomb"], ["russian cheese"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["terrorists"]], "PerpOrg": [["shining path"]], "Target": [["dance hall"]], "Victim": [], "Weapon": [["bomb", "homemade bomb called russian cheese", "homemade bomb"], ["powder"]]}], "docid": "40058"}
+{
+  "doctext": "twenty - six people , four of whom are policemen , were injured in a bomb explosion that occurred before dawn on 30 october . the bomb was placed in a dance hall in a ##ya ##cu ##cho , a city located south of lima . the local press today reported that the police have attributed the attack to terrorists who used a home - made bomb called \" russian cheese . \" this bomb is made up of powder , tack ##s , pieces of iron , and steel wire . it explodes when it touches the floor . a ##ya ##cu ##cho was the site of a similar explosion on 3 july when several unidentified people hurled explosives at a dance hall where the music group \" los sha ##pis \" was playing . the \" los sha ##pis \" music group has received death threats from the \" shining path \" guerrilla group because the latter believes \" los sha ##pis \" play alien ##ating music . according to police sources , the \" shining path , \" which began its activities in a ##ya ##cu ##cho in may 1980 , is responsible for the death of about 12 , 000 people and material losses estimated at $ 10 billion .",
+  "pred_seq": "bombing [SEP] terrorists terrorists [SEP] shining path [SEP] dance hall [SEP] [SEP] bomb bomb russian cheese [SEP] [unused0] attack [SEP] unidentified people people people people people people people people people people [SEP] shining path [SEP] dance hall [SEP] [SEP] bomb bomb bomb bomb russian cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["terrorists"]],
+      "PerpOrg": [["shining path"]],
+      "Target": [["dance hall"]],
+      "Victim": [],
+      "Weapon": [["bomb"], ["russian cheese"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["terrorists"]],
+      "PerpOrg": [["shining path"]],
+      "Target": [["dance hall"]],
+      "Victim": [],
+      "Weapon": [
+        ["bomb", "homemade bomb called russian cheese", "homemade bomb"],
+        ["powder"]
+      ]
+    }
+  ],
+  "docid": "40058"
+}

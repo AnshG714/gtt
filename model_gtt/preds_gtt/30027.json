@@ -1,1 +1,27 @@
-{"doctext": "dani ##lo bari ##llas , former guatemala ##n ambassador to spain and leader of the ruling christian democratic party ( pd ##c ) , was killed today by unidentified individuals in this capital , the police reported . according to official reports , bari ##llas was heading downtown from his home in southern guatemala city when he was intercepted by a group of unidentified individuals , who shot him down with machine ##gun fire . the police said that so far the identities of the attackers are unknown . this is the first pd ##c leader killed since president vin ##icio ce ##re ##zo assumed power in january 1986 .", "pred_seq": "attack [SEP] unidentified individuals [SEP] [SEP] [SEP] dani ##llas [SEP] machine ##gun [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["unidentified individuals"]], "PerpOrg": [], "Target": [], "Victim": [["danilo barillas"]], "Weapon": [["machinegun"]]}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["unidentified individuals", "group of unidentified individuals"]], "PerpOrg": [], "Target": [], "Victim": [["danilo barillas"]], "Weapon": [["machinegun"]]}], "docid": "30027"}
+{
+  "doctext": "dani ##lo bari ##llas , former guatemala ##n ambassador to spain and leader of the ruling christian democratic party ( pd ##c ) , was killed today by unidentified individuals in this capital , the police reported . according to official reports , bari ##llas was heading downtown from his home in southern guatemala city when he was intercepted by a group of unidentified individuals , who shot him down with machine ##gun fire . the police said that so far the identities of the attackers are unknown . this is the first pd ##c leader killed since president vin ##icio ce ##re ##zo assumed power in january 1986 .",
+  "pred_seq": "attack [SEP] unidentified individuals [SEP] [SEP] [SEP] dani ##llas [SEP] machine ##gun [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["unidentified individuals"]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["danilo barillas"]],
+      "Weapon": [["machinegun"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        ["unidentified individuals", "group of unidentified individuals"]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["danilo barillas"]],
+      "Weapon": [["machinegun"]]
+    }
+  ],
+  "docid": "30027"
+}

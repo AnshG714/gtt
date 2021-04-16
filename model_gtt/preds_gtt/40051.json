@@ -1,1 +1,32 @@
-{"doctext": "dear listeners , we regret to inform you that at approximately 04 ##00 this morning , four masked individuals stabbed pi ##sco deputy prefect carlos soto se ##dice to death . the criminals per ##pet ##rated this condemn ##able murder on the second floor of soto ' s house and threw the body down the stairs to the first floor . pi ##sco residents , who are deeply moved , have strongly condemned this horrible crime . soto is the second outstanding apr ##a leader to be killed in pi ##sco . on 7 december 1987 , professor carlos med ##rano va ##zquez , who won election by a landslide , was riddle ##d with bullets . the body of soto has been taken to the pi ##sco central mor ##gue . ( passage omitted )", "pred_seq": "attack [SEP] four individuals [SEP] [SEP] [SEP] carlos ##dice [SEP] [SEP] [unused0] attack [SEP] four individuals individuals individuals individuals individuals individuals individuals individuals individuals individuals [SEP] [SEP] [SEP] carlos ##zquez ##zquez ##zquez ##zquez ##zquez ##zquez ##zquez ##zquez ##zquez ##zquez carlos ##zquez carlos ##zquez carlos ##zquez carlos ##zquez carlos ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["four masked individuals"]], "PerpOrg": [], "Target": [], "Victim": [["carlos soto sedice"]], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["four masked individuals", "masked individuals", "individuals", "criminals"]], "PerpOrg": [], "Target": [], "Victim": [["carlos soto sedice"]], "Weapon": []}], "docid": "40051"}
+{
+  "doctext": "dear listeners , we regret to inform you that at approximately 04 ##00 this morning , four masked individuals stabbed pi ##sco deputy prefect carlos soto se ##dice to death . the criminals per ##pet ##rated this condemn ##able murder on the second floor of soto ' s house and threw the body down the stairs to the first floor . pi ##sco residents , who are deeply moved , have strongly condemned this horrible crime . soto is the second outstanding apr ##a leader to be killed in pi ##sco . on 7 december 1987 , professor carlos med ##rano va ##zquez , who won election by a landslide , was riddle ##d with bullets . the body of soto has been taken to the pi ##sco central mor ##gue . ( passage omitted )",
+  "pred_seq": "attack [SEP] four individuals [SEP] [SEP] [SEP] carlos ##dice [SEP] [SEP] [unused0] attack [SEP] four individuals individuals individuals individuals individuals individuals individuals individuals individuals individuals [SEP] [SEP] [SEP] carlos ##zquez ##zquez ##zquez ##zquez ##zquez ##zquez ##zquez ##zquez ##zquez ##zquez carlos ##zquez carlos ##zquez carlos ##zquez carlos ##zquez carlos ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano ##rano [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["four masked individuals"]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["carlos soto sedice"]],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          "four masked individuals",
+          "masked individuals",
+          "individuals",
+          "criminals"
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["carlos soto sedice"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "40051"
+}

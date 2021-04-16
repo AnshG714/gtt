@@ -1,1 +1,33 @@
-{"doctext": "the police have reported in hua ##nca ##yo , located 315 km east of lima , that alleged terrorists today killed dolores hi ##nos ##tro ##za , the mayor of mu ##l ##qui district . hi ##nos ##tro ##za , who was at home , was shot five times . hi ##nos ##tro ##za ' s children told police that four hooded individuals broke into the house and shot their mother after having insulted her . the killers also shouted slogan ##s supporting the armed struggle . dolores hi ##nos ##tro ##za , 48 years old , did not belong to any political party . she is the second woman mayor killed this week by alleged commando groups of the mao ##ist shining path .", "pred_seq": "attack [SEP] four individuals [SEP] shining path [SEP] [SEP] dolores ##za [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["four hooded individuals"]], "PerpOrg": [["shining path"]], "Target": [], "Victim": [["dolores hinostroza"]], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["four hooded individuals", "hooded individuals"], ["alleged commando groups", "alleged commando groups of maoist shining path", "commando groups", "commando groups of maoist shining path"]], "PerpOrg": [["shining path"]], "Target": [], "Victim": [["dolores hinostroza"]], "Weapon": []}], "docid": "30022"}
+{
+  "doctext": "the police have reported in hua ##nca ##yo , located 315 km east of lima , that alleged terrorists today killed dolores hi ##nos ##tro ##za , the mayor of mu ##l ##qui district . hi ##nos ##tro ##za , who was at home , was shot five times . hi ##nos ##tro ##za ' s children told police that four hooded individuals broke into the house and shot their mother after having insulted her . the killers also shouted slogan ##s supporting the armed struggle . dolores hi ##nos ##tro ##za , 48 years old , did not belong to any political party . she is the second woman mayor killed this week by alleged commando groups of the mao ##ist shining path .",
+  "pred_seq": "attack [SEP] four individuals [SEP] shining path [SEP] [SEP] dolores ##za [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["four hooded individuals"]],
+      "PerpOrg": [["shining path"]],
+      "Target": [],
+      "Victim": [["dolores hinostroza"]],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        ["four hooded individuals", "hooded individuals"],
+        [
+          "alleged commando groups",
+          "alleged commando groups of maoist shining path",
+          "commando groups",
+          "commando groups of maoist shining path"
+        ]
+      ],
+      "PerpOrg": [["shining path"]],
+      "Target": [],
+      "Victim": [["dolores hinostroza"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "30022"
+}

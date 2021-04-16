@@ -1,1 +1,51 @@
-{"doctext": "six guerrillas of a still unidentified group died today in a skirmish with army troops in more ##lia , ca ##quet ##a department . meanwhile , in ciudad bolivar , anti ##o ##qui ##a department , insurgents apparently belonging to the national liberation army placed a bomb in the city ' s administrative offices and also destroyed four farms , causing approximately 100 million pe ##sos in damage .", "pred_seq": "bombing [SEP] insurgents insurgents [SEP] national army [SEP] administrative offices farms farms [SEP] [SEP] bomb bomb [SEP] [unused0] bombing [SEP] insurgents insurgents [SEP] national army [SEP] farms farms [SEP] [SEP] bomb bomb [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [["insurgents"]], "PerpOrg": [["national liberation army"]], "Target": [["administrative offices"], ["farms"]], "Victim": [], "Weapon": [["bomb"]]}, {"incident_type": "bombing", "PerpInd": [["insurgents"]], "PerpOrg": [["national liberation army"]], "Target": [["farms"]], "Victim": [], "Weapon": [["bomb"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["insurgents apparently belonging to national liberation army", "insurgents"]], "PerpOrg": [["national liberation army"]], "Target": [["citys administrative offices"], ["farms"]], "Victim": [], "Weapon": [["bomb"]]}, {"incident_type": "attack / bombing", "PerpInd": [["insurgents apparently belonging to national liberation army", "insurgents"]], "PerpOrg": [["national liberation army"]], "Target": [["farms"]], "Victim": [], "Weapon": [["bomb"]]}], "docid": "40054"}
+{
+  "doctext": "six guerrillas of a still unidentified group died today in a skirmish with army troops in more ##lia , ca ##quet ##a department . meanwhile , in ciudad bolivar , anti ##o ##qui ##a department , insurgents apparently belonging to the national liberation army placed a bomb in the city ' s administrative offices and also destroyed four farms , causing approximately 100 million pe ##sos in damage .",
+  "pred_seq": "bombing [SEP] insurgents insurgents [SEP] national army [SEP] administrative offices farms farms [SEP] [SEP] bomb bomb [SEP] [unused0] bombing [SEP] insurgents insurgents [SEP] national army [SEP] farms farms [SEP] [SEP] bomb bomb [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["insurgents"]],
+      "PerpOrg": [["national liberation army"]],
+      "Target": [["administrative offices"], ["farms"]],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["insurgents"]],
+      "PerpOrg": [["national liberation army"]],
+      "Target": [["farms"]],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          "insurgents apparently belonging to national liberation army",
+          "insurgents"
+        ]
+      ],
+      "PerpOrg": [["national liberation army"]],
+      "Target": [["citys administrative offices"], ["farms"]],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    },
+    {
+      "incident_type": "attack / bombing",
+      "PerpInd": [
+        [
+          "insurgents apparently belonging to national liberation army",
+          "insurgents"
+        ]
+      ],
+      "PerpOrg": [["national liberation army"]],
+      "Target": [["farms"]],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    }
+  ],
+  "docid": "40054"
+}

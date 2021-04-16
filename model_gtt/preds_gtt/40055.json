@@ -1,1 +1,25 @@
-{"doctext": "members of the bomb squad have dea ##ct ##ivated a powerful bomb planted at the andres ave ##lino ca ##cer ##es park , where president alan garcia was due to participate in the commemoration of the battle of tara ##pac ##a .", "pred_seq": "bombing [SEP] members squad [SEP] [SEP] andres park [SEP] [SEP] bomb bomb [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [["members of bomb squad"]], "PerpOrg": [], "Target": [["andres avelino caceres park"]], "Victim": [], "Weapon": [["bomb"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["andres avelino caceres park"]], "Victim": [["alan garcia"]], "Weapon": [["bomb", "powerful bomb"]]}], "docid": "40055"}
+{
+  "doctext": "members of the bomb squad have dea ##ct ##ivated a powerful bomb planted at the andres ave ##lino ca ##cer ##es park , where president alan garcia was due to participate in the commemoration of the battle of tara ##pac ##a .",
+  "pred_seq": "bombing [SEP] members squad [SEP] [SEP] andres park [SEP] [SEP] bomb bomb [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["members of bomb squad"]],
+      "PerpOrg": [],
+      "Target": [["andres avelino caceres park"]],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["andres avelino caceres park"]],
+      "Victim": [["alan garcia"]],
+      "Weapon": [["bomb", "powerful bomb"]]
+    }
+  ],
+  "docid": "40055"
+}

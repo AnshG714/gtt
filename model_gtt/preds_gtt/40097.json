@@ -1,1 +1,25 @@
-{"doctext": "this morning , three bombs destroyed a checkpoint that was being built in santa fe , anti ##o ##qui ##a department , at a place known as pas ##eo real . according to the authorities , the losses exceed 3 million pe ##sos .", "pred_seq": "bombing [SEP] [SEP] [SEP] a checkpoint checkpoint [SEP] [SEP] three bombs [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["checkpoint"]], "Victim": [], "Weapon": [["three bombs"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["checkpoint"]], "Victim": [], "Weapon": [["three bombs", "bombs"]]}], "docid": "40097"}
+{
+  "doctext": "this morning , three bombs destroyed a checkpoint that was being built in santa fe , anti ##o ##qui ##a department , at a place known as pas ##eo real . according to the authorities , the losses exceed 3 million pe ##sos .",
+  "pred_seq": "bombing [SEP] [SEP] [SEP] a checkpoint checkpoint [SEP] [SEP] three bombs [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["checkpoint"]],
+      "Victim": [],
+      "Weapon": [["three bombs"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["checkpoint"]],
+      "Victim": [],
+      "Weapon": [["three bombs", "bombs"]]
+    }
+  ],
+  "docid": "40097"
+}

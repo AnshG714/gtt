@@ -1,1 +1,25 @@
-{"doctext": "justice minister roberto salazar will try to secure u . s . aid to be used for protecting colombian justices . yesterday , the minister unexpectedly traveled to new york , where he will meet with u . s . officials and try to speed up the delivery of aid which the united states had promised to former colombian justice minister monica de gr ##ei ##ff . minister salazar will return home this week to find a definitive solution to the strike declared by justice branch employees as a result of the murder of a med ##elli ##n judge and of two justice ministry employees in valle del ca ##uca .", "pred_seq": "attack [SEP] [SEP] [SEP] [SEP] [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [], "Victim": [], "Weapon": []}], "docid": "30051"}
+{
+  "doctext": "justice minister roberto salazar will try to secure u . s . aid to be used for protecting colombian justices . yesterday , the minister unexpectedly traveled to new york , where he will meet with u . s . officials and try to speed up the delivery of aid which the united states had promised to former colombian justice minister monica de gr ##ei ##ff . minister salazar will return home this week to find a definitive solution to the strike declared by justice branch employees as a result of the murder of a med ##elli ##n judge and of two justice ministry employees in valle del ca ##uca .",
+  "pred_seq": "attack [SEP] [SEP] [SEP] [SEP] [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "30051"
+}

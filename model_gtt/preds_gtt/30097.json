@@ -1,1 +1,53 @@
-{"doctext": "guerrilla groups have reported 185 salvador ##an armed forces casualties during clashes which occurred in the last few hours in six of the country ' s 14 departments , but the army claims that it only sustained 48 casualties in those clashes . according to radio far ##ab ##und ##o mart ##i , a radio station of the guerrilla group , the casualties were sustained by the armed forces in clashes which occurred on 1 and 2 may and early this morning when several ambush ##es , attacks , and sabotage aimed at the economy were carried out in several places throughout the country . radio far ##ab ##und ##o mart ##i has reported that the military actions , the largest since the rebel offensive in november 1989 , which resulted in thousands of casualties , is part of the \" with the workers and for democracy \" military campaign . the far ##ab ##und ##o mart ##i national liberation front ( fm ##ln ) , which does not give details on its casualties , has said that the armed forces sustained 30 casualties in il ##ob ##asco , cab ##ana ##s department , located approximately 55 km from san salvador . nevertheless , according to military reports issued eight hours after the clashes in that town , the armed forces killed 11 guerrilla members and sustained six casualties . radio far ##ab ##und ##o mart ##i has also reported that the gu ##er ##ril ##a forces caused 28 army casualties in clashes on 2 may in la laguna , cha ##late ##nan ##go department , located approximately 90 km north of san salvador . the armed forces press committee ( cop ##re ##fa ) admitted that the government troops sustained 11 casualties in these clashes , adding that they inflicted three casualties on the rebels . cop ##re ##fa also reported that 26 houses were damaged . cop ##re ##fa also reports that military actions have occurred in cab ##ana ##s , la li ##bert ##ad , cha ##late ##nan ##go , santa ana , la li ##bert ##ad , and san salvador departments during the past two days . in some places the electrical systems were sabotage ##d , causing long blackout ##s . the guerrilla forces ' general command issued a com ##mun ##ique in san salvador on 2 may , stating that the military actions are in response to \" the triumphant and arrogant attitude of the government and the military , for the fm ##ln ' s alleged weakness , which pre ##cl ##udes the negotiation process . \" the com ##mun ##ique re ##asse ##rts their willingness to continue the negotiation process with the government to end a war which has lasted more than a decade . the negotiation process is being undertaken with the mediation of un secretary general javier perez de cue ##llar . perez de cue ##llar ' s special envoy , alvaro de soto , arrived in san salvador on 2 may as part of the negotiations . he met with president alfredo cr ##ist ##iani and the national dialogue commission today , and later he will meet with other leaders . guillermo un ##go , secretary general of the social democratic national revolutionary movement ( mn ##r ) , told ac ##an - e ##fe that opposition leaders could \" possibly \" meet with fm ##ln delegates in mexico city to learn their views concerning the negotiations . \" the meeting will have an open agenda so that everyone ' s position can be heard and so that the role of the political parties in the negotiations can be determined , \" un ##go said .", "pred_seq": "attack [SEP] guerrilla groups [SEP] far front [SEP] houses houses [SEP] [SEP] [SEP] [unused0] attack [SEP] guerrilla groups [SEP] far front [SEP] houses houses [SEP] [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["guerrilla groups"]], "PerpOrg": [["farabundo marti national liberation front"]], "Target": [["houses"]], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [["guerrilla groups"]], "PerpOrg": [["farabundo marti national liberation front"]], "Target": [["houses"]], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["guerrilla groups", "guerrilla group", "guerrilla members", "guerrila forces", "rebels"], ["government troops"]], "PerpOrg": [["armed forces", "army"], ["farabundo marti national liberation front", "fmln"]], "Target": [["houses"]], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [["electrical systems"]], "Victim": [], "Weapon": []}], "docid": "30097"}
+{
+  "doctext": "guerrilla groups have reported 185 salvador ##an armed forces casualties during clashes which occurred in the last few hours in six of the country ' s 14 departments , but the army claims that it only sustained 48 casualties in those clashes . according to radio far ##ab ##und ##o mart ##i , a radio station of the guerrilla group , the casualties were sustained by the armed forces in clashes which occurred on 1 and 2 may and early this morning when several ambush ##es , attacks , and sabotage aimed at the economy were carried out in several places throughout the country . radio far ##ab ##und ##o mart ##i has reported that the military actions , the largest since the rebel offensive in november 1989 , which resulted in thousands of casualties , is part of the \" with the workers and for democracy \" military campaign . the far ##ab ##und ##o mart ##i national liberation front ( fm ##ln ) , which does not give details on its casualties , has said that the armed forces sustained 30 casualties in il ##ob ##asco , cab ##ana ##s department , located approximately 55 km from san salvador . nevertheless , according to military reports issued eight hours after the clashes in that town , the armed forces killed 11 guerrilla members and sustained six casualties . radio far ##ab ##und ##o mart ##i has also reported that the gu ##er ##ril ##a forces caused 28 army casualties in clashes on 2 may in la laguna , cha ##late ##nan ##go department , located approximately 90 km north of san salvador . the armed forces press committee ( cop ##re ##fa ) admitted that the government troops sustained 11 casualties in these clashes , adding that they inflicted three casualties on the rebels . cop ##re ##fa also reported that 26 houses were damaged . cop ##re ##fa also reports that military actions have occurred in cab ##ana ##s , la li ##bert ##ad , cha ##late ##nan ##go , santa ana , la li ##bert ##ad , and san salvador departments during the past two days . in some places the electrical systems were sabotage ##d , causing long blackout ##s . the guerrilla forces ' general command issued a com ##mun ##ique in san salvador on 2 may , stating that the military actions are in response to \" the triumphant and arrogant attitude of the government and the military , for the fm ##ln ' s alleged weakness , which pre ##cl ##udes the negotiation process . \" the com ##mun ##ique re ##asse ##rts their willingness to continue the negotiation process with the government to end a war which has lasted more than a decade . the negotiation process is being undertaken with the mediation of un secretary general javier perez de cue ##llar . perez de cue ##llar ' s special envoy , alvaro de soto , arrived in san salvador on 2 may as part of the negotiations . he met with president alfredo cr ##ist ##iani and the national dialogue commission today , and later he will meet with other leaders . guillermo un ##go , secretary general of the social democratic national revolutionary movement ( mn ##r ) , told ac ##an - e ##fe that opposition leaders could \" possibly \" meet with fm ##ln delegates in mexico city to learn their views concerning the negotiations . \" the meeting will have an open agenda so that everyone ' s position can be heard and so that the role of the political parties in the negotiations can be determined , \" un ##go said .",
+  "pred_seq": "attack [SEP] guerrilla groups [SEP] far front [SEP] houses houses [SEP] [SEP] [SEP] [unused0] attack [SEP] guerrilla groups [SEP] far front [SEP] houses houses [SEP] [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["guerrilla groups"]],
+      "PerpOrg": [["farabundo marti national liberation front"]],
+      "Target": [["houses"]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["guerrilla groups"]],
+      "PerpOrg": [["farabundo marti national liberation front"]],
+      "Target": [["houses"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          "guerrilla groups",
+          "guerrilla group",
+          "guerrilla members",
+          "guerrila forces",
+          "rebels"
+        ],
+        ["government troops"]
+      ],
+      "PerpOrg": [
+        ["armed forces", "army"],
+        ["farabundo marti national liberation front", "fmln"]
+      ],
+      "Target": [["houses"]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["electrical systems"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "30097"
+}

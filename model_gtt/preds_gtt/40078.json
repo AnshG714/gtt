@@ -1,1 +1,73 @@
-{"doctext": "the army has reported that it inflicted 208 guerrilla casualties during clashes in november . meanwhile , the fm ##ln rebels have said they inflicted 99 ##1 casualties on the army - - including dead and wounded - - as a result of their attacks , harassment , and ambush ##es during the same period . the military report says 93 fm ##ln guerrillas were killed and 115 wounded as a result of nationwide counter ##ins ##urg ##ency military operations during the month of november . the report added that during the same period , the army confiscated 105 high - caliber rifles , 2 m - 60 machine ##gun ##s , 20 revolver ##s of various caliber ##s , more than 55 , 000 cartridges , 168 fragmentation grenades , 236 mines , 9 communication radios , and a large amount of material for homemade bombs . the military report added that during the month of november , guerrillas killed 43 peasants , kidnapped 32 , and caused the death of 6 people and crippled 23 others as a result of mine explosions . in the war against public property - - the pillar of a war economy - - the military source reported that six mayor ##ial offices and six national administration for telecommunications offices were damaged in various towns and six junction boxes were sabotage ##d . in addition , 4 trains belonging to the salvador ##an national railroad , fen ##ades ##al , were blown up , and 10 vehicles and 5 buses were partially damaged . regarding damage to the electricity system , the fm ##ln knocked down 46 towers and 136 high - tension power poles and damaged 11 transformers .", "pred_seq": "bombing [SEP] [SEP] [SEP] electricity system high poles buses buses buses [SEP] [SEP] [SEP] [unused0] bombing [SEP] guerrillas guerrillas [SEP] [SEP] mayor offices national offices [SEP] [SEP] homemade bombs [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["electricity system"], ["hightension power poles"], ["buses"]], "Victim": [], "Weapon": []}, {"incident_type": "bombing", "PerpInd": [["guerrillas"]], "PerpOrg": [], "Target": [["mayorial offices"], ["national administration for telecommunications offices"]], "Victim": [], "Weapon": [["homemade bombs"]]}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["fmln rebels", "rebels", "fmln guerrillas", "guerrillas"]], "PerpOrg": [["fmln"]], "Target": [["mayorial offices"], ["national administration for telecommunications offices"], ["junction boxes"], ["vehicles"], ["buses"], ["towers"], ["hightension power poles", "power poles"], ["transformers"]], "Victim": [], "Weapon": []}, {"incident_type": "kidnapping", "PerpInd": [["fmln rebels", "rebels", "fmln guerrillas", "guerrillas"]], "PerpOrg": [["fmln"]], "Target": [], "Victim": [], "Weapon": []}, {"incident_type": "bombing", "PerpInd": [["fmln rebels", "rebels", "fmln guerrillas", "guerrillas"]], "PerpOrg": [["fmln"]], "Target": [["trains belonging to salvadoran national railroad fenadesal", "trains belonging to salvadoran national railroad", "trains"], ["vehicles"], ["buses"]], "Victim": [], "Weapon": [["mine"]]}], "docid": "40078"}
+{
+  "doctext": "the army has reported that it inflicted 208 guerrilla casualties during clashes in november . meanwhile , the fm ##ln rebels have said they inflicted 99 ##1 casualties on the army - - including dead and wounded - - as a result of their attacks , harassment , and ambush ##es during the same period . the military report says 93 fm ##ln guerrillas were killed and 115 wounded as a result of nationwide counter ##ins ##urg ##ency military operations during the month of november . the report added that during the same period , the army confiscated 105 high - caliber rifles , 2 m - 60 machine ##gun ##s , 20 revolver ##s of various caliber ##s , more than 55 , 000 cartridges , 168 fragmentation grenades , 236 mines , 9 communication radios , and a large amount of material for homemade bombs . the military report added that during the month of november , guerrillas killed 43 peasants , kidnapped 32 , and caused the death of 6 people and crippled 23 others as a result of mine explosions . in the war against public property - - the pillar of a war economy - - the military source reported that six mayor ##ial offices and six national administration for telecommunications offices were damaged in various towns and six junction boxes were sabotage ##d . in addition , 4 trains belonging to the salvador ##an national railroad , fen ##ades ##al , were blown up , and 10 vehicles and 5 buses were partially damaged . regarding damage to the electricity system , the fm ##ln knocked down 46 towers and 136 high - tension power poles and damaged 11 transformers .",
+  "pred_seq": "bombing [SEP] [SEP] [SEP] electricity system high poles buses buses buses [SEP] [SEP] [SEP] [unused0] bombing [SEP] guerrillas guerrillas [SEP] [SEP] mayor offices national offices [SEP] [SEP] homemade bombs [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        ["electricity system"],
+        ["hightension power poles"],
+        ["buses"]
+      ],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["guerrillas"]],
+      "PerpOrg": [],
+      "Target": [
+        ["mayorial offices"],
+        ["national administration for telecommunications offices"]
+      ],
+      "Victim": [],
+      "Weapon": [["homemade bombs"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["fmln rebels", "rebels", "fmln guerrillas", "guerrillas"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [
+        ["mayorial offices"],
+        ["national administration for telecommunications offices"],
+        ["junction boxes"],
+        ["vehicles"],
+        ["buses"],
+        ["towers"],
+        ["hightension power poles", "power poles"],
+        ["transformers"]
+      ],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [["fmln rebels", "rebels", "fmln guerrillas", "guerrillas"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["fmln rebels", "rebels", "fmln guerrillas", "guerrillas"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [
+        [
+          "trains belonging to salvadoran national railroad fenadesal",
+          "trains belonging to salvadoran national railroad",
+          "trains"
+        ],
+        ["vehicles"],
+        ["buses"]
+      ],
+      "Victim": [],
+      "Weapon": [["mine"]]
+    }
+  ],
+  "docid": "40078"
+}

@@ -1,1 +1,27 @@
-{"doctext": "a judge has ordered the release of former captain alvaro san ##ab ##ria , who is implicated in the assassination of ms ##gr oscar ar ##nu ##lf ##o romero , because of contradictory statements by a key witness . court sources have explained , however , that the constitutional court will now have to decide whether or not to accept the ac ##qui ##ttal of the soldier . the decision issued by justice romeo aurora ac ##qui ##tting and ordering the release of the former captain was made , according to the document , because ama ##do antonio ga ##ray reyes - - the alleged driver of the person who assassinated ms ##gr romero - - cannot be considered a reliable witness . the judgement presented to the constitutional court notes that this witness has made statements that contra ##dict testimony he gave at the 4th criminal court 7 years after the crime was committed . for this reason , the judge , based on articles 49 ##7 and 49 ##8 of the penal code and article 53 of the constitutional procedures law has ruled that there is no merit for arresting the military man , who has been tried in absent ##ia . however , court officials have explained that this document issued by judge aurora is only a report on his ruling , which according to the law can be either revoked or confirmed by the constitutional court . for this reason , this decision is not being viewed as a final ruling . ( passage omitted )", "pred_seq": "attack [SEP] ama reyes ama reyes ama reyes [SEP] [SEP] [SEP] oscar romero [SEP] [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["amado antonio garay reyes"]], "PerpOrg": [], "Target": [], "Victim": [["oscar arnulfo romero"]], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["former captain alvaro sanabria", "captain alvaro sanabria"]], "PerpOrg": [], "Target": [], "Victim": [["oscar arnulfo romero"]], "Weapon": []}], "docid": "40013"}
+{
+  "doctext": "a judge has ordered the release of former captain alvaro san ##ab ##ria , who is implicated in the assassination of ms ##gr oscar ar ##nu ##lf ##o romero , because of contradictory statements by a key witness . court sources have explained , however , that the constitutional court will now have to decide whether or not to accept the ac ##qui ##ttal of the soldier . the decision issued by justice romeo aurora ac ##qui ##tting and ordering the release of the former captain was made , according to the document , because ama ##do antonio ga ##ray reyes - - the alleged driver of the person who assassinated ms ##gr romero - - cannot be considered a reliable witness . the judgement presented to the constitutional court notes that this witness has made statements that contra ##dict testimony he gave at the 4th criminal court 7 years after the crime was committed . for this reason , the judge , based on articles 49 ##7 and 49 ##8 of the penal code and article 53 of the constitutional procedures law has ruled that there is no merit for arresting the military man , who has been tried in absent ##ia . however , court officials have explained that this document issued by judge aurora is only a report on his ruling , which according to the law can be either revoked or confirmed by the constitutional court . for this reason , this decision is not being viewed as a final ruling . ( passage omitted )",
+  "pred_seq": "attack [SEP] ama reyes ama reyes ama reyes [SEP] [SEP] [SEP] oscar romero [SEP] [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["amado antonio garay reyes"]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["oscar arnulfo romero"]],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        ["former captain alvaro sanabria", "captain alvaro sanabria"]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["oscar arnulfo romero"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "40013"
+}

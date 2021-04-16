@@ -1,1 +1,41 @@
-{"doctext": "two terrorist attacks were carried out in lima last night . the lima agrarian unit ( un ##idad agra ##ria de lima ) and the economy ministry were the targets of the insane terrorist actions . a powerful bomb exploded in the front of departmental agrarian unit no 6 , located on block no 5 of uruguay avenue . the attack came at approximately 223 ##0 last night . members of the civil guard , the republican guard anti ##ex ##pl ##osi ##ves brigade , and the peruvian investigative police went to the site of the explosion . the members of the republican guard anti ##ex ##pl ##osi ##ves brigade are investigating to determine the magnitude of the bomb used in this attack . ( recorded passage omitted ) the economy and finance ministry building was another target of the terrorists ' actions this evening . the terrorists planted a bomb inside a vehicle belonging to em ##ol enter ##o . the bomb went off at approximately 223 ##0 . ( recorded passage omitted )", "pred_seq": "bombing [SEP] terrorists terrorists [SEP] [SEP] lima unit [SEP] [SEP] powerful bomb [SEP] [unused0] bombing [SEP] terrorists terrorists [SEP] [SEP] economy building finance building finance building finance building finance building finance building finance building finance building [SEP] [SEP] bomb bomb bomb bomb [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [["terrorists"]], "PerpOrg": [], "Target": [["lima agrarian unit"]], "Victim": [], "Weapon": [["powerful bomb"]]}, {"incident_type": "bombing", "PerpInd": [["terrorists"]], "PerpOrg": [], "Target": [["economy and finance ministry building"]], "Victim": [], "Weapon": [["bomb"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["terrorists"]], "PerpOrg": [], "Target": [["lima agrarian unit", "unidad agraria de lima", "departmental agrarian unit no 6"], ["economy ministry", "economy and finance ministry building"], ["vehicle belonging to emol entero", "vehicle"]], "Victim": [], "Weapon": [["powerful bomb", "bomb"], ["bomb"]]}], "docid": "40019"}
+{
+  "doctext": "two terrorist attacks were carried out in lima last night . the lima agrarian unit ( un ##idad agra ##ria de lima ) and the economy ministry were the targets of the insane terrorist actions . a powerful bomb exploded in the front of departmental agrarian unit no 6 , located on block no 5 of uruguay avenue . the attack came at approximately 223 ##0 last night . members of the civil guard , the republican guard anti ##ex ##pl ##osi ##ves brigade , and the peruvian investigative police went to the site of the explosion . the members of the republican guard anti ##ex ##pl ##osi ##ves brigade are investigating to determine the magnitude of the bomb used in this attack . ( recorded passage omitted ) the economy and finance ministry building was another target of the terrorists ' actions this evening . the terrorists planted a bomb inside a vehicle belonging to em ##ol enter ##o . the bomb went off at approximately 223 ##0 . ( recorded passage omitted )",
+  "pred_seq": "bombing [SEP] terrorists terrorists [SEP] [SEP] lima unit [SEP] [SEP] powerful bomb [SEP] [unused0] bombing [SEP] terrorists terrorists [SEP] [SEP] economy building finance building finance building finance building finance building finance building finance building finance building [SEP] [SEP] bomb bomb bomb bomb [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["terrorists"]],
+      "PerpOrg": [],
+      "Target": [["lima agrarian unit"]],
+      "Victim": [],
+      "Weapon": [["powerful bomb"]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["terrorists"]],
+      "PerpOrg": [],
+      "Target": [["economy and finance ministry building"]],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["terrorists"]],
+      "PerpOrg": [],
+      "Target": [
+        [
+          "lima agrarian unit",
+          "unidad agraria de lima",
+          "departmental agrarian unit no 6"
+        ],
+        ["economy ministry", "economy and finance ministry building"],
+        ["vehicle belonging to emol entero", "vehicle"]
+      ],
+      "Victim": [],
+      "Weapon": [["powerful bomb", "bomb"], ["bomb"]]
+    }
+  ],
+  "docid": "40019"
+}

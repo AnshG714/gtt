@@ -1,1 +1,25 @@
-{"doctext": "it was officially announced today that mayor hector are ##val ##o of the ruling christian democratic party ( pd ##c ) , who was elected mayor in a town in san vicente department last march , resigned because of death threats from salvador ##an guerrillas . are ##val ##o is the first mayor to resign as a result of fm ##ln threats . the fm ##ln claims mayors are part of the counter ##ins ##urg ##ency plan conducted by the salvador ##an army . are ##val ##o , 39 , was reportedly threatened with death by the guerrillas , who also ordered him to leave the town of santa clara , 65 km east of san salvador . after announcing his resignation , are ##val ##o said : \" i want to live and to feel un ##tain ##ted . i do not want to have enemies . i have a wife and children who need me . \" are ##val ##o said , however , that he cannot leave santa clara , a town of approximately 10 , 000 people , because he cannot afford to do so . the fm ##ln also claims that in many towns in northern and eastern el salvador , an area over which it claims to have more control than the army , there are two power centers : one is the guerrilla movement , and the other is the government . the fm ##ln has stated that it will not allow the government to control that region . thus far this year , the fm ##ln has killed eight pd ##c and right ##ist nationalist republican alliance mayors in santa ana , mora ##zan , san miguel , and us ##ulu ##tan departments . the catholic church and the salvador ##an political parties have condemned the murder of these government officials .", "pred_seq": "attack [SEP] salvador guerrillas [SEP] fm ##ln [SEP] [SEP] hector ##o [SEP] [SEP] [unused0] attack [SEP] salvador guerrillas guerrillas guerrillas guerrillas guerrillas guerrillas [SEP] fm ##ln ##ln ##ln ##ln ##ln ##ln ##ln ##ln [SEP] [SEP] [SEP] hector ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["salvadoran guerrillas"]], "PerpOrg": [["fmln"]], "Target": [], "Victim": [["hector arevalo"]], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["salvadoran guerrillas", "guerrillas"]], "PerpOrg": [["fmln"]], "Target": [], "Victim": [["hector arevalo"]], "Weapon": []}], "docid": "40086"}
+{
+  "doctext": "it was officially announced today that mayor hector are ##val ##o of the ruling christian democratic party ( pd ##c ) , who was elected mayor in a town in san vicente department last march , resigned because of death threats from salvador ##an guerrillas . are ##val ##o is the first mayor to resign as a result of fm ##ln threats . the fm ##ln claims mayors are part of the counter ##ins ##urg ##ency plan conducted by the salvador ##an army . are ##val ##o , 39 , was reportedly threatened with death by the guerrillas , who also ordered him to leave the town of santa clara , 65 km east of san salvador . after announcing his resignation , are ##val ##o said : \" i want to live and to feel un ##tain ##ted . i do not want to have enemies . i have a wife and children who need me . \" are ##val ##o said , however , that he cannot leave santa clara , a town of approximately 10 , 000 people , because he cannot afford to do so . the fm ##ln also claims that in many towns in northern and eastern el salvador , an area over which it claims to have more control than the army , there are two power centers : one is the guerrilla movement , and the other is the government . the fm ##ln has stated that it will not allow the government to control that region . thus far this year , the fm ##ln has killed eight pd ##c and right ##ist nationalist republican alliance mayors in santa ana , mora ##zan , san miguel , and us ##ulu ##tan departments . the catholic church and the salvador ##an political parties have condemned the murder of these government officials .",
+  "pred_seq": "attack [SEP] salvador guerrillas [SEP] fm ##ln [SEP] [SEP] hector ##o [SEP] [SEP] [unused0] attack [SEP] salvador guerrillas guerrillas guerrillas guerrillas guerrillas guerrillas [SEP] fm ##ln ##ln ##ln ##ln ##ln ##ln ##ln ##ln [SEP] [SEP] [SEP] hector ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o ##o [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["salvadoran guerrillas"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [],
+      "Victim": [["hector arevalo"]],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["salvadoran guerrillas", "guerrillas"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [],
+      "Victim": [["hector arevalo"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "40086"
+}

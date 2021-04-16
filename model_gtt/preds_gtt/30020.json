@@ -1,1 +1,32 @@
-{"doctext": "la paz department police authorities have disclosed that investigations into the murder of two young u . s . citizens are being conducted by a specialized group ( not further identified ) summoned specially to clarify this crime . colonel armando santa ##gor ##da , in a statement to pan ##americana , said that his group is supported by the chief of police , who has given precise instructions for all policemen to cooperate in the investigations . moreover , he said that he knew nothing about the arrival in the past few hours of specialized u . s . policemen , allegedly here to cooperate in the investigations that , so far , are under the command and responsibility of the bolivian police forces . however , santa ##gor ##da asserted that the institution , in compliance with international agreements , is in permanent contact with police forces of other countries through inter ##pol . he said that regarding the case of the murdered u . s . citizens , the police are also exchanging information because the incident is of an international nature . he said that he based his declaration ##s on the preliminary information obtained shortly after the crime . santa ##gor ##da said that four peruvian ##s suspects are currently being investigated , and they will have to justify their presence in bolivia .", "pred_seq": "attack [SEP] [SEP] [SEP] [SEP] [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["four peruvians suspects", "four peruvians", "peruvians suspects", "peruvians"]], "PerpOrg": [], "Target": [], "Victim": [], "Weapon": []}], "docid": "30020"}
+{
+  "doctext": "la paz department police authorities have disclosed that investigations into the murder of two young u . s . citizens are being conducted by a specialized group ( not further identified ) summoned specially to clarify this crime . colonel armando santa ##gor ##da , in a statement to pan ##americana , said that his group is supported by the chief of police , who has given precise instructions for all policemen to cooperate in the investigations . moreover , he said that he knew nothing about the arrival in the past few hours of specialized u . s . policemen , allegedly here to cooperate in the investigations that , so far , are under the command and responsibility of the bolivian police forces . however , santa ##gor ##da asserted that the institution , in compliance with international agreements , is in permanent contact with police forces of other countries through inter ##pol . he said that regarding the case of the murdered u . s . citizens , the police are also exchanging information because the incident is of an international nature . he said that he based his declaration ##s on the preliminary information obtained shortly after the crime . santa ##gor ##da said that four peruvian ##s suspects are currently being investigated , and they will have to justify their presence in bolivia .",
+  "pred_seq": "attack [SEP] [SEP] [SEP] [SEP] [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          "four peruvians suspects",
+          "four peruvians",
+          "peruvians suspects",
+          "peruvians"
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "30020"
+}

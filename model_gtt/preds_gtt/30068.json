@@ -1,1 +1,51 @@
-{"doctext": "the rebel commanders who directed the occupation of several san salvador neighborhoods last week , today headed the seizure of the she ##rat ##on hotel , where o ##as secretary general joao bae ##na so ##ares was trapped for more than 8 hours . news ##men who entered the hotel this afternoon during the evacuation of bae ##na by diplomats were able to confirm that commander ami ##lc ##ar , known as \" el cho ##co , \" who directed the combat operations in the zac ##ami ##l neighborhood , was seen today on the third floor of the she ##rat ##on hotel . several rebels have said that fa ##cu ##ndo guard ##ado ( \" commander este ##ban \" ) , one of the founders of the far ##ab ##und ##o mart ##i national liberation front and one of the leaders of the offensive that began in the capital on 11 november , is somewhere near the hotel . according to the rebels , guard ##ado expected to initiate this afternoon ' s \" negotiations \" with the manager of the hotel , robert newell . several u . s . military advisers , as well as one from guatemala and another one from chile remain in the hands of the rebels . el cho ##co said : \" we can resist for as long as we have to . all they can do is bomb the place and let us see if they are willing to do that . \" according to the young guerrilla commander , the rebel withdrawal from the zac ##ami ##l , cu ##sca ##tan ##cing ##o , and me ##jic ##ano ##s neighborhoods , among others , \" was part of the plan \" that was completed today with the arrival at the she ##rat ##on hotel area . the rebel said : \" we have come here today , to the es ##cal ##on colony , to their area , the area of the bourgeois ##ie , to see if they do here what they did with the people , who were hurt by the air force bombing operations . \" at 04 ##30 ( 103 ##0 gm ##t ) today , the fm ##ln guerrillas initiated heavy fighting around the she ##rat ##on hotel , where o ##as secretary general joao bae ##na so ##ares was staying . bae ##na so ##ares was evacuated from the she ##rat ##on hotel to the headquarters of the armed forces staff where he met with the \" highest salvador ##an authorities , \" according to diplomatic and military sources . this afternoon , the guerrillas are still occupying several floors of the hotel , which has bullet holes , destroyed windows , and broken furniture all over the floor . the area has been surrounded by light armored tanks and is being patrol ##led by several armed salvador ##an air force helicopters .", "pred_seq": "bombing [SEP] [SEP] air force [SEP] she hotel [SEP] joao ##ares [SEP] [SEP] [unused0] bombing [SEP] [SEP] air force [SEP] [SEP] robert newell [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [["air force"]], "Target": [["sheraton hotel"]], "Victim": [["joao baena soares"]], "Weapon": []}, {"incident_type": "bombing", "PerpInd": [], "PerpOrg": [["air force"]], "Target": [], "Victim": [["robert newell"]], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["rebel commanders"], ["commander amilcar"], ["rebels", "fmln guerrillas", "guerrillas"], ["facundo guardado", "commander esteban"]], "PerpOrg": [["farabundo marti national liberation front", "fmln"]], "Target": [["sheraton hotel", "hotel"]], "Victim": [["joao baena soares"]], "Weapon": []}, {"incident_type": "kidnapping", "PerpInd": [["rebel commanders"], ["commander amilcar"], ["rebels", "fmln guerrillas", "guerrillas"], ["facundo guardado", "commander esteban"]], "PerpOrg": [["farabundo marti national liberation front", "fmln"]], "Target": [], "Victim": [["joao baena soares"]], "Weapon": []}], "docid": "30068"}
+{
+  "doctext": "the rebel commanders who directed the occupation of several san salvador neighborhoods last week , today headed the seizure of the she ##rat ##on hotel , where o ##as secretary general joao bae ##na so ##ares was trapped for more than 8 hours . news ##men who entered the hotel this afternoon during the evacuation of bae ##na by diplomats were able to confirm that commander ami ##lc ##ar , known as \" el cho ##co , \" who directed the combat operations in the zac ##ami ##l neighborhood , was seen today on the third floor of the she ##rat ##on hotel . several rebels have said that fa ##cu ##ndo guard ##ado ( \" commander este ##ban \" ) , one of the founders of the far ##ab ##und ##o mart ##i national liberation front and one of the leaders of the offensive that began in the capital on 11 november , is somewhere near the hotel . according to the rebels , guard ##ado expected to initiate this afternoon ' s \" negotiations \" with the manager of the hotel , robert newell . several u . s . military advisers , as well as one from guatemala and another one from chile remain in the hands of the rebels . el cho ##co said : \" we can resist for as long as we have to . all they can do is bomb the place and let us see if they are willing to do that . \" according to the young guerrilla commander , the rebel withdrawal from the zac ##ami ##l , cu ##sca ##tan ##cing ##o , and me ##jic ##ano ##s neighborhoods , among others , \" was part of the plan \" that was completed today with the arrival at the she ##rat ##on hotel area . the rebel said : \" we have come here today , to the es ##cal ##on colony , to their area , the area of the bourgeois ##ie , to see if they do here what they did with the people , who were hurt by the air force bombing operations . \" at 04 ##30 ( 103 ##0 gm ##t ) today , the fm ##ln guerrillas initiated heavy fighting around the she ##rat ##on hotel , where o ##as secretary general joao bae ##na so ##ares was staying . bae ##na so ##ares was evacuated from the she ##rat ##on hotel to the headquarters of the armed forces staff where he met with the \" highest salvador ##an authorities , \" according to diplomatic and military sources . this afternoon , the guerrillas are still occupying several floors of the hotel , which has bullet holes , destroyed windows , and broken furniture all over the floor . the area has been surrounded by light armored tanks and is being patrol ##led by several armed salvador ##an air force helicopters .",
+  "pred_seq": "bombing [SEP] [SEP] air force [SEP] she hotel [SEP] joao ##ares [SEP] [SEP] [unused0] bombing [SEP] [SEP] air force [SEP] [SEP] robert newell [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [["air force"]],
+      "Target": [["sheraton hotel"]],
+      "Victim": [["joao baena soares"]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [["air force"]],
+      "Target": [],
+      "Victim": [["robert newell"]],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        ["rebel commanders"],
+        ["commander amilcar"],
+        ["rebels", "fmln guerrillas", "guerrillas"],
+        ["facundo guardado", "commander esteban"]
+      ],
+      "PerpOrg": [["farabundo marti national liberation front", "fmln"]],
+      "Target": [["sheraton hotel", "hotel"]],
+      "Victim": [["joao baena soares"]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [
+        ["rebel commanders"],
+        ["commander amilcar"],
+        ["rebels", "fmln guerrillas", "guerrillas"],
+        ["facundo guardado", "commander esteban"]
+      ],
+      "PerpOrg": [["farabundo marti national liberation front", "fmln"]],
+      "Target": [],
+      "Victim": [["joao baena soares"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "30068"
+}

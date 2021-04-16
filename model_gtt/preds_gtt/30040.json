@@ -1,1 +1,57 @@
-{"doctext": "authorities have officially reported that several bank offices were adverse ##ly affected tonight in the cha ##pine ##ro neighborhood of northern bogota when two bombs exploded , causing minor injuries to a child and a security guard . the first bomb exploded by the door of a banco de o ##cci ##dent ##e branch at 211 ##5 local time ( 02 ##15 gm ##t ) , and the shock wave damaged other nearby banks . following the explosion , a 9 - year - old boy who lives near the banco de o ##cci ##dent ##e was wounded by pieces of glass , said his relatives , who took him to the \" mar ##ly \" clinic near the area . at the same time , another bomb exploded at a banco popular branch , two blocks away from where the first explosion took place , police said . other banks and shops were damaged by the second explosion , and the security guard at the banco popular was also injured by pieces of flying glass , the authorities said . according to preliminary reports , two men placed the explosive devices and left the scene on foot . both of these attacks tonight , attributed to the drug trafficking cartel ##s , took place after 10 bombs exploded early this morning in the te ##usa ##quil ##lo area in downtown bogota . the bombs were placed in nine political offices of the liberal and social conservative parties and in another bank office .", "pred_seq": "bombing [SEP] [SEP] [SEP] banco branch political parties bank office [SEP] [SEP] two bombs [SEP] [unused0] bombing [SEP] drug ##s banco popular banco popular [SEP] [SEP] [SEP] [SEP] bomb bomb [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["banco de occidente branch"], ["political offices of liberal and social conservative parties"], ["bank office"]], "Victim": [], "Weapon": [["two bombs"]]}, {"incident_type": "bombing", "PerpInd": [["drug trafficking cartels"], ["banco popular"]], "PerpOrg": [], "Target": [], "Victim": [], "Weapon": [["bomb"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["two men", "men"], ["drug trafficking cartels"]], "PerpOrg": [], "Target": [["banco de occidente branch", "banco de occidente"], ["other nearby banks", "nearby banks", "banks"], ["banks", "other banks"], ["banco popular branch", "banco popular"], ["shops"]], "Victim": [], "Weapon": [["two bombs", "bombs", "bomb", "explosive devices"]]}, {"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["bank office"], ["political offices of liberal and social conservative parties", "political offices"]], "Victim": [], "Weapon": [["bombs", "10 bombs"]]}], "docid": "30040"}
+{
+  "doctext": "authorities have officially reported that several bank offices were adverse ##ly affected tonight in the cha ##pine ##ro neighborhood of northern bogota when two bombs exploded , causing minor injuries to a child and a security guard . the first bomb exploded by the door of a banco de o ##cci ##dent ##e branch at 211 ##5 local time ( 02 ##15 gm ##t ) , and the shock wave damaged other nearby banks . following the explosion , a 9 - year - old boy who lives near the banco de o ##cci ##dent ##e was wounded by pieces of glass , said his relatives , who took him to the \" mar ##ly \" clinic near the area . at the same time , another bomb exploded at a banco popular branch , two blocks away from where the first explosion took place , police said . other banks and shops were damaged by the second explosion , and the security guard at the banco popular was also injured by pieces of flying glass , the authorities said . according to preliminary reports , two men placed the explosive devices and left the scene on foot . both of these attacks tonight , attributed to the drug trafficking cartel ##s , took place after 10 bombs exploded early this morning in the te ##usa ##quil ##lo area in downtown bogota . the bombs were placed in nine political offices of the liberal and social conservative parties and in another bank office .",
+  "pred_seq": "bombing [SEP] [SEP] [SEP] banco branch political parties bank office [SEP] [SEP] two bombs [SEP] [unused0] bombing [SEP] drug ##s banco popular banco popular [SEP] [SEP] [SEP] [SEP] bomb bomb [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        ["banco de occidente branch"],
+        ["political offices of liberal and social conservative parties"],
+        ["bank office"]
+      ],
+      "Victim": [],
+      "Weapon": [["two bombs"]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["drug trafficking cartels"], ["banco popular"]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["two men", "men"], ["drug trafficking cartels"]],
+      "PerpOrg": [],
+      "Target": [
+        ["banco de occidente branch", "banco de occidente"],
+        ["other nearby banks", "nearby banks", "banks"],
+        ["banks", "other banks"],
+        ["banco popular branch", "banco popular"],
+        ["shops"]
+      ],
+      "Victim": [],
+      "Weapon": [["two bombs", "bombs", "bomb", "explosive devices"]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        ["bank office"],
+        [
+          "political offices of liberal and social conservative parties",
+          "political offices"
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [["bombs", "10 bombs"]]
+    }
+  ],
+  "docid": "30040"
+}

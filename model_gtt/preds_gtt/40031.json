@@ -1,1 +1,51 @@
-{"doctext": "an explosion has destroyed a section of the multi ##pur ##pose pipeline running from barr ##an ##ca ##ber ##me ##ja to bu ##car ##aman ##ga . the explosion occurred in alto de san pablo while gasoline and prop ##ane gas were being pumped to bu ##car ##aman ##ga . we have a report now from teresa rue ##da . ( begin recording ) ( rue ##da ) communications to and from puerto petrol ##ero and bu ##car ##aman ##ga have been cut off since early today , after an attempt to dynamite the multi ##pur ##pose pipeline destroyed a 100 - meter section of the central highway . the supply of gas to bu ##car ##aman ##ga will also be affected by this event . it is estimated that it will take at least 3 days to restore normal traffic , because it will be necessary to use dynamite to remove rocks currently blocking the highway . the attempted sabotage occurred at the 65 - km mark on the bu ##car ##aman ##ga - barr ##an ##ca ##ber ##me ##ja highway , 20 km from the place where a military convoy was ambushed last wednesday . this is the second time that an attempted sabotage of the bu ##car ##aman ##ga - barr ##an ##ca ##ber ##me ##ja multi ##pur ##pose pipeline , which carries prop ##ane gas , gasoline , and ac ##pm ( not further identified ) has taken place . the explosion destroyed a 30 - meter section of pipeline , and sparked a fire that has not yet been extinguished . losses caused by the sabotage , which has been attributed to the el ##n , have yet to be as ##cer ##tained . it is estimated that repairs to the highway alone will cost the public works ministry 5 million pe ##sos . ( is ##ma ##el oro ##z ##co , public works director for the 5th district ) well , after initial talks with eco ##pet ##rol ( colombian petroleum enterprise ) technicians today , beginning at 1700 , after the fire is under control , they will begin restoring service on the oil pipeline . ( rue ##da ) at this time , there is traffic congestion near the su ##gam ##oso bridge . ( end recording ) ( passage omitted ) while still on the subject , eco ##pet ##rol ' s president , who traveled this morning to barr ##an ##ca ##ber ##me ##ja to attend a forum on the magdalena river , reported that , so far this year , terrorist attacks have cost his company $ 300 million . we have this report from maria clara gr ##ac ##ia . ( begin recording ) ( gr ##ac ##ia ) eco ##pet ##rol has lost 95 billion pe ##sos in revenues this year due to the 44 terrorist attacks on the can ##o limo ##n - coven ##as oil pipeline . in these attacks , 13 . 2 million barrels of crude oil have been lost . the areas most affected by these attacks are in su ##cre , ara ##uca , norte de santa ##nder , and santa ##nder departments . ( reporter alvaro a ##yala ) doctor , could these terrorist attacks lead to an increase in fuel prices in colombia ? ( dr andres rest ##re ##po london ##o , president of eco ##pet ##rol ) obviously , there will come a time when , faced with increasing internal production costs and falling revenues , we are going to have to consider com ##pen ##sat ##ing our losses with an increase in domestic oil prices , but that is a measure we are not about to adopt at this time . ( gr ##ac ##ia ) today ' s landslide , which destroyed a section of the multi ##pur ##pose pipeline between barr ##an ##ca ##ber ##me ##ja and bu ##car ##aman ##ga , has resulted in estimated losses total ##ling 1 . 435 billion pe ##sos . ( passage omitted ) ( end recording )", "pred_seq": "bombing [SEP] [SEP] [SEP] pipeline pipeline [SEP] [SEP] [SEP] [unused0] bombing [SEP] [SEP] [SEP] pipeline pipeline pipeline pipeline pipeline pipeline pipeline [SEP] [SEP] [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["pipeline"]], "Victim": [], "Weapon": []}, {"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["pipeline"]], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["terrorist"]], "PerpOrg": [["eln"]], "Target": [["section of multipurpose pipeline running from barrancabermeja to bucaramanga", "section of multipurpose pipeline", "multipurpose pipeline running from barrancabermeja to bucaramanga", "multipurpose pipeline", "pipeline", "bucaramanga barrancabermeja multipurpose pipeline", "30meter section of pipeline", "oil pipeline", "section of multipurpose pipeline between barrancabermeja and bucaramanga"], ["100meter section of central highway", "section of central highway", "central highway", "highway"]], "Victim": [], "Weapon": []}], "docid": "40031"}
+{
+  "doctext": "an explosion has destroyed a section of the multi ##pur ##pose pipeline running from barr ##an ##ca ##ber ##me ##ja to bu ##car ##aman ##ga . the explosion occurred in alto de san pablo while gasoline and prop ##ane gas were being pumped to bu ##car ##aman ##ga . we have a report now from teresa rue ##da . ( begin recording ) ( rue ##da ) communications to and from puerto petrol ##ero and bu ##car ##aman ##ga have been cut off since early today , after an attempt to dynamite the multi ##pur ##pose pipeline destroyed a 100 - meter section of the central highway . the supply of gas to bu ##car ##aman ##ga will also be affected by this event . it is estimated that it will take at least 3 days to restore normal traffic , because it will be necessary to use dynamite to remove rocks currently blocking the highway . the attempted sabotage occurred at the 65 - km mark on the bu ##car ##aman ##ga - barr ##an ##ca ##ber ##me ##ja highway , 20 km from the place where a military convoy was ambushed last wednesday . this is the second time that an attempted sabotage of the bu ##car ##aman ##ga - barr ##an ##ca ##ber ##me ##ja multi ##pur ##pose pipeline , which carries prop ##ane gas , gasoline , and ac ##pm ( not further identified ) has taken place . the explosion destroyed a 30 - meter section of pipeline , and sparked a fire that has not yet been extinguished . losses caused by the sabotage , which has been attributed to the el ##n , have yet to be as ##cer ##tained . it is estimated that repairs to the highway alone will cost the public works ministry 5 million pe ##sos . ( is ##ma ##el oro ##z ##co , public works director for the 5th district ) well , after initial talks with eco ##pet ##rol ( colombian petroleum enterprise ) technicians today , beginning at 1700 , after the fire is under control , they will begin restoring service on the oil pipeline . ( rue ##da ) at this time , there is traffic congestion near the su ##gam ##oso bridge . ( end recording ) ( passage omitted ) while still on the subject , eco ##pet ##rol ' s president , who traveled this morning to barr ##an ##ca ##ber ##me ##ja to attend a forum on the magdalena river , reported that , so far this year , terrorist attacks have cost his company $ 300 million . we have this report from maria clara gr ##ac ##ia . ( begin recording ) ( gr ##ac ##ia ) eco ##pet ##rol has lost 95 billion pe ##sos in revenues this year due to the 44 terrorist attacks on the can ##o limo ##n - coven ##as oil pipeline . in these attacks , 13 . 2 million barrels of crude oil have been lost . the areas most affected by these attacks are in su ##cre , ara ##uca , norte de santa ##nder , and santa ##nder departments . ( reporter alvaro a ##yala ) doctor , could these terrorist attacks lead to an increase in fuel prices in colombia ? ( dr andres rest ##re ##po london ##o , president of eco ##pet ##rol ) obviously , there will come a time when , faced with increasing internal production costs and falling revenues , we are going to have to consider com ##pen ##sat ##ing our losses with an increase in domestic oil prices , but that is a measure we are not about to adopt at this time . ( gr ##ac ##ia ) today ' s landslide , which destroyed a section of the multi ##pur ##pose pipeline between barr ##an ##ca ##ber ##me ##ja and bu ##car ##aman ##ga , has resulted in estimated losses total ##ling 1 . 435 billion pe ##sos . ( passage omitted ) ( end recording )",
+  "pred_seq": "bombing [SEP] [SEP] [SEP] pipeline pipeline [SEP] [SEP] [SEP] [unused0] bombing [SEP] [SEP] [SEP] pipeline pipeline pipeline pipeline pipeline pipeline pipeline [SEP] [SEP] [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["pipeline"]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["pipeline"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["terrorist"]],
+      "PerpOrg": [["eln"]],
+      "Target": [
+        [
+          "section of multipurpose pipeline running from barrancabermeja to bucaramanga",
+          "section of multipurpose pipeline",
+          "multipurpose pipeline running from barrancabermeja to bucaramanga",
+          "multipurpose pipeline",
+          "pipeline",
+          "bucaramanga barrancabermeja multipurpose pipeline",
+          "30meter section of pipeline",
+          "oil pipeline",
+          "section of multipurpose pipeline between barrancabermeja and bucaramanga"
+        ],
+        [
+          "100meter section of central highway",
+          "section of central highway",
+          "central highway",
+          "highway"
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "40031"
+}

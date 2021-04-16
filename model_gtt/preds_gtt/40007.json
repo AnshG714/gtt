@@ -1,1 +1,25 @@
-{"doctext": "the general management of aero ##line ##as de nicaragua , aero ##nica , condemned yesterday ' s attack on its regional offices in guatemala city . aero ##nica general manager julio roc ##ha said : we condemn these terrorist actions , endorsed by u . s . imperialism . he described the action as a political attack . once again we have witnessed actions by guatemala ##n right ##ist sectors which , endorsed by u . s . imperialism , are trying to int ##imi ##date us and to block the development of our national airline , roc ##ha added . the general manager added that the guatemala ##n police are in charge of the investigations to find the perpetrators of the attack who , using an unidentified vehicle , hurled two fragmentation grenades at aero ##nica ' s regional offices in guatemala city . ( passage omitted )", "pred_seq": "attack [SEP] [SEP] [SEP] regional offices [SEP] [SEP] two grenades [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [["regional offices"]], "Victim": [], "Weapon": [["two fragmentation grenades"]]}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["guatemalan rightist sectors", "rightist sectors"]], "PerpOrg": [], "Target": [["aeronicas regional offices"]], "Victim": [], "Weapon": [["fragmentation grenades", "grenades"]]}], "docid": "40007"}
+{
+  "doctext": "the general management of aero ##line ##as de nicaragua , aero ##nica , condemned yesterday ' s attack on its regional offices in guatemala city . aero ##nica general manager julio roc ##ha said : we condemn these terrorist actions , endorsed by u . s . imperialism . he described the action as a political attack . once again we have witnessed actions by guatemala ##n right ##ist sectors which , endorsed by u . s . imperialism , are trying to int ##imi ##date us and to block the development of our national airline , roc ##ha added . the general manager added that the guatemala ##n police are in charge of the investigations to find the perpetrators of the attack who , using an unidentified vehicle , hurled two fragmentation grenades at aero ##nica ' s regional offices in guatemala city . ( passage omitted )",
+  "pred_seq": "attack [SEP] [SEP] [SEP] regional offices [SEP] [SEP] two grenades [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["regional offices"]],
+      "Victim": [],
+      "Weapon": [["two fragmentation grenades"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["guatemalan rightist sectors", "rightist sectors"]],
+      "PerpOrg": [],
+      "Target": [["aeronicas regional offices"]],
+      "Victim": [],
+      "Weapon": [["fragmentation grenades", "grenades"]]
+    }
+  ],
+  "docid": "40007"
+}

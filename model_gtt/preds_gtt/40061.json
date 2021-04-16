@@ -1,1 +1,34 @@
-{"doctext": "at least two people were killed and four were wounded early this morning during an fm ##ln attack on the el angel sugar mill located near ap ##opa . the guerrilla action began at approximately midnight when about 50 guerrillas armed with rifles and mortar ##s attacked the sugar mill , which is located 15 km north of san salvador . during the attack , the guerrillas partially destroyed the administrative offices of the sugar mill and a nearby house . the sugar processing equipment and machinery were not damaged . after about an hour , the insurgents withdrew . the number of fm ##ln casualties is unknown . ( passage omitted ) at the same time that this attack was taking place , the fm ##ln staged harassment attacks on 1st infantry brigade units guarding the las can ##as bridge , which is located on the road from ap ##opa to que ##zal ##te ##pe ##que . it has been unofficially reported that the army suffered two dead and two wounded in this attack , but this report was denied by the armed forces . the two actions are part of a new fm ##ln military maneuver that began yesterday with the attack on the national guard headquarters , where 4 guards ##men were killed and 30 wounded .", "pred_seq": "attack [SEP] guerrillas guerrillas [SEP] fm ##ln [SEP] el mill administrative mill nearby house [SEP] [SEP] [SEP] [unused0] attack [SEP] guerrillas guerrillas guerrillas guerrillas guerrillas guerrillas [SEP] [SEP] las bridge bridge machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["guerrillas"]], "PerpOrg": [["fmln"]], "Target": [["el angel sugar mill"], ["administrative offices of sugar mill"], ["nearby house"]], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["about 50 guerrillas", "50 guerrillas", "guerrillas", "insurgents"]], "PerpOrg": [["fmln"]], "Target": [["el angel sugar mill", "administrative offices of sugar mill"], ["nearby house", "house"]], "Victim": [], "Weapon": [["rifles"], ["mortars"]]}], "docid": "40061"}
+{
+  "doctext": "at least two people were killed and four were wounded early this morning during an fm ##ln attack on the el angel sugar mill located near ap ##opa . the guerrilla action began at approximately midnight when about 50 guerrillas armed with rifles and mortar ##s attacked the sugar mill , which is located 15 km north of san salvador . during the attack , the guerrillas partially destroyed the administrative offices of the sugar mill and a nearby house . the sugar processing equipment and machinery were not damaged . after about an hour , the insurgents withdrew . the number of fm ##ln casualties is unknown . ( passage omitted ) at the same time that this attack was taking place , the fm ##ln staged harassment attacks on 1st infantry brigade units guarding the las can ##as bridge , which is located on the road from ap ##opa to que ##zal ##te ##pe ##que . it has been unofficially reported that the army suffered two dead and two wounded in this attack , but this report was denied by the armed forces . the two actions are part of a new fm ##ln military maneuver that began yesterday with the attack on the national guard headquarters , where 4 guards ##men were killed and 30 wounded .",
+  "pred_seq": "attack [SEP] guerrillas guerrillas [SEP] fm ##ln [SEP] el mill administrative mill nearby house [SEP] [SEP] [SEP] [unused0] attack [SEP] guerrillas guerrillas guerrillas guerrillas guerrillas guerrillas [SEP] [SEP] las bridge bridge machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery machinery [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["guerrillas"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [
+        ["el angel sugar mill"],
+        ["administrative offices of sugar mill"],
+        ["nearby house"]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        ["about 50 guerrillas", "50 guerrillas", "guerrillas", "insurgents"]
+      ],
+      "PerpOrg": [["fmln"]],
+      "Target": [
+        ["el angel sugar mill", "administrative offices of sugar mill"],
+        ["nearby house", "house"]
+      ],
+      "Victim": [],
+      "Weapon": [["rifles"], ["mortars"]]
+    }
+  ],
+  "docid": "40061"
+}

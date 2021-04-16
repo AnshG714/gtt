@@ -1,1 +1,38 @@
-{"doctext": "salvador ##an people : good morning . i am speaking on behalf of the salvador ##an armed forces that is on its feet at 01 ##15 on 12 november , confronting a treacherous attack by the fm ##ln ( far ##ab ##und ##o mart ##i national liberation front ) terrorists who at 2000 on 11 november - - displaying their warm ##ong ##ering strategy and without caring about the suffering of the salvador ##an people - - carried out treacherous actions in which the civilian population were the only ones who have suffered . the military and public security personnel have reacted in an efficient manner in rejecting the terrorist enemy . we are ob ##liga ##ted to report to the salvador ##an people what has happened . the most important actions that have taken place on the night of 11 november are as follows : an attack on the residence of the legislative assembly president , who is unharmed ; and an attack on the central elections council where no material damage or casualties occurred . likewise , there was an attack on the presidential residence which caused slight material damage and no casualties . fortunately for all salvador ##ans , the president of the republic is under full protection and he was never in any danger . likewise , we report that there was an attack on his private residence . we also want to report to the salvador ##an people that some military personnel were harassed , such as the 1st infantry brigade , the national police garrison in the zac ##ami ##l neighborhood , and the 6th infantry brigade in us ##ulu ##tan city where one minor was injured . there was also harassment of the 3d infantry brigade with headquarters in san miguel . there was no material damage and there were no casualties . ( continued )", "pred_seq": "attack [SEP] terrorists terrorists [SEP] fm ##ln [SEP] residence president [SEP] [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["terrorists"]], "PerpOrg": [["fmln"]], "Target": [["residence of legislative assembly president"]], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["terrorists"]], "PerpOrg": [["fmln", "farabundo marti national liberation front"]], "Target": [["residence of legislative assembly president"], ["central elections council"], ["presidential residence"], ["his private residence", "private residence"]], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [["terrorists"]], "PerpOrg": [["fmln", "farabundo marti national liberation front"]], "Target": [["6th infantry brigade"]], "Victim": [["6th infantry brigade"]], "Weapon": []}], "docid": "30054"}
+{
+  "doctext": "salvador ##an people : good morning . i am speaking on behalf of the salvador ##an armed forces that is on its feet at 01 ##15 on 12 november , confronting a treacherous attack by the fm ##ln ( far ##ab ##und ##o mart ##i national liberation front ) terrorists who at 2000 on 11 november - - displaying their warm ##ong ##ering strategy and without caring about the suffering of the salvador ##an people - - carried out treacherous actions in which the civilian population were the only ones who have suffered . the military and public security personnel have reacted in an efficient manner in rejecting the terrorist enemy . we are ob ##liga ##ted to report to the salvador ##an people what has happened . the most important actions that have taken place on the night of 11 november are as follows : an attack on the residence of the legislative assembly president , who is unharmed ; and an attack on the central elections council where no material damage or casualties occurred . likewise , there was an attack on the presidential residence which caused slight material damage and no casualties . fortunately for all salvador ##ans , the president of the republic is under full protection and he was never in any danger . likewise , we report that there was an attack on his private residence . we also want to report to the salvador ##an people that some military personnel were harassed , such as the 1st infantry brigade , the national police garrison in the zac ##ami ##l neighborhood , and the 6th infantry brigade in us ##ulu ##tan city where one minor was injured . there was also harassment of the 3d infantry brigade with headquarters in san miguel . there was no material damage and there were no casualties . ( continued )",
+  "pred_seq": "attack [SEP] terrorists terrorists [SEP] fm ##ln [SEP] residence president [SEP] [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["terrorists"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [["residence of legislative assembly president"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["terrorists"]],
+      "PerpOrg": [["fmln", "farabundo marti national liberation front"]],
+      "Target": [
+        ["residence of legislative assembly president"],
+        ["central elections council"],
+        ["presidential residence"],
+        ["his private residence", "private residence"]
+      ],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["terrorists"]],
+      "PerpOrg": [["fmln", "farabundo marti national liberation front"]],
+      "Target": [["6th infantry brigade"]],
+      "Victim": [["6th infantry brigade"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "30054"
+}

@@ -1,1 +1,41 @@
-{"doctext": "das ( administrative department of security ) director miguel ma ##za marquez confirmed today that the government and the judicial authorities had known for over 1 year that there were mercenaries in our country , but police authorities apparently prevented an investigation that had been ordered , as a matter of fact , by a female judge . our reporter her ##nan ##do co ##rral ##es has the details : ( begin recording ) ( co ##rral ##es ) if the authorities in charge of an operation near puerto boy ##aca on 18 july last year had not sabotage ##d it , the foreign instructors at the service of the med ##elli ##n cartel would now be jail . on that date , marta lucia gonzalez , second judge of public order , wrote a file note saying that the judicial inspection was un ##just ##ly torpedo ##ed with the argument that nothing had been found and that this argument was sense ##less and ill ##ogical since absolutely no one other than the under ##si ##gned judge could decide if he or she had anything to inspect , or if he or she should or should not conduct the judicial proceeding . the document , which is contained in the dos ##sier on the massacre in la hon ##dur ##a and la ne ##gra , ur ##aba region , says that she was left 2 days inside a plane at the airport of the texas petroleum company in puerto boy ##aca and that the police authorities accompanying her failed to explain to her why they had not taken any action . ( unidentified speaker ) in fact , she and several das inspectors encountered some obstacles . the attorney general ' s office was informed of these obstacles in order for it to make an investigation . i think that when she and the das personnel were preparing to go to puerto boy ##aca it was already known that these people would be present there for these proceedings and this was quite wo ##rri ##some . ( co ##rral ##es ) as is known , judge gonzalez had to leave colombia because her life was threatened , and her father , former boy ##aca governor alvaro gonzalez santana , was subsequently murdered . moreover , gen ma ##za marquez said further that the fact that a payment is being offered for the capture of pablo es ##co ##bar and go ##nza ##lo rodriguez ga ##cha does not mean that other persons accused of being cap ##os of the mafia are not being sought too . ( ma ##za ) we are taking action the length and breadth of the country . we are not showing any special considerations because we intend to act ind ##is ##cr ##imi ##nate ##ly . what we want is to fight a sc ##our ##ge that has greatly harmed all colombian ##s . ( co ##rral ##es ) the das director said that if anyone being held in connection with the investigation of the killing of luis carlos gala ##n is released , that does not mean that the investigations are not proceeding well . ( end recording )", "pred_seq": "attack [SEP] mercenaries mercenaries [SEP] med cartel [SEP] [SEP] alvaro santana [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["mercenaries"]], "PerpOrg": [["medellin cartel"]], "Target": [], "Victim": [["alvaro gonzalez santana"]], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [], "Victim": [["marta lucia gonzalez"]], "Weapon": []}, {"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [], "Victim": [["alvaro gonzalez santana"]], "Weapon": []}, {"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [], "Victim": [["luis carlos galan"]], "Weapon": []}], "docid": "30038"}
+{
+  "doctext": "das ( administrative department of security ) director miguel ma ##za marquez confirmed today that the government and the judicial authorities had known for over 1 year that there were mercenaries in our country , but police authorities apparently prevented an investigation that had been ordered , as a matter of fact , by a female judge . our reporter her ##nan ##do co ##rral ##es has the details : ( begin recording ) ( co ##rral ##es ) if the authorities in charge of an operation near puerto boy ##aca on 18 july last year had not sabotage ##d it , the foreign instructors at the service of the med ##elli ##n cartel would now be jail . on that date , marta lucia gonzalez , second judge of public order , wrote a file note saying that the judicial inspection was un ##just ##ly torpedo ##ed with the argument that nothing had been found and that this argument was sense ##less and ill ##ogical since absolutely no one other than the under ##si ##gned judge could decide if he or she had anything to inspect , or if he or she should or should not conduct the judicial proceeding . the document , which is contained in the dos ##sier on the massacre in la hon ##dur ##a and la ne ##gra , ur ##aba region , says that she was left 2 days inside a plane at the airport of the texas petroleum company in puerto boy ##aca and that the police authorities accompanying her failed to explain to her why they had not taken any action . ( unidentified speaker ) in fact , she and several das inspectors encountered some obstacles . the attorney general ' s office was informed of these obstacles in order for it to make an investigation . i think that when she and the das personnel were preparing to go to puerto boy ##aca it was already known that these people would be present there for these proceedings and this was quite wo ##rri ##some . ( co ##rral ##es ) as is known , judge gonzalez had to leave colombia because her life was threatened , and her father , former boy ##aca governor alvaro gonzalez santana , was subsequently murdered . moreover , gen ma ##za marquez said further that the fact that a payment is being offered for the capture of pablo es ##co ##bar and go ##nza ##lo rodriguez ga ##cha does not mean that other persons accused of being cap ##os of the mafia are not being sought too . ( ma ##za ) we are taking action the length and breadth of the country . we are not showing any special considerations because we intend to act ind ##is ##cr ##imi ##nate ##ly . what we want is to fight a sc ##our ##ge that has greatly harmed all colombian ##s . ( co ##rral ##es ) the das director said that if anyone being held in connection with the investigation of the killing of luis carlos gala ##n is released , that does not mean that the investigations are not proceeding well . ( end recording )",
+  "pred_seq": "attack [SEP] mercenaries mercenaries [SEP] med cartel [SEP] [SEP] alvaro santana [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["mercenaries"]],
+      "PerpOrg": [["medellin cartel"]],
+      "Target": [],
+      "Victim": [["alvaro gonzalez santana"]],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["marta lucia gonzalez"]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["alvaro gonzalez santana"]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["luis carlos galan"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "30038"
+}

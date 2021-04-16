@@ -1,1 +1,71 @@
-{"doctext": "for the second time , unidentified terrorists dynamite ##d the oil pipeline between hui ##la department and barr ##an ##ca ##ber ##me ##ja . meanwhile , eco ##pet ##rol ( colombian petroleum enterprise ) workers are repairing the can ##o limo ##n - coven ##as pipeline and cleaning up the ara ##uca river along the venezuelan border , where a huge oil spill was caused by another attack against the oil pipeline . authorities confirmed that there was a powerful dynamite explosion at the vin ##a - puerto sal ##gar oil pipeline , located approximately 30 km from nat ##aga ##ima , in northern hui ##la department , causing an und ##eter ##mined amount of crude oil to spill . this is the second time in less than 1 month that terrorists have attacked the oil pipeline operated by houston oil and eco ##pet ##rol . a few weeks ago , terrorists destroyed the pipeline near ai ##pe , which caused another oil spill . meanwhile , operators from the state - run oil company yesterday began repairing the can ##o limo ##n - coven ##as oil pipeline dynamite ##d on the night of 12 july in ara ##u ##qui ##ta jurisdiction , which forced the suspension of oil pumping from ara ##uca intend ##ancy ' s oil fields to the gulf of mor ##ros ##quil ##lo . members of the con ##ting ##ency team supported by pet ##rove ##n ( venezuelan petroleum , inc . ) and the venezuelan environment and natural resources ministry are cleaning up a huge oil spill at the ara ##uca river caused by the 7 july attack against the can ##o limo ##n - coven ##as oil pipeline . that attack resulted in a spill of 13 , 000 barrels of oil , which severely contaminated farming areas and the ara ##uca river , to the point that the pot ##able water service was temporarily suspended in ara ##uca ' s capital city .", "pred_seq": "bombing [SEP] unidentified terrorists [SEP] [SEP] oil pipeline [SEP] [SEP] dynamite dynamite [SEP] [unused0] bombing [SEP] terrorists terrorists [SEP] [SEP] pipeline pipeline [SEP] [SEP] dynamite dynamite [SEP] [unused0] bombing [SEP] terrorists terrorists [SEP] [SEP] pipeline [SEP] [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [["unidentified terrorists"]], "PerpOrg": [], "Target": [["oil pipeline"]], "Victim": [], "Weapon": [["dynamite"]]}, {"incident_type": "bombing", "PerpInd": [["terrorists"]], "PerpOrg": [], "Target": [["pipeline"]], "Victim": [], "Weapon": [["dynamite"]]}, {"incident_type": "bombing", "PerpInd": [["terrorists"]], "PerpOrg": [], "Target": [["pipeline"]], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["unidentified terrorists", "terrorists"]], "PerpOrg": [], "Target": [["oil pipeline", "pipeline", "vinapuerto salgar oil pipeline"]], "Victim": [], "Weapon": [["dynamite"]]}, {"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [["oil pipeline", "pipeline", "cano limoncovenas oil pipeline"]], "Victim": [], "Weapon": []}, {"incident_type": "attack", "PerpInd": [["terrorists"]], "PerpOrg": [], "Target": [["oil pipeline", "pipeline"]], "Victim": [], "Weapon": []}, {"incident_type": "bombing", "PerpInd": [], "PerpOrg": [], "Target": [["oil pipeline", "pipeline", "cano limoncovenas oil pipeline"]], "Victim": [], "Weapon": []}], "docid": "30024"}
+{
+  "doctext": "for the second time , unidentified terrorists dynamite ##d the oil pipeline between hui ##la department and barr ##an ##ca ##ber ##me ##ja . meanwhile , eco ##pet ##rol ( colombian petroleum enterprise ) workers are repairing the can ##o limo ##n - coven ##as pipeline and cleaning up the ara ##uca river along the venezuelan border , where a huge oil spill was caused by another attack against the oil pipeline . authorities confirmed that there was a powerful dynamite explosion at the vin ##a - puerto sal ##gar oil pipeline , located approximately 30 km from nat ##aga ##ima , in northern hui ##la department , causing an und ##eter ##mined amount of crude oil to spill . this is the second time in less than 1 month that terrorists have attacked the oil pipeline operated by houston oil and eco ##pet ##rol . a few weeks ago , terrorists destroyed the pipeline near ai ##pe , which caused another oil spill . meanwhile , operators from the state - run oil company yesterday began repairing the can ##o limo ##n - coven ##as oil pipeline dynamite ##d on the night of 12 july in ara ##u ##qui ##ta jurisdiction , which forced the suspension of oil pumping from ara ##uca intend ##ancy ' s oil fields to the gulf of mor ##ros ##quil ##lo . members of the con ##ting ##ency team supported by pet ##rove ##n ( venezuelan petroleum , inc . ) and the venezuelan environment and natural resources ministry are cleaning up a huge oil spill at the ara ##uca river caused by the 7 july attack against the can ##o limo ##n - coven ##as oil pipeline . that attack resulted in a spill of 13 , 000 barrels of oil , which severely contaminated farming areas and the ara ##uca river , to the point that the pot ##able water service was temporarily suspended in ara ##uca ' s capital city .",
+  "pred_seq": "bombing [SEP] unidentified terrorists [SEP] [SEP] oil pipeline [SEP] [SEP] dynamite dynamite [SEP] [unused0] bombing [SEP] terrorists terrorists [SEP] [SEP] pipeline pipeline [SEP] [SEP] dynamite dynamite [SEP] [unused0] bombing [SEP] terrorists terrorists [SEP] [SEP] pipeline [SEP] [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["unidentified terrorists"]],
+      "PerpOrg": [],
+      "Target": [["oil pipeline"]],
+      "Victim": [],
+      "Weapon": [["dynamite"]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["terrorists"]],
+      "PerpOrg": [],
+      "Target": [["pipeline"]],
+      "Victim": [],
+      "Weapon": [["dynamite"]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["terrorists"]],
+      "PerpOrg": [],
+      "Target": [["pipeline"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["unidentified terrorists", "terrorists"]],
+      "PerpOrg": [],
+      "Target": [
+        ["oil pipeline", "pipeline", "vinapuerto salgar oil pipeline"]
+      ],
+      "Victim": [],
+      "Weapon": [["dynamite"]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        ["oil pipeline", "pipeline", "cano limoncovenas oil pipeline"]
+      ],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["terrorists"]],
+      "PerpOrg": [],
+      "Target": [["oil pipeline", "pipeline"]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        ["oil pipeline", "pipeline", "cano limoncovenas oil pipeline"]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "30024"
+}

@@ -1,1 +1,38 @@
-{"doctext": "the government of el salvador strongly condemn ##s the terrorist attacks carried out with explosives today against the committee of mothers of political prisoners and missing in el salvador and against the salvador ##an workers national union federation . as a result of these attacks , several persons were wounded and others died . the government offers its condo ##lence ##s . the government rep ##udi ##ates these irrational and criminal actions and the terrorist attack carried out on 30 october by the fm ##ln against the armed forces staff installations , where 1 civilian died and 14 others were wounded . it is evident that these actions are part of a plot whose objective is to block the dialogue initiated by president alfredo cr ##ist ##iani . the government has ordered a careful investigation to determine what happened and to file charges against criminal groups that have unleashed this increased wave of terrorist violence to create a climate of unrest and to block the road to peace . finally , the government of el salvador re ##af ##firm ##s its determination to continue the search for peace through the dialogue , and it states that in spite of these bloody events , salvador ##ans must remain calm and not give up hopes to find a solution to the conflict through civilized means . 31 october 1989 , national secretariat of communications .", "pred_seq": "bombing [SEP] [SEP] fm ##ln [SEP] armed installations [SEP] [SEP] explosives explosives [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [], "PerpOrg": [["fmln"]], "Target": [["armed forces staff installations"]], "Victim": [], "Weapon": [["explosives"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["criminal groups"]], "PerpOrg": [], "Target": [["committee of mothers of political prisoners and missing in el salvador"], ["salvadoran workers national union federation"]], "Victim": [], "Weapon": [["explosives"]]}, {"incident_type": "attack", "PerpInd": [["criminal groups"]], "PerpOrg": [["fmln"]], "Target": [["armed forces staff installations"]], "Victim": [], "Weapon": []}], "docid": "30010"}
+{
+  "doctext": "the government of el salvador strongly condemn ##s the terrorist attacks carried out with explosives today against the committee of mothers of political prisoners and missing in el salvador and against the salvador ##an workers national union federation . as a result of these attacks , several persons were wounded and others died . the government offers its condo ##lence ##s . the government rep ##udi ##ates these irrational and criminal actions and the terrorist attack carried out on 30 october by the fm ##ln against the armed forces staff installations , where 1 civilian died and 14 others were wounded . it is evident that these actions are part of a plot whose objective is to block the dialogue initiated by president alfredo cr ##ist ##iani . the government has ordered a careful investigation to determine what happened and to file charges against criminal groups that have unleashed this increased wave of terrorist violence to create a climate of unrest and to block the road to peace . finally , the government of el salvador re ##af ##firm ##s its determination to continue the search for peace through the dialogue , and it states that in spite of these bloody events , salvador ##ans must remain calm and not give up hopes to find a solution to the conflict through civilized means . 31 october 1989 , national secretariat of communications .",
+  "pred_seq": "bombing [SEP] [SEP] fm ##ln [SEP] armed installations [SEP] [SEP] explosives explosives [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [["fmln"]],
+      "Target": [["armed forces staff installations"]],
+      "Victim": [],
+      "Weapon": [["explosives"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["criminal groups"]],
+      "PerpOrg": [],
+      "Target": [
+        [
+          "committee of mothers of political prisoners and missing in el salvador"
+        ],
+        ["salvadoran workers national union federation"]
+      ],
+      "Victim": [],
+      "Weapon": [["explosives"]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["criminal groups"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [["armed forces staff installations"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "30010"
+}

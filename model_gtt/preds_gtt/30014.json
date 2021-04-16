@@ -1,1 +1,59 @@
-{"doctext": "today two people were wounded when a bomb exploded in san juan bautista municipality . officials said that shining path members were responsible for the attack . a woman was also murdered today in hua ##ma ##gui ##lla in another apparent terrorist attack . police sources stated that the bomb attack involving the shining path caused serious damages . press sources reported that today they received a shining path document that harshly critic ##izes the policies of the alan garcia administration . the document also announces that it will soon call for an \" armed strike \" in the a ##ya ##cu ##cho department . a similar strike last november , imposed by the shining path by terror , lasted 1 week . the same sources also said that reporter luis morales , who works for an a ##ya ##cu ##cho regional organization , reported that five unidentified individuals attempted to kidnap him . he luckily escaped .", "pred_seq": "bombing [SEP] unidentified individuals [SEP] shining path [SEP] [SEP] [SEP] bomb bomb [SEP] [unused0] kidnapping [SEP] unidentified individuals [SEP] shining path [SEP] [SEP] luis morales [SEP] bomb bomb [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [["unidentified individuals"]], "PerpOrg": [["shining path"]], "Target": [], "Victim": [], "Weapon": [["bomb"]]}, {"incident_type": "kidnapping", "PerpInd": [["unidentified individuals"]], "PerpOrg": [["shining path"]], "Target": [], "Victim": [["luis morales"]], "Weapon": [["bomb"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["shining path members"]], "PerpOrg": [["shining path"]], "Target": [], "Victim": [], "Weapon": [["bomb"]]}, {"incident_type": "attack", "PerpInd": [["terrorist"]], "PerpOrg": [["shining path"]], "Target": [], "Victim": [], "Weapon": []}, {"incident_type": "forced work stoppage", "PerpInd": [], "PerpOrg": [["shining path"]], "Target": [], "Victim": [], "Weapon": []}, {"incident_type": "kidnapping", "PerpInd": [["five unidentified individuals", "unidentified individuals"]], "PerpOrg": [], "Target": [], "Victim": [["luis morales"]], "Weapon": []}], "docid": "30014"}
+{
+  "doctext": "today two people were wounded when a bomb exploded in san juan bautista municipality . officials said that shining path members were responsible for the attack . a woman was also murdered today in hua ##ma ##gui ##lla in another apparent terrorist attack . police sources stated that the bomb attack involving the shining path caused serious damages . press sources reported that today they received a shining path document that harshly critic ##izes the policies of the alan garcia administration . the document also announces that it will soon call for an \" armed strike \" in the a ##ya ##cu ##cho department . a similar strike last november , imposed by the shining path by terror , lasted 1 week . the same sources also said that reporter luis morales , who works for an a ##ya ##cu ##cho regional organization , reported that five unidentified individuals attempted to kidnap him . he luckily escaped .",
+  "pred_seq": "bombing [SEP] unidentified individuals [SEP] shining path [SEP] [SEP] [SEP] bomb bomb [SEP] [unused0] kidnapping [SEP] unidentified individuals [SEP] shining path [SEP] [SEP] luis morales [SEP] bomb bomb [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["unidentified individuals"]],
+      "PerpOrg": [["shining path"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    },
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [["unidentified individuals"]],
+      "PerpOrg": [["shining path"]],
+      "Target": [],
+      "Victim": [["luis morales"]],
+      "Weapon": [["bomb"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["shining path members"]],
+      "PerpOrg": [["shining path"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["terrorist"]],
+      "PerpOrg": [["shining path"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "forced work stoppage",
+      "PerpInd": [],
+      "PerpOrg": [["shining path"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [
+        ["five unidentified individuals", "unidentified individuals"]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["luis morales"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "30014"
+}

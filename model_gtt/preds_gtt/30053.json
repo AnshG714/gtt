@@ -1,1 +1,16 @@
-{"doctext": "we are hearing statements by commander jorge sha ##fi ##k hand ##al , who is talking about col ponce and cr ##ist ##iani ' s responsibility in the terrorist attack on fen ##ast ##ras . this incident prompted a visit to our country by u . s . official bernard ar ##ons ##on . let us hear what commander hand ##al has to say about the u . s . official ' s visit . ( begin recording ) ( hand ##al ) of course , the united states does not want to appear as if it were withdrawing support from president cr ##ist ##iani . we were just saying that ar ##ons ##on had arrived and he looked worried . the nice looking glass house they had built has rapidly begun to fall apart . ar ##ons ##on apparently came to see how he could patch things up . we recall a similar high - level visit back around 1984 , if my memory serves me right , when the current u . s . president arrived . at that time he was vice president under the bush administration , no , the reagan administration , and came to see how to improve the supposedly cent ##rist government and how to put an end to the death squads . he took a list back with him . . . ( changes thought ) let us take a look at how they operate . when they take any action they are very clear and direct . they had a political interest in putting all this together , so bush took back with him a list of 15 military members so they could be fired . ( end recording )", "pred_seq": "[CLS]", "pred_templates": [], "gold_templates": [{"incident_type": "attack", "PerpInd": [["col ponce"], ["president cristiani"]], "PerpOrg": [], "Target": [["fenastras"]], "Victim": [["fenastras"]], "Weapon": []}], "docid": "30053"}
+{
+  "doctext": "we are hearing statements by commander jorge sha ##fi ##k hand ##al , who is talking about col ponce and cr ##ist ##iani ' s responsibility in the terrorist attack on fen ##ast ##ras . this incident prompted a visit to our country by u . s . official bernard ar ##ons ##on . let us hear what commander hand ##al has to say about the u . s . official ' s visit . ( begin recording ) ( hand ##al ) of course , the united states does not want to appear as if it were withdrawing support from president cr ##ist ##iani . we were just saying that ar ##ons ##on had arrived and he looked worried . the nice looking glass house they had built has rapidly begun to fall apart . ar ##ons ##on apparently came to see how he could patch things up . we recall a similar high - level visit back around 1984 , if my memory serves me right , when the current u . s . president arrived . at that time he was vice president under the bush administration , no , the reagan administration , and came to see how to improve the supposedly cent ##rist government and how to put an end to the death squads . he took a list back with him . . . ( changes thought ) let us take a look at how they operate . when they take any action they are very clear and direct . they had a political interest in putting all this together , so bush took back with him a list of 15 military members so they could be fired . ( end recording )",
+  "pred_seq": "[CLS]",
+  "pred_templates": [],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["col ponce"], ["president cristiani"]],
+      "PerpOrg": [],
+      "Target": [["fenastras"]],
+      "Victim": [["fenastras"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "30053"
+}

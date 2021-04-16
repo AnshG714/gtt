@@ -1,1 +1,41 @@
-{"doctext": "three new terrorist attacks were carried out early this morning , at an airport in barr ##an ##quil ##la , at the communist party headquarters in fl ##ore ##ncia , and at the cerro az ##ul military installations in ur ##aba . the police confirmed that unidentified individuals armed with machine ##gun ##s attacked the colombian air force installations in the capital of atlantic ##o . there were no casualties . the mala ##mbo area , close to the barr ##an ##quil ##la international airport , where the air base is located , was immediately mil ##ita ##rized . guards at the site rep ##elled the attack , which was apparently staged by guerrillas . similarly , it was learned that a bomb exploded today at the communist party headquarters in the capital of ca ##quet ##a , causing considerable property damage . it was immediately announced that no one had been injured or killed in the ex ##tre ##mist action . it was also announced that suspected sub ##vers ##ives staged another attack on the installations of the battalion stationed in ur ##aba at cerro az ##ul , near turbo . these terrorist attacks took place 1 day after the serious attack launched at the 2d army division headquarters in bu ##car ##aman ##ga , which resulted in seven people injured and considerable property damage , affecting nine homes .", "pred_seq": "bombing [SEP] unidentified individuals [SEP] [SEP] an airport airport [SEP] [SEP] machine ##s [SEP] [unused0] bombing [SEP] unidentified individuals [SEP] [SEP] communist headquarters homes homes homes [SEP] [SEP] bomb bomb machine ##s [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [["unidentified individuals"]], "PerpOrg": [], "Target": [["airport"]], "Victim": [], "Weapon": [["machineguns"]]}, {"incident_type": "bombing", "PerpInd": [["unidentified individuals"]], "PerpOrg": [], "Target": [["communist party headquarters"], ["homes"]], "Victim": [], "Weapon": [["bomb"], ["machineguns"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["terrorist", "extremist"]], "PerpOrg": [], "Target": [["communist party headquarters"]], "Victim": [], "Weapon": [["bomb"]]}, {"incident_type": "attack", "PerpInd": [["terrorist"]], "PerpOrg": [], "Target": [["2d army division headquarters"], ["homes"]], "Victim": [], "Weapon": []}], "docid": "40021"}
+{
+  "doctext": "three new terrorist attacks were carried out early this morning , at an airport in barr ##an ##quil ##la , at the communist party headquarters in fl ##ore ##ncia , and at the cerro az ##ul military installations in ur ##aba . the police confirmed that unidentified individuals armed with machine ##gun ##s attacked the colombian air force installations in the capital of atlantic ##o . there were no casualties . the mala ##mbo area , close to the barr ##an ##quil ##la international airport , where the air base is located , was immediately mil ##ita ##rized . guards at the site rep ##elled the attack , which was apparently staged by guerrillas . similarly , it was learned that a bomb exploded today at the communist party headquarters in the capital of ca ##quet ##a , causing considerable property damage . it was immediately announced that no one had been injured or killed in the ex ##tre ##mist action . it was also announced that suspected sub ##vers ##ives staged another attack on the installations of the battalion stationed in ur ##aba at cerro az ##ul , near turbo . these terrorist attacks took place 1 day after the serious attack launched at the 2d army division headquarters in bu ##car ##aman ##ga , which resulted in seven people injured and considerable property damage , affecting nine homes .",
+  "pred_seq": "bombing [SEP] unidentified individuals [SEP] [SEP] an airport airport [SEP] [SEP] machine ##s [SEP] [unused0] bombing [SEP] unidentified individuals [SEP] [SEP] communist headquarters homes homes homes [SEP] [SEP] bomb bomb machine ##s [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["unidentified individuals"]],
+      "PerpOrg": [],
+      "Target": [["airport"]],
+      "Victim": [],
+      "Weapon": [["machineguns"]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["unidentified individuals"]],
+      "PerpOrg": [],
+      "Target": [["communist party headquarters"], ["homes"]],
+      "Victim": [],
+      "Weapon": [["bomb"], ["machineguns"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["terrorist", "extremist"]],
+      "PerpOrg": [],
+      "Target": [["communist party headquarters"]],
+      "Victim": [],
+      "Weapon": [["bomb"]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [["terrorist"]],
+      "PerpOrg": [],
+      "Target": [["2d army division headquarters"], ["homes"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "40021"
+}

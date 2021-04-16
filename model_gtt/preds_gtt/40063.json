@@ -1,1 +1,16 @@
-{"doctext": "the armed forces have reported that two soldiers and one guerrilla were killed yesterday in fighting in san miguel and mora ##zan departments . they also reported that the ant ##el ( national administration for telecommunications ) office , court offices , and community center of du ##lce no ##mbre de maria were dynamite ##d by the fm ##ln early this morning . according to the reports , a large group of rebels entered the town and , after sub ##du ##ing the military guards , they dynamite ##d the buildings . no casualties were reported .", "pred_seq": "bombing [SEP] rebels rebels [SEP] fm ##ln [SEP] ant ##el court offices court offices court offices court offices court offices court offices court offices offices court offices court offices court offices court offices court offices offices court offices court offices offices offices court offices offices court offices offices offices offices offices court offices offices offices court offices offices court offices offices court offices court offices court offices court offices court offices court offices court offices [CLS]", "pred_templates": [], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["large group of rebels", "group of rebels", "rebels"]], "PerpOrg": [["fmln"]], "Target": [["court offices"], ["community center"]], "Victim": [], "Weapon": []}], "docid": "40063"}
+{
+  "doctext": "the armed forces have reported that two soldiers and one guerrilla were killed yesterday in fighting in san miguel and mora ##zan departments . they also reported that the ant ##el ( national administration for telecommunications ) office , court offices , and community center of du ##lce no ##mbre de maria were dynamite ##d by the fm ##ln early this morning . according to the reports , a large group of rebels entered the town and , after sub ##du ##ing the military guards , they dynamite ##d the buildings . no casualties were reported .",
+  "pred_seq": "bombing [SEP] rebels rebels [SEP] fm ##ln [SEP] ant ##el court offices court offices court offices court offices court offices court offices court offices offices court offices court offices court offices court offices court offices offices court offices court offices offices offices court offices offices court offices offices offices offices offices court offices offices offices court offices offices court offices offices court offices court offices court offices court offices court offices court offices court offices [CLS]",
+  "pred_templates": [],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["large group of rebels", "group of rebels", "rebels"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [["court offices"], ["community center"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "40063"
+}

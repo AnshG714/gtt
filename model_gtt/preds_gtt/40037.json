@@ -1,1 +1,50 @@
-{"doctext": "two bombs set off by fm ##ln urban guerrillas last night partially destroyed the recently built la torre de cr ##ista ##l building on roosevelt avenue in san salvador . the explosions caused no injuries , but damage to the eastern side of the first floor is estimated at several million colon ##s . it is not known who owns the building . ( passage omitted ) in other military actions , one guerrilla was killed and two soldiers were injured in clashes in san vicente department . according to official reports , the clash took place near te ##col ##uca when rebels tried to attack troops from the military engineers detachment . the fm ##ln last night blew up the administrative offices of the ( name ind ##ist ##in ##ct ) seaside resort in la paz department . there were no injuries . at day ##break today , fm ##ln guerrillas blew up a power pole at gale ##ra que ##mada canton , il ##ob ##asco jurisdiction .", "pred_seq": "bombing [SEP] urban guerrillas [SEP] fm ##ln [SEP] la building administrative resort [SEP] [SEP] two bombs [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "bombing", "PerpInd": [["urban guerrillas"]], "PerpOrg": [["fmln"]], "Target": [["la torre de cristal building"], ["administrative offices of name indistinct seaside resort"]], "Victim": [], "Weapon": [["two bombs"]]}], "gold_templates": [{"incident_type": "bombing", "PerpInd": [["fmln urban guerrillas", "urban guerrillas"]], "PerpOrg": [["fmln"]], "Target": [["recently built la torre de cristal building", "la torre de cristal building", "building"]], "Victim": [], "Weapon": [["two bombs", "bombs"]]}, {"incident_type": "bombing", "PerpInd": [], "PerpOrg": [["fmln"]], "Target": [], "Victim": [], "Weapon": []}, {"incident_type": "bombing", "PerpInd": [["guerrillas", "fmln guerrillas"]], "PerpOrg": [["fmln"]], "Target": [["power pole"]], "Victim": [], "Weapon": []}], "docid": "40037"}
+{
+  "doctext": "two bombs set off by fm ##ln urban guerrillas last night partially destroyed the recently built la torre de cr ##ista ##l building on roosevelt avenue in san salvador . the explosions caused no injuries , but damage to the eastern side of the first floor is estimated at several million colon ##s . it is not known who owns the building . ( passage omitted ) in other military actions , one guerrilla was killed and two soldiers were injured in clashes in san vicente department . according to official reports , the clash took place near te ##col ##uca when rebels tried to attack troops from the military engineers detachment . the fm ##ln last night blew up the administrative offices of the ( name ind ##ist ##in ##ct ) seaside resort in la paz department . there were no injuries . at day ##break today , fm ##ln guerrillas blew up a power pole at gale ##ra que ##mada canton , il ##ob ##asco jurisdiction .",
+  "pred_seq": "bombing [SEP] urban guerrillas [SEP] fm ##ln [SEP] la building administrative resort [SEP] [SEP] two bombs [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["urban guerrillas"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [
+        ["la torre de cristal building"],
+        ["administrative offices of name indistinct seaside resort"]
+      ],
+      "Victim": [],
+      "Weapon": [["two bombs"]]
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["fmln urban guerrillas", "urban guerrillas"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [
+        [
+          "recently built la torre de cristal building",
+          "la torre de cristal building",
+          "building"
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [["two bombs", "bombs"]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [["fmln"]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [["guerrillas", "fmln guerrillas"]],
+      "PerpOrg": [["fmln"]],
+      "Target": [["power pole"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "40037"
+}

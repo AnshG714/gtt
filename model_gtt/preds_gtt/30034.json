@@ -1,1 +1,25 @@
-{"doctext": "general miguel ma ##za marquez , chief of the colombian administrative department of security ( das ) , today confirmed foreign participation in the assassination of luis carlos gala ##n , senator and liberal party presidential candidate , on 18 august in bogota . \" a person of arab origin is under arrest and seems to be quite involved in the crime , \" ma ##za marquez said after meeting with president virgil ##io bar ##co to discuss new measures to protect presidential candidates .", "pred_seq": "attack [SEP] foreign foreign foreign [SEP] [SEP] [SEP] luis ##n [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [["foreign"]], "PerpOrg": [], "Target": [], "Victim": [["luis carlos galan"]], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [["person of arab origin"]], "PerpOrg": [], "Target": [], "Victim": [["luis carlos galan"]], "Weapon": []}], "docid": "30034"}
+{
+  "doctext": "general miguel ma ##za marquez , chief of the colombian administrative department of security ( das ) , today confirmed foreign participation in the assassination of luis carlos gala ##n , senator and liberal party presidential candidate , on 18 august in bogota . \" a person of arab origin is under arrest and seems to be quite involved in the crime , \" ma ##za marquez said after meeting with president virgil ##io bar ##co to discuss new measures to protect presidential candidates .",
+  "pred_seq": "attack [SEP] foreign foreign foreign [SEP] [SEP] [SEP] luis ##n [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["foreign"]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["luis carlos galan"]],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [["person of arab origin"]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["luis carlos galan"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "30034"
+}

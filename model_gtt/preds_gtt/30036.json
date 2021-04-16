@@ -1,1 +1,27 @@
-{"doctext": "this station has learned that three persons have been killed at the jose maria cordoba international airport , in the town of rio negro , anti ##o ##qui ##a department . one of the persons killed was wearing a military uniform , but we still do not know if he was in disguise or if he belonged to the security corps . according to preliminary reports from the anti ##o ##qui ##a police , this was an attack on the installations of the jose maria cordoba airport . i repeat : this is a preliminary report by the anti ##o ##qui ##a police . right now , top officials and anti ##o ##qui ##a police chiefs are on their way to the airport . the airport has been sealed off , and people are trapped inside offices there . no one is allowed near the scene of the violent shooting that took place there just a few minutes ago . a search is under way throughout rio negro ' s san nicolas valley , where the airport is located , for the perpetrators of this attack , who are now believed to be driving two yellow renault ##s and are being pursued by the police . i repeat : so far , we know that three persons have been killed inside the airport . one of those killed was wearing a military uniform . the anti ##o ##qui ##a police have reported that this was an attack on the airport installations . we still have not been able to learn if the attack was targeted against anyone in particular .", "pred_seq": "attack [SEP] [SEP] military military military [SEP] jose airport [SEP] [SEP] [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [["military"]], "Target": [["jose maria cordoba international airport"]], "Victim": [], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [["installations of jose maria cordoba airport", "airport installations"]], "Victim": [], "Weapon": []}], "docid": "30036"}
+{
+  "doctext": "this station has learned that three persons have been killed at the jose maria cordoba international airport , in the town of rio negro , anti ##o ##qui ##a department . one of the persons killed was wearing a military uniform , but we still do not know if he was in disguise or if he belonged to the security corps . according to preliminary reports from the anti ##o ##qui ##a police , this was an attack on the installations of the jose maria cordoba airport . i repeat : this is a preliminary report by the anti ##o ##qui ##a police . right now , top officials and anti ##o ##qui ##a police chiefs are on their way to the airport . the airport has been sealed off , and people are trapped inside offices there . no one is allowed near the scene of the violent shooting that took place there just a few minutes ago . a search is under way throughout rio negro ' s san nicolas valley , where the airport is located , for the perpetrators of this attack , who are now believed to be driving two yellow renault ##s and are being pursued by the police . i repeat : so far , we know that three persons have been killed inside the airport . one of those killed was wearing a military uniform . the anti ##o ##qui ##a police have reported that this was an attack on the airport installations . we still have not been able to learn if the attack was targeted against anyone in particular .",
+  "pred_seq": "attack [SEP] [SEP] military military military [SEP] jose airport [SEP] [SEP] [SEP] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [["military"]],
+      "Target": [["jose maria cordoba international airport"]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        ["installations of jose maria cordoba airport", "airport installations"]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ],
+  "docid": "30036"
+}

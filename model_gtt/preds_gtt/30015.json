@@ -1,1 +1,33 @@
-{"doctext": "salvador ##an reporter ma ##uri ##cio pine ##da , a sound technician for the local canal doc ##e television station , was shot and killed today in mora ##zan department in the eastern part of the country . according to canal doc ##e sources , pine ##da and a team from the \" today \" newscast were traveling to la union department to cover today ' s elections . the vehicle in which the reporters were traveling was machine ##gun ##ned at a crossroads some 180 km from san salvador . there has been no official report of the incident , the second of this type in less than 12 hours , following the death last night of roberto na ##vas , a reporter for the british agency re ##uter .", "pred_seq": "attack [SEP] [SEP] [SEP] [SEP] ma ##da [SEP] [SEP] [unused0] [CLS]", "pred_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [], "Victim": [["mauricio pineda"]], "Weapon": []}], "gold_templates": [{"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [["vehicle", "vehicle in which reporters were traveling"]], "Victim": [["mauricio pineda"]], "Weapon": []}, {"incident_type": "attack", "PerpInd": [], "PerpOrg": [], "Target": [], "Victim": [["roberto navas"]], "Weapon": []}], "docid": "30015"}
+{
+  "doctext": "salvador ##an reporter ma ##uri ##cio pine ##da , a sound technician for the local canal doc ##e television station , was shot and killed today in mora ##zan department in the eastern part of the country . according to canal doc ##e sources , pine ##da and a team from the \" today \" newscast were traveling to la union department to cover today ' s elections . the vehicle in which the reporters were traveling was machine ##gun ##ned at a crossroads some 180 km from san salvador . there has been no official report of the incident , the second of this type in less than 12 hours , following the death last night of roberto na ##vas , a reporter for the british agency re ##uter .",
+  "pred_seq": "attack [SEP] [SEP] [SEP] [SEP] ma ##da [SEP] [SEP] [unused0] [CLS]",
+  "pred_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["mauricio pineda"]],
+      "Weapon": []
+    }
+  ],
+  "gold_templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [["vehicle", "vehicle in which reporters were traveling"]],
+      "Victim": [["mauricio pineda"]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [["roberto navas"]],
+      "Weapon": []
+    }
+  ],
+  "docid": "30015"
+}
