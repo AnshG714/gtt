@@ -1,0 +1,27 @@
+{
+  "docid": "TST4-MUC4-0057",
+  "doctext": "colonel mauricio ernesto vargas, commander of the army's 3d brigade in san miguel, has stated that the armed forces is not involved in death squad actions and that such actions are contrary to the institution's regulations. vargas was referring specifically to the murder of three peasants in morazan, of which the army is being accused:    (begin recording) (vargas) our values and the values of the system we defend do not allow us to execute, kidnap, or steal. the system states we are to comply with our laws and let the responsible institutions determine guilt or innocence. we cannot be judge and jury in such situations.  (end recording)    the most recent case for which the army is being blamed is the murder of three peasants in yamabal canton, morazan, on 12 november. vargas denied armed forces complicity in these murders and stated that humanitarian organizations must investigate in cases of this nature so they can present evidence and accuse a specific sector. he added that he has evidence the army was not present in yamabal canton on the day of the triple murder:    (begin recording) (vargas) i directly accuse the fmln and tell the humanitarian organizations that are accusing the armed forces to investigate the fmln. the humanitarian organizations must not accept dialectic conclusions such as the ones made by the criminal joaquin villalobos, who said we executed and (words indistinct). they are not god. they talk as if the world belonged to them.  there are laws and a legal framework in this country.  our system has a legal framework, and we have to base ourselves on it. there are humanitarian organizations that have become corrupt and have become accomplices of the fmln's murder; they remain silent and do not defend justice, laws, and principles. regarding this case, i accuse the fmln of these deaths. we have evidence the fmln is responsible for the acts presently being reported in the northwestern zone. (end recording)    col vargas also criticized the work done by some humanitarian orgnizations and said they use human rights as an excuse to protect sectors that share their ideology.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [[["fmln", 1136]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["death squad", 135]]],
+      "PerpOrg": [
+        [
+          ["army", 50],
+          ["armed forces", 103]
+        ]
+      ],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

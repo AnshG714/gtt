@@ -1,0 +1,19 @@
+{
+  "docid": "TST3-MUC4-0027",
+  "doctext": "danilo barillas, former guatemalan ambassador to spain and leader of the ruling christian democratic party (pdc), was killed today by unidentified individuals in this capital, the police reported.    according to official reports, barillas was heading downtown from his home in southern guatemala city when he was intercepted by a group of unidentified individuals, who shot him down with machinegun fire.    the police said that so far the identities of the attackers are unknown. this is the first pdc leader killed since president vinicio cerezo assumed power in january 1986.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["unidentified individuals", 134],
+          ["group of unidentified individuals", 331]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["danilo barillas", 0]]],
+      "Weapon": [[["machinegun", 389]]]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "docid": "TST3-MUC4-0022",
+  "doctext": "the police have reported in huancayo, located 315 km east of lima, that alleged terrorists today killed dolores hinostroza, the mayor of mulqui district.  hinostroza, who was at home, was shot five times.      hinostroza's children told police that four hooded individuals broke into the house and shot their mother after having insulted her.    the killers also shouted slogans supporting the armed struggle.      dolores hinostroza, 48 years old, did not belong to any political party. she is the second woman mayor killed this week by alleged commando groups of the maoist shining path.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["four hooded individuals", 249],
+          ["hooded individuals", 254]
+        ],
+        [
+          ["alleged commando groups", 538],
+          ["alleged commando groups of the maoist shining path", 538],
+          ["commando groups", 546],
+          ["commando groups of the maoist shining path", 546]
+        ]
+      ],
+      "PerpOrg": [[["shining path", 576]]],
+      "Target": [],
+      "Victim": [[["dolores hinostroza", 104]]],
+      "Weapon": []
+    }
+  ]
+}

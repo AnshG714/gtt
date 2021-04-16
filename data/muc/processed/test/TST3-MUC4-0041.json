@@ -1,0 +1,27 @@
+{
+  "docid": "TST3-MUC4-0041",
+  "doctext": "i have been in touch with general octavio vargas silva, national police operational commander and inspector.  gen vargas has said that the two people who were killed in the attack that took place at suba municipality last night have not yet been identified.    (vargas) two people were killed and five others were wounded as a result of the attack.  the two people who were killed are yet to be identified.  those wounded include three employees of the gas station where the car bomb went off and two people who were walking by the gas station at the moment of the explosion.  preliminary reports have estimated that the explosion caused 70 million pesos in losses.    (carrillo) general, approximately how many kilograms of explosives were in the car bomb?    (vargas) apparently it contained 60 kg of dynamite.  the dynamite was placed inside an old station wagon.  something must have happened to the people who were inside the vehicle at the time of the explosion -- the two people who were killed.  apparently the car bomb went off by accident.  it was not supposed to have gone off at that gas station.    (carrillo) have the people who were killed been identified?    (vargas) no, not yet.  we are trying to identify them now.    (carrillo) are there special security measures to counter this wave of terrorism?    (vargas) yes, of course.  we are carrying out a series of joint actions with the bogota police department and administrative department of security personnel to neutralize terrorist actions.  we are carrying out those actions in areas we consider critical or vulnerable and in other areas where we are counteracting and neutralizing terrorist actions, as i told you.    (carrillo) are there secret agents throughout the entire city?    (vargas) yes, we have uniformed and civilian personnel guarding the city right now.  we also have the support of the bogota police department, of dijin (directorate of judicial police and investigations), and of cijin (expansion unknown). they are cooperating with us.  they are guarding areas we consider critical or places that could be targets of terrorist attacks.    (carrillo) what other measures have you adopted along with the 13th infantry brigade and the bogota mayor?    (vargas) we have implemented a number of measures, such as increasing personnel on the streets and human and material resources. in addition, we have established chekckpoints in areas we consider critical and are carrying out a number of operational activities that will help us locate these criminals.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["two people", 139],
+          ["two people who were killed", 139],
+          ["people", 143],
+          ["people who were killed", 143]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [[["gas station", 453]]],
+      "Victim": [],
+      "Weapon": [
+        [["car bomb", 475]],
+        [
+          ["60 kg of dynamite", 794],
+          ["dynamite", 803]
+        ]
+      ]
+    }
+  ]
+}

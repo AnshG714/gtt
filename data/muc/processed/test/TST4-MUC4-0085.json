@@ -1,0 +1,34 @@
+{
+  "docid": "TST4-MUC4-0085",
+  "doctext": "with the murder of two more engineers last wednesday, 7 december--which was learned about only today in lima--a total of six engineers have been murdered this week apparently by members of the maoist shining path guerrilla movement. four engineers, including two frenchmen, were murdered last sunday.    according to reports, a group of terrorists last wednesday entered the locality of situcancha, junin department, in the central mountain region of peru, and gathered all the people at the main square. they forced adolfo spezua and augusto vilcahuman out of their offices and, after a \"people's trial,\" shot them to death.    last sunday, terrorists murdered four engineers--two peruvians and two frenchmen--who were working in an agricultural development program in the small town of aquira, in the southern department of apurimac, where shining path terrorist activity is intense.    the french engineers were identified as thomas pellissier and corine seguin. the justice of the peace from aquira was also murdered.    moreover, five terrorists and an army corporal were killed in a clash between terrorists and an army patrol near the locality of nanshuimpuquio, 41 km from the southern city of ayacucho.    november was a particularly bloody month because of the political violence that caused the death of 403 people. thirteen thousand people have been killed by shining path since the beginning of its activities in 1980.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["members of the maoist shining path guerrilla movement", 178],
+          ["group of terrorists", 328],
+          ["terrorists", 337]
+        ]
+      ],
+      "PerpOrg": [[["shining path", 200]]],
+      "Target": [],
+      "Victim": [[["adolfo spezua", 517]], [["augusto vilcahuman", 535]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["members of the maoist shining path guerrilla movement", 178],
+          ["group of terrorists", 328],
+          ["terrorists", 337]
+        ]
+      ],
+      "PerpOrg": [[["shining path", 200]]],
+      "Target": [],
+      "Victim": [[["thomas pellissier", 929]], [["corine seguin", 951]]],
+      "Weapon": []
+    }
+  ]
+}

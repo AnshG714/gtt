@@ -1,0 +1,66 @@
+{
+  "docid": "TST3-MUC4-0024",
+  "doctext": "for the second time, unidentified terrorists dynamited the oil pipeline between huila department and barrancabermeja.  meanwhile, ecopetrol (colombian petroleum enterprise) workers are repairing the cano limon-covenas pipeline and cleaning up the arauca river along the venezuelan border, where a huge oil spill was caused by another attack against the oil pipeline.    authorities confirmed that there was a powerful dynamite explosion at the vina-puerto salgar oil pipeline, located approximately 30 km from natagaima, in northern huila department, causing an undetermined amount of crude oil to spill.    this is the second time in less than 1 month that terrorists have attacked the oil pipeline operated by houston oil and ecopetrol.  a few weeks ago, terrorists destroyed the pipeline near aipe, which caused another oil spill.    meanwhile, operators from the state-run oil company yesterday began repairing the cano limon-covenas oil pipeline dynamited on the night of 12 july in arauquita jurisdiction, which forced the suspension of oil pumping from arauca intendancy's oil fields to the gulf of morrosquillo.    members of the contingency team supported by petroven (venezuelan petroleum, inc.) and the venezuelan environment and natural resources ministry are cleaning up a huge oil spill at the arauca river caused by the 7 july attack against the cano limon-covenas oil pipeline.  that attack resulted in a spill of 13,000 barrels of oil, which severely contaminated farming areas and the arauca river, to the point that the potable water service was temporarily suspended in arauca's capital city.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["unidentified terrorists", 21],
+          ["terrorists", 34]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["oil pipeline", 59],
+          ["pipeline", 63],
+          ["vina-puerto salgar oil pipeline", 444]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [[["dynamite", 45]]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["oil pipeline", 59],
+          ["pipeline", 63],
+          ["cano limon-covenas oil pipeline", 919]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["terrorists", 34]]],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["oil pipeline", 59],
+          ["pipeline", 63]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["oil pipeline", 59],
+          ["pipeline", 63],
+          ["cano limon-covenas oil pipeline", 919]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

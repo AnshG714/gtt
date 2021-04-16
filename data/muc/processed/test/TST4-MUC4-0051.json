@@ -1,0 +1,21 @@
+{
+  "docid": "TST4-MUC4-0051",
+  "doctext": "dear listeners, we regret to inform you that at approximately 0400 this morning, four masked individuals stabbed pisco deputy prefect carlos soto sedice to death.    the criminals perpetrated this condemnable murder on the second floor of soto's house and threw the body down the stairs to the first floor.    pisco residents, who are deeply moved, have strongly condemned this horrible crime.    soto is the second outstanding apra leader to be killed in pisco. on 7 december 1987, professor carlos medrano vazquez, who won election by a landslide, was riddled with bullets.    the body of soto has been taken to the pisco central morgue. (passage omitted)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["four masked individuals", 81],
+          ["masked individuals", 86],
+          ["individuals", 93],
+          ["criminals", 170]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["carlos soto sedice", 134]]],
+      "Weapon": []
+    }
+  ]
+}

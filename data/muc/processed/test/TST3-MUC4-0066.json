@@ -1,0 +1,19 @@
+{
+  "docid": "TST3-MUC4-0066",
+  "doctext": "president vinicio cerezo has tacitly blamed president alfredo cristiani's administration for the crisis which prevails in the country as a result of the farabundo marti national liberation front's (fmln) offensive which was launched on saturday 11 november.    cerezo attended the conclusion of a seminar sponsored by the central american institute for political studies (incep) on 17 november.  the event was held at 2100 at the guatemala fiesta hotel.    the new central american vice president of the christian democratic organization of america (odca) was sworn in at the event.  carlos morales ehrlich, of el salvador, was replaced by professor catalina soberanis, of guatemala.    during his speech morales ehrlich blamed the extreme right death squads of el salvador for the assassination of six jesuit priests at the central american university.    during his speech, which was more like an informal chat, president cerezo attributed the situation which prevails in el salvador to president cristiani's inefficiency.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["extreme right death squads", 732],
+          ["death squads", 746]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

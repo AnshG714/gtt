@@ -1,0 +1,57 @@
+{
+  "docid": "TST3-MUC4-0084",
+  "doctext": "it was officially announced today that six salvadoran soldiers were killed as a result of clashes with salvadoran rebels in northern el salvador over the past few hours.  meanwhile, it was also announced that the rebels attacked military positions in san salvador, blew up a store, and burned a public bus.    the armed forces press committee (coprefa) reported that the farabundo marti national liberation front (fmln) and members of the 4th infantry brigade met in heavy clashes in the hamlet of el zungano, in chalatenango department, in the northern part of the country, on the afternoon of 1 february.  six soldiers were killed as a result of the clashes.  coprefa added that several guerrillas were killed or wounded.    in addition, it was reported that the fmln, an armed group that has been fighting against the government for almost 10 years, harassed two national guard posts last night.  the police reported that a powerful bomb went off at an electrical appliance store in downtown san salvador this morning, but causing only property damage.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["salvadoran rebels", 103],
+          ["rebels", 114]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["farabundo marti national liberation front", 371],
+          ["fmln", 414]
+        ]
+      ],
+      "Target": [
+        [
+          ["store", 275],
+          ["electrical appliance store", 956]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["powerful bomb", 927],
+          ["bomb", 936]
+        ]
+      ]
+    },
+    {
+      "incident_type": "arson",
+      "PerpInd": [
+        [
+          ["salvadoran rebels", 103],
+          ["rebels", 114]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["farabundo marti national liberation front", 371],
+          ["fmln", 414]
+        ]
+      ],
+      "Target": [
+        [
+          ["public bus", 295],
+          ["bus", 302]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "docid": "TST3-MUC4-0048",
+  "doctext": "guatemalan archbishop prospero penados del barrio today reported the kidnapping of a nun, diana mack ortiz, 20 years old, born in the state of colorado in the united states of america.    the archbishop also reported that another u.s. nun, patricia denny, left guatemala 17 days ago because of continuous death threats over the telephone and in writing.    penados said diana mack ortiz was kidnapped on 2 november in antigua guatemala, 45 km south of guatemala city, when she was attending a seminar along with other nuns.  the archbishop explained the nun had been receiving death threats.  she had been urged to leave guatemala, but she decided to continue working in this country.    the kidnapped nun, who had been in guatemala for a year, was teaching at the san miguel acatan elementary school in huehuetenango department in northeast guatemala.  she belongs to the order of the ursilina, penados reported.    patricia denny, 54, left guatemala after unidentified men warned her that if she wished to continue living she had to leave the country.  denny had arrived in guatemala in 1984, belonged to the sisters of mary knoll, and was working at a parish in mixco municipality in southern guatemala city.    the archbishop said all this is the \"beginning of a campaign to intimidate the catholic church.\"  he did not mention which groups are perpetrating these intimidation actions.  however, penados said he is going to talk to guatemalan president vinicio cerezo today to report the incidents with the u.s. nuns.    penados stated that this kind of action \"harmed catholicism very much in past years,\" when repression severely hit this sector.  he pointed out that this kind of incident had not happened since president cerezo took over power in guatemala on 14 january 1986.    the archbishop demanded that mack ortiz' kidnappers respect her life and physical integrity.",
+  "templates": [
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["diana mack ortiz", 90]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["patricia denny", 240]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["diana mack ortiz", 90]]],
+      "Weapon": []
+    }
+  ]
+}

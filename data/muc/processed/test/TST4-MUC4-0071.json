@@ -1,0 +1,27 @@
+{
+  "docid": "TST4-MUC4-0071",
+  "doctext": "a new diplomatic rift has arisen between colombia and the neighboring republic of venezuela following a protest note sent by our foreign ministry to the venezuelan foreign ministry. the note denounces the massacre of 14 fishermen, including two colombians whom the venezuelan armed forces accused of being subversives.    the venezuelan government decided that it would not be scolded by colombia, so the venezuelan foreign ministry sent a note to our foreign ministry which said that venezuela rejected the terms used in the colombian protest note.    colombia has sent 17 foreign ministry notes to venezuela in the past 2 years, all concerning incidents that have directly or indirectly affected colombian citizens.  only 2 of the 17 protest notes have received a reply, and they never included the results of the investigations requested by our government.    the last note represents a protest from our government for the murder of jose antonio aregua and justo pastor ceballos on 29 october. they were assassinated along with 12 venezuelan citizens when the venezuelan army mistook them for national liberation army rebels in cano colorada, arauca department, along the venezuelan border.    even though there is evidence that the venezuelan authorities made a mistake, the country's reply to the note was spiteful and unsatisfactory. this represents the worst diplomatic incident between the two countries so far this year.    ildegar perez, venezuelan ambassador to colombia, personally referred to the state of relations between the two countries:    (begin recording) (perez) let us say that relations at this point are delicate, but i would not characterize them as critical or extremely difficult. (end recording)    the venezuelan government has ordered that the two survivors of the 29 october massacre at the border be tried. moreover, the dispute between the two countries is being exploited in the venezuelan presidential campaign.  very few, however, dare to speak the truth about the situation.    (venezuelan deputy juvencio pulgar) (begin recording) we have disputes and we should not cover them up. colombia and venezuela have things to protest about, but only a dialogue will lead to an agreement to settle these disputes. (end recording)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["subversives", 306],
+          ["two survivors", 1775]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["venezuelan armed forces", 265],
+          ["venezuelan army", 1063]
+        ]
+      ],
+      "Target": [],
+      "Victim": [
+        [["jose antonio aregua", 936]],
+        [["justo pastor ceballos", 960]]
+      ],
+      "Weapon": []
+    }
+  ]
+}

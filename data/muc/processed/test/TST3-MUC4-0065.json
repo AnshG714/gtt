@@ -1,0 +1,22 @@
+{
+  "docid": "TST3-MUC4-0065",
+  "doctext": "approximately 1,000 people demonstrated today at the burgos main square (central) to ask the spanish government to mediate in the salvadoran conflict, and in barcelona (northeastern), a demonstration to express support for the salvadoran people has been scheduled for 22 november.    the demonstrators, convoked by the solidarity with latin america committee, verbally attacked salvadoran president alfredo cristiani and have asked the spanish government to offer itself as a mediator to promote an end the armed conflict.    some of the people who attended the demonstration, which was held without incidents, carried placarts denouncing the killing of six jesuit priests -- five of whom were spanish citizens -- and two salvadoran women at the central american university.    meanwhile, civic organizations, student associations, labor unions, and political parties in cataluna have scheduled a demonstration in support of the salvadoran people to be held in barcelona on 22 november.    these organizations, which have formed an emergency committee, have opened an account at the \"la caixa\" savings bank where economic donations are being accepted to help the salvadoran people.    in a manifesto released, the committee demands an end to the bombing of civilians, the immediate evacuation of the wounded, and an end to attacks against the union headquarters and leaders.    likewise, the committee has demanded an end to u.s. intervention in el salvador and that the guatemalan and honduran armies refrain from participating in the conflict.    \"we ask the spanish government institutions and the eec to pressure the salvadoran government to begin a real negotiation that will an end to the conflict and its causes, the manifesto states.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [[["union headquarters", 1343]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "docid": "TST3-MUC4-0074",
+  "doctext": "the treasury police have informed this network that terrorist (words indistinct) alberto chica fernandez, a leader in the (name indistinct) labor union, confessed that the fmln (farabundo marti national liberation front) terrorist leaders may initiate summary actions with a view to purging the leaders of leftist groups because of the failure of the so-called \"final offensive to the end.\"    chica said that the terrorist leadership has violently (word indistinct) humberto centeno, marco tulio lima, and an individual identified only as julio cesar, from the unts (national union of salvadoran workers), as well as other leftist leaders, for providing false information regarding the conditions for a popular insurrection.    according to chica, the fmln leaders in managua decided to launch the offensive, trusting the unts leaders' reports that conditions were right for an insurrection because febe elizabeth velazquez' death in the dynamite attack against fenastras (salvadoran workers national union federation) had ignited the people's spirits.  the prisoner said that the fmln may carry out a summary trial in the style of communist parties against those responsible for the failure.    now, he said, to save themselves from the responsibility of having deceived the terrorist criminals who allowed themselves to be led by lies, the unts leaders are expected to call news conferences to announce that their struggle continues.    meanwhile, a report from zacatecoluca, la paz department, indicates that fmln terrorist criminals, using sam-7 missiles, attacked a salvadoran air force 0-2 airplane which was in the area directing support near piedra grande abajo in the jurisdiction of zacatecoluca. no damages or casualties were reported.    another fmln missile was fired from las piedras hill, in the same area, against another salvadoran air force 0-2 airplane, but the airplane was not damaged.  the source says the missile exploded in the air over zacatecoluca.    the air force, to which experienced pilots lend their professional services, is admired by the people, who are grateful to their armed forces.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["fenastras", 963],
+          ["salvadoran workers national union federation", 974]
+        ]
+      ],
+      "Victim": [[["febe elizabeth velazquez", 900]], [["fenastras", 963]]],
+      "Weapon": [[["dynamite", 939]]]
+    }
+  ]
+}

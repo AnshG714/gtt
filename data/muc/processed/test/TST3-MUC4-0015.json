@@ -1,0 +1,27 @@
+{
+  "docid": "TST3-MUC4-0015",
+  "doctext": "salvadoran reporter mauricio pineda, a sound technician for the local canal doce television station, was shot and killed today in morazan department in the eastern part of the country.    according to canal doce sources, pineda and a team from the \"today\" newscast were traveling to la union department to cover today's elections.    the vehicle in which the reporters were traveling was machinegunned at a crossroads some 180 km from san salvador.      there has been no official report of the incident, the second of this type in less than 12 hours, following the death last night of roberto navas, a reporter for the british agency reuter.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["vehicle", 338],
+          ["vehicle in which the reporters were traveling", 338]
+        ]
+      ],
+      "Victim": [[["mauricio pineda", 20]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["roberto navas", 586]]],
+      "Weapon": []
+    }
+  ]
+}

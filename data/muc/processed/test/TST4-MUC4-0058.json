@@ -1,0 +1,21 @@
+{
+  "docid": "TST4-MUC4-0058",
+  "doctext": "twenty-six people, four of whom are policemen, were injured in a bomb explosion that occurred before dawn on 30 october. the bomb was placed in a dance hall in ayacucho, a city located south of lima.    the local press today reported that the police have attributed the attack to terrorists who used a home-made bomb called \"russian cheese.\" this bomb is made up of powder, tacks, pieces of iron, and steel wire. it explodes when it touches the floor.    ayacucho was the site of a similar explosion on 3 july when several unidentified people hurled explosives at a dance hall where the music group \"los shapis\" was playing. the \"los shapis\" music group has received death threats from the \"shining path\" guerrilla group because the latter believes \"los shapis\" play alienating music.    according to police sources, the \"shining path,\" which began its activities in ayacucho in may 1980, is responsible for the death of about 12,000 people and material losses estimated at $10 billion.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["terrorists", 280]]],
+      "PerpOrg": [[["shining path", 691]]],
+      "Target": [[["dance hall", 146]]],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["bomb", 65],
+          ["home-made bomb called \"russian cheese.\"", 302],
+          ["home-made bomb", 302]
+        ],
+        [["powder", 366]]
+      ]
+    }
+  ]
+}

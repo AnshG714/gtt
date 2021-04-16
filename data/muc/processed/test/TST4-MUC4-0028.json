@@ -1,0 +1,76 @@
+{
+  "docid": "TST4-MUC4-0028",
+  "doctext": "a terrorist attack, in which czechoslovak bombs were used, has destroyed four high tension towers in the central region. this attack has cut the electricity supply to a vast region between copiapo and santiago. the blackout occurred on saturday night, 1 october, and lasted for approximately one-half hour in the metropolitan region.    according to endesa (national electric power, inc.), one of the towers knocked down was located on km 24 of the melipilla-rapel highway.    the tower, located in the maitenes sector, is one of the main towers of the high tension network.    another tower destroyed by the terrorists was tower no 430 in the itahua-alto jahuel sector, which is connected to the main electricity network.    in addition to these four destroyed towers, other explosions were heard that same night in santiago. they were caused by bombs planted by terrorists who seek to frighten the population.    according to police sources, the bombs used to cause so much damage are powerful czechoslovak-made plastic bombs, of the same type that were found among the clandestine arsenals smuggled into the country by the marxist leftists at carrizal bajo.    the terrorists also used tnt in their bomb attacks.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["terrorists", 609]]],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["high tension towers", 78],
+          ["towers", 91],
+          ["tower", 91]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["czechoslovak bombs", 29],
+          ["bombs", 42],
+          ["powerful czechoslovak-made plastic bombs", 987],
+          ["czechoslovak-made plastic bombs", 996],
+          ["plastic bombs", 1014]
+        ],
+        [["tnt", 1189]]
+      ]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["terrorists", 609]]],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["high tension towers", 78],
+          ["towers", 91],
+          ["tower", 91],
+          ["tower no 430", 624]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["czechoslovak bombs", 29],
+          ["bombs", 42],
+          ["powerful czechoslovak-made plastic bombs", 987],
+          ["czechoslovak-made plastic bombs", 996],
+          ["plastic bombs", 1014]
+        ],
+        [["tnt", 1189]]
+      ]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["terrorists", 609]]],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["high tension towers", 78],
+          ["towers", 91],
+          ["tower", 91]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["czechoslovak bombs", 29],
+          ["bombs", 42],
+          ["powerful czechoslovak-made plastic bombs", 987],
+          ["czechoslovak-made plastic bombs", 996],
+          ["plastic bombs", 1014]
+        ],
+        [["tnt", 1189]]
+      ]
+    }
+  ]
+}

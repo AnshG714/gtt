@@ -1,0 +1,24 @@
+{
+  "docid": "TST3-MUC4-0011",
+  "doctext": "the dissemination of a document questioning colombia's oil policy, especially the participation of foreign companies, is reportedly the aim of the publicity stunt carried out by the pro-castro eln (army of national liberation), which kidnapped several honorary consuls, newsmen, and political leaders.    anonymous sources of the leftist group headed by spanish priest manuel perez claimed responsibility for the kidnappings.  they identified themselves as members of the manuel gustavo chacon sovereignty operation, which was named in honor of the leader of the powerful (name indistinct) labor union of ecopetrol (colombian petroleum enterprise), murdered in barrancabermeja in february.    according to the terrorist group, the hostages will be taken to undisclosed locations and will be given a document addressed to the colombian government and the international community.  the document will reiterate the insurgent group's criticism of colombia's oil production infrastructure, which includes several foreign companies, many of them european.",
+  "templates": [
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [
+        [
+          ["members of the manuel gustavo chacon sovereignty operation", 457],
+          ["manuel gustavo chacon sovereignty operation", 472]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["eln", 193],
+          ["army of national liberation", 198]
+        ]
+      ],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

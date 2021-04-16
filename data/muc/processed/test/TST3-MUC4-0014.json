@@ -1,0 +1,51 @@
+{
+  "docid": "TST3-MUC4-0014",
+  "doctext": "today two people were wounded when a bomb exploded in san juan bautista municipality.  officials said that shining path members were responsible for the attack.    a woman was also murdered today in huamaguilla in another apparent terrorist attack.    police sources stated that the bomb attack involving the shining path caused serious damages.    press sources reported that today they received a shining path document that harshly criticizes the policies of the alan garcia administration. the document also announces that it will soon call for an \"armed strike\" in the ayacucho department.    a similar strike last november, imposed by the shining path by terror, lasted 1 week.    the same sources also said that reporter luis morales, who works for an ayacucho regional organization, reported that five unidentified individuals attempted to kidnap him.  he luckily escaped.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["shining path members", 107]]],
+      "PerpOrg": [[["shining path", 107]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": [[["bomb", 37]]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["terrorist", 231]]],
+      "PerpOrg": [[["shining path", 107]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "forced work stoppage",
+      "PerpInd": [],
+      "PerpOrg": [[["shining path", 107]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "forced work stoppage",
+      "PerpInd": [],
+      "PerpOrg": [[["shining path", 107]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [
+        [
+          ["five unidentified individuals", 804],
+          ["unidentified individuals", 809]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["luis morales", 727]]],
+      "Weapon": []
+    }
+  ]
+}

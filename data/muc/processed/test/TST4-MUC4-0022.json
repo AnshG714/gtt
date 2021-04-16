@@ -1,0 +1,25 @@
+{
+  "docid": "TST4-MUC4-0022",
+  "doctext": "last night in san clemente district, 9 km north of pisco, a group of terrorists dynamited machinery belonging to albolones peruanos, inc.    approximately 20 terrorists barged into the plant armed with submachineguns and molotov cocktails and overpowered some 20 workers in order to dynamite some machinery.  after doing so, the terrorists fled from the site.    members of the security forces responded and asked for support from the city of ica.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["group of terrorists", 60],
+          ["terrorists", 69],
+          ["approximately 20 terrorists", 141]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["machinery belonging to albolones peruanos, inc", 90],
+          ["machinery", 90]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [[["molotov cocktails", 221]]]
+    }
+  ]
+}

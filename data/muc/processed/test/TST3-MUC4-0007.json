@@ -1,0 +1,30 @@
+{
+  "docid": "TST3-MUC4-0007",
+  "doctext": "in the absence of nicaraguan ambassador franciso lacayo parajon, juan jose membreno, counselor to the nicaraguan embassy in honduras, characterized as ridiculous, statements made yesterday by luis francisco ordonez reyes, who, according to police, is of nicaraguan origin.  ordonez reyes accused jose jesus pena--alleged chief of security for the nicaraguan embassy in tegucigalpa--of masterminding the 7 january assassination of contra commander manuel antonio rugama.    (begin recording) (membreno) we categorically deny that allegation. these accusations against the embassy are ridiculous.  the embassy has no officer or employee with the name of the man identified in the news conference.  there have already been many accounts of this incident that point to the counterrevolution.  we categorically deny these accusations and characterize them as ridiculous.  we have no security officers at this embassy, only diplomatic and support personnel. (end recording)    (alvarez) all the personnel who work at the nicaraguan embassy in tegucigalpa are appointed by the foreign ministry, according to the counselor.    (begin recording) (membreno) all our personnel are nicaraguans.  in regard to what he (ordonez reyes) has invented, we think it is ridiculous.  we only have nicaraguan government personnel working at the embassy. (end recording)    (alvarez) regarding the possibility that counterrevolutionary agents infiltrated the nicaraguan embassy in tegucigalpa, counselor juan jose membreno replied:    (begin recording) (membreno) this happened at the ambassador's residence.  the ambassador learned by chance that one of the residence guards was of nicaraguan origin with alledged counterrevolutionary links. this is what happened.  this case did not occur at the embassy.    (alvarez) is managua interested in eliminating all the contra leaders living in honduras or all people who are linked to the counterrevolution?    (membreno) on the contrary, we respect peoples' lives and that is why we have always been willing to receive in nicaragua all nicaraguans who want to accept amnesty and all those who have in one way or other been involved in the counterrevolutionary campaign.    (alvarez) have there been any more attacks against this embassy or any other type of threat, as occurred a few days ago?    (membreno) no, after the shooting incident at the ambassador's residence, what happened a few days later--here at the embassy--was that a car drove past the embassy at night and knocked down some security rails on the sidewalk. (end recording)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["one of the residence guards", 1625]]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["manuel antonio rugama", 447]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["jose jesus pena", 296],
+          [
+            "jose jesus pena--alleged chief of security for the nicaraguan embassy in tegucigalpa",
+            296
+          ]
+        ]
+      ],
+      "PerpOrg": [[["nicaraguan embassy", 102]]],
+      "Target": [],
+      "Victim": [[["manuel antonio rugama", 447]]],
+      "Weapon": []
+    }
+  ]
+}

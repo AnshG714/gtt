@@ -1,0 +1,42 @@
+{
+  "docid": "TST4-MUC4-0016",
+  "doctext": "early this morning, two powerful bombs rocked san salvador's metropolitan area. according to reports, the bombs were planted by fmln urban guerrillas.  the powerful bombs were planted in two government vehicles, license plates 6906 and 6895, used by the rural basic health plan section of the health ministry.  the destroyed cars were parked at first street west and 21st avenue north. the bombs, planted under the car hoods, shattered the windshields and destroyed the car bodies. strangely enough, the rebels did not leave leaflets, as is their custom. (passage omitted)    in a communique read this afternoon over the phone, the fmln general command claimed responsibility for the destruction of the two vehicles. they said this is part of the urban guerrillas' latest campaign to sabotage government property.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["fmln urban guerrillas", 128],
+          ["urban guerrillas", 133]
+        ],
+        [["fmln general command", 632]]
+      ],
+      "PerpOrg": [
+        [
+          ["fmln", 128],
+          ["fmln general command", 632]
+        ]
+      ],
+      "Target": [
+        [
+          [
+            "government vehicles, license plates 6906 and 6895, used by the rural basic health plan section of the health ministry",
+            191
+          ],
+          ["government vehicles, license plates 6906 and 6895", 191],
+          ["government vehicles", 191],
+          ["vehicles", 202],
+          ["cars", 325]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["two powerful bombs", 20],
+          ["powerful bombs", 24],
+          ["bombs", 33]
+        ]
+      ]
+    }
+  ]
+}

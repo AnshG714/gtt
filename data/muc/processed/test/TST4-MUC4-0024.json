@@ -1,0 +1,41 @@
+{
+  "docid": "TST4-MUC4-0024",
+  "doctext": "this morning at approximately 0630 the christian democratic party (pdc) headquarters in the city of arica was attacked. the pdc's premises are located at 683 sotomayor street, in the downtown area of the city. the identity of the attackers is unknown.    the report was filed by former congressman humberto balza, the president of the pdc's local chapter, who has also received death threats in the past few hours.    this is what balza told radio chilena's \"primera plana\" feature:    (balza) (begin recording) unidentified individuals attacked the pdc's premises, located at 683 sotomayor street, breaking the windows of the premises and trying to break down the door. luckily, our guard went outside to see what was happening and the attackers took off, leaving abundant yes-vote propaganda with the photograph of the candidate. the attackers also shouted threats against the members of the party's board.    we have already told the arica public, but now we want all of the chilean public to know, that the supporters of the yes-vote are desperate, because they see there are now more no-vote supporters than yes-vote supporters.    this is why the latter are threatening people, why they are trying to steal identity cards, and why they are resortig to any type of action that will create unrest in order to give confidence to the supporters of the yes-vote and to create an atmosphere for any type of action to be taken on 5 october. (end recording) (passage omitted)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["unidentified individuals", 512],
+          ["supporters of the yes-vote", 1011],
+          ["yes-vote supporters", 1113]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [[["pdc's premises", 124]]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["humberto balza", 298]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["unidentified individuals", 512],
+          ["individuals", 525]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

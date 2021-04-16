@@ -1,0 +1,24 @@
+{
+  "docid": "TST4-MUC4-0056",
+  "doctext": "in venezuela, autopsies have been performed on 9 of the 14 fishermen--including 2 colombians--killed in el amparo. the autopsy reports are being widely discussed.  the investigations carried out by the venezuelan government directly involve the military authorities.    colombian foreign minister julio londono paredes has requested coordinated actions by the two countries to prevent such border incidents.    it was admitted that the remains of the fishermen were exhumed over the weekend. seven of them were exhumed on 26 november and six on 27 november in venezuela. the judicial report stated that there were no guerrilla clashes and that each was killed by a coup de grace of the venezuelan army.    the venezuelan investigative commission entrusted with clarifying the venezuelan military authorities' reasons for slaughtering 14 fishermen on 22 october in el amparo directly involve the security organizations.    the autopsies performed on nine bodies have established that the peasants of the border area did not have an armed clash with the military. on the contrary, they were shot at a distance less than 1 meter, which is what the two survivors said from the beginning. those survivors have now requested asylum in caracas from the mexican government.    (begin recording) (londono) we hope such incidents will decrease and that the venezuelan authorities along the border will coordinate with the colombian civilian and military authorities any actions for preserving--not only the lives of the colombians on either side of the border--peace and tranquillity in the border area. (end recording)    because 2 of the 14 murdered fishermen were colombians, londono paredes stated that the government will maintain its initial stand of demanding compensation for the relatives of the dead colombians. the government will also await an official notification from venezuela on the results of the investigations on the el amparo slaughter.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["military authorities", 245],
+          ["venezuelan military authorities", 776]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["venezuelan army", 686],
+          ["army", 697]
+        ]
+      ],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

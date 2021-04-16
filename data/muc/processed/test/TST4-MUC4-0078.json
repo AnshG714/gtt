@@ -1,0 +1,74 @@
+{
+  "docid": "TST4-MUC4-0078",
+  "doctext": "the army has reported that it inflicted 208 guerrilla casualties during clashes in november. meanwhile, the fmln rebels have said they inflicted 991 casualties on the army--including dead and wounded--as a result of their attacks, harassment, and ambushes during the same period.    the military report says 93 fmln guerrillas were killed and 115 wounded as a result of nationwide counterinsurgency military operations during the month of november.    the report added that during the same period, the army confiscated 105 high-caliber rifles, 2 m-60 machineguns, 20 revolvers of various calibers, more than 55,000 cartridges, 168 fragmentation grenades, 236 mines, 9 communication radios, and a large amount of material for homemade bombs.    the military report added that during the month of november, guerrillas killed 43 peasants, kidnapped 32, and caused the death of 6 people and crippled 23 others as a result of mine explosions.    in the war against public property--the pillar of a war economy--the military source reported that six mayorial offices and six national administration for telecommunications offices were damaged in various towns and six junction boxes were sabotaged.    in addition, 4 trains belonging to the salvadoran national railroad, fenadesal, were blown up, and 10 vehicles and 5 buses were partially damaged.    regarding damage to the electricity system, the fmln knocked down 46 towers and 136 high-tension power poles and damaged 11 transformers.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["fmln rebels", 108],
+          ["rebels", 113],
+          ["fmln guerrillas", 311],
+          ["guerrillas", 316]
+        ]
+      ],
+      "PerpOrg": [[["fmln", 108]]],
+      "Target": [
+        [["mayorial offices", 1044]],
+        [["national administration for telecommunications offices", 1069]],
+        [["junction boxes", 1162]],
+        [["vehicles", 1298]],
+        [["buses", 1313]],
+        [["towers", 1415]],
+        [
+          ["high-tension power poles", 1430],
+          ["power poles", 1443]
+        ],
+        [["transformers", 1470]]
+      ],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [
+        [
+          ["fmln rebels", 108],
+          ["rebels", 113],
+          ["fmln guerrillas", 311],
+          ["guerrillas", 316]
+        ]
+      ],
+      "PerpOrg": [[["fmln", 108]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["fmln rebels", 108],
+          ["rebels", 113],
+          ["fmln guerrillas", 311],
+          ["guerrillas", 316]
+        ]
+      ],
+      "PerpOrg": [[["fmln", 108]]],
+      "Target": [
+        [
+          [
+            "trains belonging to the salvadoran national railroad, fenadesal",
+            1211
+          ],
+          ["trains belonging to the salvadoran national railroad", 1211],
+          ["trains", 1211]
+        ],
+        [["vehicles", 1298]],
+        [["buses", 1313]]
+      ],
+      "Victim": [],
+      "Weapon": [[["mine", 659]]]
+    }
+  ]
+}

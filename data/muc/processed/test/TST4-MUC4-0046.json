@@ -1,0 +1,21 @@
+{
+  "docid": "TST4-MUC4-0046",
+  "doctext": "do you have any comments on the amnesty international report, which claims that the armed forces are involved in the murder of certain salvadoran citizens?    (duarte) i understand that amnesty international has to prepare a report every year, and the organization includes whatever views it chooses in the report. the organization obviously states its views in the report.  salvadorans do things according to the law. if any salvadoran or foreigner has evidence (of human rights violations), then it should be brought before the courts.  that is the logical and legal way for us to begin an investigation; that is what we always do in all such cases.    (reporter) mr president, your government has issued a special report claiming that some death squad members have deserted and implicated several right-wing members in the murder of msgr oscar arnulfo romero and other salvadorans.    (duarte) we are analyzing the available evidence in those cases. you know that i have carefully analyzed the cases. i released information only when the evidence was duly investigated and corroborated. we are processing a sizable amount of information, but i do not want to discuss it in detail because i believe that this would hinder the investigation.    (reporter) is it true that you have two video recordings in which the two deserters give their names and details and that these recordings are being analyzed by military intelligence services and the government?    (duarte) we are currently investigating the case. that is why i said that i would not like to reveal any detailed information--because this might hinder the investigation.    (reporter) mr president, the amnesty international report states that death squads--which are reportedly composed of soldiers and policemen--are being reactivated at a time when the armed forces oppose your policies.    (duarte) i do not think so. my government's policy remains unchanged. we advocate the defense of human rights and democracy. i think this is always evident.  every day this is demonstrated by events. (words indistinct) film about guerrilla commanders, which represents support for the fmln and distorts the people's views. nevertheless, we know that freedom of the press must prevail and therefore we do not intervene. you will not find another country that does this, yet we are doing so because we believe that we should defend freedom of the press above all.    (reporter) how much credence do you give the amnesty international report?    (duarte) the report is valid insofar as the facts are all there. however, i (words indistinct) the way in which the facts are interpreted. the facts are interpreted according to amnesty international's own (word indistinct). we also received reports from red cross international (words indistinct) each case. each case is interpreted differently.  the united nations has its own opinion; the oas has its own opinion. each one issues a report, and we use that information as the basis for our investigations on human rights violations, which is the main issue. (end recording)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["some death squad members", 738],
+          ["death squad members", 743],
+          ["several right-wing members", 792],
+          ["right-wing members", 800]
+        ]
+      ],
+      "PerpOrg": [[["armed forces", 84]]],
+      "Target": [],
+      "Victim": [[["oscar arnulfo romero", 841]]],
+      "Weapon": []
+    }
+  ]
+}

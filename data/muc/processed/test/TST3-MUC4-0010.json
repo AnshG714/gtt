@@ -1,0 +1,30 @@
+{
+  "docid": "TST3-MUC4-0010",
+  "doctext": "the government of el salvador strongly condemns the terrorist attacks carried out with explosives today against the committee of mothers of political prisoners and missing in el salvador and against the salvadoran workers national union federation.  as a result of these attacks, several persons were wounded and others died.  the government offers its condolences.    the government repudiates these irrational and criminal actions and the terrorist attack carried out on 30 october by the fmln against the armed forces staff installations, where 1 civilian died and 14 others were wounded.  it is evident that these actions are part of a plot whose objective is to block the dialogue initiated by president alfredo cristiani.    the government has ordered a careful investigation to determine what happened and to file charges against criminal groups that have unleashed this increased wave of terrorist violence to create a climate of unrest and to block the road to peace.    finally, the government of el salvador reaffirms its determination to continue the search for peace through the dialogue, and it states that in spite of these bloody events, salvadorans must remain calm and not give up hopes to find a solution to the conflict through civilized means.    31 october 1989, national secretariat of communications.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["criminal groups", 837]]],
+      "PerpOrg": [],
+      "Target": [
+        [
+          [
+            "the committee of mothers of political prisoners and missing in el salvador",
+            112
+          ]
+        ],
+        [["salvadoran workers national union federation", 203]]
+      ],
+      "Victim": [],
+      "Weapon": [[["explosives", 87]]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["criminal groups", 837]]],
+      "PerpOrg": [[["fmln", 491]]],
+      "Target": [[["armed forces staff installations", 508]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

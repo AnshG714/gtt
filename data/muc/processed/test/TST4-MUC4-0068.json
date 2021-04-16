@@ -1,0 +1,29 @@
+{
+  "docid": "TST4-MUC4-0068",
+  "doctext": "the local police have reported that national liberation army (eln) guerrillas today kidnapped the antioquia colombian civil defense (dcc) commander.    the police said major guillermo rodriguez velasquez, retired, was intercepted by an eln commando while traveling from doradal to medellin with sergeant miguel antonio avila barreto, also retired, who is the department's dcc recruiter.    the two dcc officials were returning to medellin when they were kidnapped 1 km from doradal.",
+  "templates": [
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [
+        [
+          ["national liberation army (eln) guerrillas", 36],
+          ["guerrillas", 67],
+          ["eln commando", 236],
+          ["commando", 240]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["national liberation army", 36],
+          ["eln", 62]
+        ]
+      ],
+      "Target": [],
+      "Victim": [
+        [["guillermo rodriguez velasquez", 174]],
+        [["miguel antonio avila barreto", 304]]
+      ],
+      "Weapon": []
+    }
+  ]
+}

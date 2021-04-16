@@ -1,0 +1,24 @@
+{
+  "docid": "TST3-MUC4-0078",
+  "doctext": "foreign minister hernan felipe errazuriz has reported that the chileans involved in the abduction of brazilian businessman abilio diniz will be prosecuted in brazil because the kidnapping was planned and performed outside of chile.  he noted that, in line with its policy in such matters, the chilean foreign ministry has not been involved in the release of the businessman.    diniz was released after being held for 6 days by five chileans, two canadians, two argentines, and one brazilian.  the police have reported that the chileans claimed to belong to the extremist mir (movement of the revolutionary left) group, but this assertion has not yet been confirmed.    errazuriz said that the foreign ministry has been in permanent contact with chilean ambassador to brazil raul schmidt in keeping track of the case.  the minister also pointed out that he has been in direct contact with international security services, including interpol, to determine the identities of the presumed chileans.",
+  "templates": [
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [
+        [["five chileans", 428]],
+        [["two canadians", 443]],
+        [["two argentines", 458]],
+        [["one brazilian", 478]]
+      ],
+      "PerpOrg": [
+        [
+          ["mir", 572],
+          ["movement of the revolutionary left", 577]
+        ]
+      ],
+      "Target": [],
+      "Victim": [[["abilio diniz", 123]]],
+      "Weapon": []
+    }
+  ]
+}

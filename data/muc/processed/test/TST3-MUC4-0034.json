@@ -1,0 +1,14 @@
+{
+  "docid": "TST3-MUC4-0034",
+  "doctext": "general miguel maza marquez, chief of the colombian administrative department of security (das), today confirmed foreign participation in the assassination of luis carlos galan, senator and liberal party presidential candidate, on 18 august in bogota.    \"a person of arab origin is under arrest and seems to be quite involved in the crime,\" maza marquez said after meeting with president virgilio barco to discuss new measures to protect presidential candidates.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["person of arab origin", 258]]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["luis carlos galan", 159]]],
+      "Weapon": []
+    }
+  ]
+}

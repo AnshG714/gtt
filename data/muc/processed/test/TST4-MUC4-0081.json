@@ -1,0 +1,24 @@
+{
+  "docid": "TST4-MUC4-0081",
+  "doctext": "the commander of military detachment no 4 today reported today the discovery of 22 dead guerrillas in morazan department. according to colonel roman alfonso barrera, the bodies were found near osicala following a search operation after an fmln attack on army positions in that area.    meanwhile, three guerrillas were killed yesterday during a clash with the 3d brigade from chiriligua, san gerardo, in san miguel department.    this morning, insurgents derailed a train in the soyapango jurisdiction. fenadesal (salvadoran national railroad) spokesmen said the incident took place at the km 249 point on the railway line where the train was derailed by a claymore mine. there were no casualties.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["guerrillas", 88],
+          ["insurgents", 444]
+        ]
+      ],
+      "PerpOrg": [[["fmln", 239]]],
+      "Target": [[["train", 466]]],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["claymore mine", 657],
+          ["mine", 666]
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "docid": "TST4-MUC4-0092",
+  "doctext": "early in the morning of 21 december fmln rebels raided san jose villanueva, south of san salvador, la libertad department, where they set fire to the antel (national administration for telecommunications) office and destroyed the local garrison. according to a government report received a few minutes ago, they also killed the local civil defense commander.    army and police units combed the area this morning to try to defuse bombs that the rebels might have planted in the town streets. it has also been reported that a clash occurred on the town's outskirts where reportedly several were killed and several wounded.",
+  "templates": [
+    {
+      "incident_type": "arson",
+      "PerpInd": [
+        [
+          ["fmln rebels", 36],
+          ["rebels", 41]
+        ]
+      ],
+      "PerpOrg": [[["fmln", 36]]],
+      "Target": [
+        [
+          ["local garrison", 230],
+          ["garrison", 236]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "docid": "TST3-MUC4-0050",
+  "doctext": "on 5 november, radio venceremos reports that guerrillas have carried out 2 ambushes along the panamerican highway, inflicting 26 army casualties.  the report indicated that at 0600 on 4 november, the rebels placed a bomb on a light tank near flores de tepeyac, apastepeque.  it is estimated that the action resulted in 9 casualties; the light tank was completely destroyed.  the second ambush occurred at 0815 on 4 november.  the rebels ambushed a 10-vehicle military convoy and left at least 17 casualties.  some time after the rebel action, the army directed mortar fire to the area and the air force leveled machinegun fire upon this populated zone. traffic on the panamerican highway was paralyzed while the armed forces evacuated the many casualties from the area in helicopters.    a later report told of urban commandos attacking a treasury police unit at 5th avenue and 5th poniente street in san salvador, resulting in 2 casualties to the treasury police.    also, rebel units were said to attack military detachment no 1 commandos on the outskirts of totonique, chalatenango department during the afternoon of 3 november, inflicting two casualties.    in another item, the central anastacio aquino front was reported to claim taking part in actions against the belloso battalion.  fmln rebels clashed with soldiers in canton coyolito in tecoluca jurisdiction, san vicente department at 0900 on 3 november, and inflicted three casualties.  that same day, the same unit was attacked in finca sajelio and the guerrillas claimed to have inflicted 2 more casualties.  the same troops were said to suffer 2 more casualties in a mined area on 4 november.    an fmln unit was also said to have seized the town of los hernandez in canton matasano, cabanas department on 4 november. four pylons were blown up, interrupting a 46,000-volt electrical line.    radio venceremos on 6 november carries its weekly military report:    \"during the past week, radio venceremos reported inflicting many casualties on the armed forces.  the total number of casualties inflicted on the armed forces was 124, including an arce battalion officer who was hit in (word indistinct).  fmln forces ambushed five military convoys along different highways throughout the country. during the week, two paramilitary members were captured.  the fmln respected the lives of these men and released them immediately, but confiscated their 3 rifles and 300 cartridges.  we highlight the attack by our urban commandos on command staff installations.  this attack took place in a san salvador that is totally militarized, nevertheless, we managed to hit the top death squads members' central nerve.  guerrilla actions in the metapan area increased during the week and our men ambushed soldiers along the santa ana-metapan road several times.  in chalatenango, our men carried out continuous actions against 4th infantry brigade troops in el refugio and other places in san ignacio.  we have already amply reported heavy clashes against paramilitary groups in san francisco canton, cabanas department, where we captured the aforementioned prisoners and confiscated their weapons.  we carried out important ambush operations against military troops trying to transit the panamerican and coastal highways in san vicente and la paz departments.  we also met the belloso battalion troops and caused their first casualties.\"    the station also reported that guerrillas attacked a section of the soriano battalion in finca las mercedes and inflicted three casualties on the 1st infantry brigade troops, including a radio operator.  an m-16 rifle was confiscated from the soldiers.    rebel unit was said to have ambushed a military convoy along the coastal road near san cristobal in the tecoluca jurisdiction, san vicente department at noon of 5 november.  our men confirm having inflicted 6 army casualties.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [[["army", 129]], [["air force", 593]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": [[["mortar", 561]], [["machinegun", 611]]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["unit", 855],
+          ["fmln unit", 1664]
+        ]
+      ],
+      "PerpOrg": [[["fmln", 1291]]],
+      "Target": [[["pylons", 1788]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

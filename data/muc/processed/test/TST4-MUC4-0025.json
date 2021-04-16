@@ -1,0 +1,14 @@
+{
+  "docid": "TST4-MUC4-0025",
+  "doctext": "two soldiers and a rebel were killed in skirmishes around the country in the past few hours. military reports state that a national guard officer was killed while fighting an fmln attack near jucuapa. another report indicates that the authorities have identified the corpse of policeman david diaz cortez, who was killed at daybreak today in a skirmish by rebels against suchitoto military.    a rebel was killed during a skirmish with the army near tecoluca, san vicente department. finally, the armed forces reported that the fmln on wednesday destroyed antel (national administration for telecommunications) installations in san francisco chinameca, la paz department.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [[["fmln", 175]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

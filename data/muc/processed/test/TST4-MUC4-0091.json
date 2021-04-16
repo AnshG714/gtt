@@ -1,0 +1,20 @@
+{
+  "docid": "TST4-MUC4-0091",
+  "doctext": "military sources today reported that three chilean army officers, one of them the commander of a regiment, have died in a helicopter accident during a patrol operation.    the same sources reported that in the zone of coyhaique, 1,950 km south of santiago, colonel rodolfo vargas, the commander of the \"bulnes\" 26th regiment, headquartered in that southern city, died along with two other officers when their helicopter crashed.    the officers were flying in search of a deserter from that regiment when the accident took place yesterday afternoon.    police sources have also reported that the three people injured in an attack on a bridge that took place yesterday near tongoy beach, some 600 km north of santiago, are members of a military unit of that area.    the same sources reported that those injured, an officer and two noncommissioned officers, were crossing the bridge in a private car when a bomb exploded destroying the bridge.    the three military men suffered relatively serious injuries.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        [["bridge", 635]],
+        [
+          ["private car", 887],
+          ["car", 895]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [[["bomb", 906]]]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "docid": "TST4-MUC4-0010",
+  "doctext": "rancagua -- the national vanguard offices in this city were attacked on 29 july at 2220.  unidentified individuals detonated a bomb that damaged the windows of the national vanguard offices and those of the neighboring houses.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["unidentified individuals", 90]]],
+      "PerpOrg": [],
+      "Target": [
+        [["national vanguard offices", 16]],
+        [
+          ["neighboring houses", 207],
+          ["houses", 219]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [[["bomb", 127]]]
+    }
+  ]
+}

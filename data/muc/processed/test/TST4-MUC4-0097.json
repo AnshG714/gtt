@@ -1,0 +1,19 @@
+{
+  "docid": "TST4-MUC4-0097",
+  "doctext": "this morning, three bombs destroyed a checkpoint that was being built in santa fe, antioquia department, at a place known as paseo real. according to the authorities, the losses exceed 3 million pesos.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [[["checkpoint", 38]]],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["three bombs", 14],
+          ["bombs", 20]
+        ]
+      ]
+    }
+  ]
+}

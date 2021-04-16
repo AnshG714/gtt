@@ -1,0 +1,23 @@
+{
+  "docid": "TST3-MUC4-0081",
+  "doctext": "good evening.  i have called this news conference to read a foreign ministry communique: (words indistinct) today the panamanian government told luis sandiga cabrera, our charge d'affaires in panama, that he must leave panama in 72 hours.    2.  we have expressed to the panamanian government, through the panamanian charge d'affaires in lima, our surprise and strong protest over that decision.    3.  in view of this decision, the peruvian government has decided to reduce the personnel of its diplomatic mission in panama and to maintain its relations with that country at the first secretary level. peru will in this way continue to fulfill the humanitarian mission of protecting those who have sought asylum in its embassy in panama while the panamanian government issues the safe-conducts that we requested in accordance to the convention on diplomatic asylum signed in caracas on 28 march 1954.    peru is contacting the members of the permanent mechanism for consultation and political agreement (group of eight) to explain the situation and to ask for solidarity and cooperation in overcoming this momentary crisis.    the delicate situation regarding the people at the peruvian embassy has provoked our justified alarm and impelled us to begin talks to ensure that their diplomatic asylum will be respected.  we have talked with the ambassadors from the countries of the permanent mechanism for consultation and political agreement.  i have personally spoken with the ambassadors of venezuela, mexico, and colombia.    i am now ready to answer any questions:    (reporter) mr larco cox, unofficial sources have said that the people in the peruvian embassy in panama are not exactly political refugees but common criminals.  what do you say about this?    (larco cox) the country that grants asylum determines this.  we have been very careful to review each one of them and their files.  we have checked to see if any of them were facing any trials in panama or the united states.  our investigation has revealed that none of them are facing any trials.  the charges were made afterward.  we see this as a result of the emotional climate presently existing in panama.    (reporter) what is your personal opinion of the incident?    (larco cox) it is the diplomatic way to express a protest over what they have been led to believe.  according to panamanian reports, charge d'affaires luis sandiga has made statements on the situation that did not please the government.  the truth is that sandiga has not made any declarations.  however, former ambassador castro arenas is in panama and he has embarked on a campaign in which he is seeking retaliation against the peruvian government.  he could not think of anything better than to point at sandiga as the person responsible for alleged statements.  sandiga has not said a word about the situation because that is not his job.  besides, his car and the car belonging to one of the embassy's military attaches have been stolen; there is no way to begin an investigation.    (reporter) are you saying that former ambassador castro arenas is directly responsible for the situation?    (larco cox) you can make your own conclusions.    (reporter) if the situation deteriorates, will peru recall all of its personnel from panama?    (larco cox) we cannot go to that extreme because we are fulfilling a humanitarian cause, as we said in the communique.  our first responsibility at this time is to see that the right of asylum is respected.  as long as the refugees remain in the embassy, we will maintain our representation at the level of first secretary. (end recording)",
+  "templates": [
+    {
+      "incident_type": "robbery",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["car", 876],
+          ["his car", 2895]
+        ],
+        [
+          ["car", 876],
+          ["car belonging to one of the embassy's military attaches", 2911]
+        ]
+      ],
+      "Victim": [[["luis sandiga cabrera", 145]]],
+      "Weapon": []
+    }
+  ]
+}

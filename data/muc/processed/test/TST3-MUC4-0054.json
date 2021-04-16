@@ -1,0 +1,40 @@
+{
+  "docid": "TST3-MUC4-0054",
+  "doctext": "salvadoran people: good morning.  i am speaking on behalf of the salvadoran armed forces that is on its feet at 0115 on 12 november, confronting a treacherous attack by the fmln (farabundo marti national liberation front) terrorists who at 2000 on 11 november--displaying their warmongering strategy and without caring about the suffering of the salvadoran people--carried out treacherous actions in which the civilian population were the only ones who have suffered.    the military and public security personnel have reacted in an efficient manner in rejecting the terrorist enemy. we are obligated to report to the salvadoran people what has happened. the most important actions that have taken place on the night of 11 november are as follows: an attack on the residence of the legislative assembly president, who is unharmed; and an attack on the central elections council where no material damage or casualties occurred.  likewise, there was an attack on the presidential residence which caused slight material damage and no casualties. fortunately for all salvadorans, the president of the republic is under full protection and he was never in any danger. likewise, we report that there was an attack on his private residence.    we also want to report to the salvadoran people that some military personnel were harassed, such as the 1st infantry brigade, the national police garrison in the zacamil neighborhood, and the 6th infantry brigade in usulutan city where one minor was injured.  there was also harassment of the 3d infantry brigade with headquarters in san miguel. there was no material damage and there were no casualties. (continued)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["terrorists", 222]]],
+      "PerpOrg": [
+        [
+          ["fmln", 173],
+          ["farabundo marti national liberation front", 179]
+        ]
+      ],
+      "Target": [
+        [["residence of the legislative assembly president", 765]],
+        [["central elections council", 852]],
+        [["presidential residence", 965]],
+        [
+          ["his private residence", 1211],
+          ["private residence", 1215]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["terrorists", 222]]],
+      "PerpOrg": [
+        [
+          ["fmln", 173],
+          ["farabundo marti national liberation front", 179]
+        ]
+      ],
+      "Target": [[["6th infantry brigade", 1429]]],
+      "Victim": [[["6th infantry brigade", 1429]]],
+      "Weapon": []
+    }
+  ]
+}

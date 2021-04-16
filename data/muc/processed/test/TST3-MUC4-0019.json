@@ -1,0 +1,19 @@
+{
+  "docid": "TST3-MUC4-0019",
+  "doctext": "oil will not be pumped through the cano limon-covenas pipeline again until 30 may, because it was again blown up today near urum municipality, norte de santander department.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["cano limon-covenas pipeline", 35],
+          ["pipeline", 54]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

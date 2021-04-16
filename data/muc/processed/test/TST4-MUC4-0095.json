@@ -1,0 +1,19 @@
+{
+  "docid": "TST4-MUC4-0095",
+  "doctext": "a suspected guerrilla was killed in a fierce clash between rebels and government troops early tuesday morning (20 dec) in santa ana, 66 km west of san salvador. according to military sources, about 200 guerrillas from the feliciano ama front took up positions on the outskirts of the city and opened fire on the garrisons of the 2d infantry brigade and the national guard. they did not damage the garrisons or inflict any casualties.  (passage omitted)    while the rebels attacked the garrisons, another group attacked the cel (lempa river hydroelectric executive commission) san luis substation, 3 km north of santa ana. they caused minor damage to the control room with explosives. this plant distributes all of the electricity for the country's western area, so the damage was repaired under the supervision of cel engineers. (passage omitted)",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["rebels", 59],
+          ["another group", 497]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": [[["explosives", 673]]]
+    }
+  ]
+}

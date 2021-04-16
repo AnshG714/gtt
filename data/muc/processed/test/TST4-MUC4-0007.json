@@ -1,0 +1,24 @@
+{
+  "docid": "TST4-MUC4-0007",
+  "doctext": "the general management of aerolineas de nicaragua, aeronica, condemned yesterday's attack on its regional offices in guatemala city. aeronica general manager julio rocha said: we condemn these terrorist actions, endorsed by u.s. imperialism. he described the action as a political attack. once again we have witnessed actions by guatemalan rightist sectors which, endorsed by u.s. imperialism, are trying to intimidate us and to block the development of our national airline, rocha added.    the general manager added that the guatemalan police are in charge of the investigations to find the perpetrators of the attack who, using an unidentified vehicle, hurled two fragmentation grenades at aeronica's regional offices in guatemala city. (passage omitted)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["guatemalan rightist sectors", 329],
+          ["rightist sectors", 340]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [[["aeronica's regional offices", 693]]],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["fragmentation grenades", 667],
+          ["grenades", 681]
+        ]
+      ]
+    }
+  ]
+}

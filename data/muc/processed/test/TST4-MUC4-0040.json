@@ -1,0 +1,30 @@
+{
+  "docid": "TST4-MUC4-0040",
+  "doctext": "attention: the manuel jose arce urban command has brilliantly sabotaged a commercial building belonging to the bourgeoisie in the escalon neighborhood, causing heavy economic losses to the idle class. at least 37 businesses were destroyed.    the same urban command carried out other sabotage at the (name indistinct) parking lot--specifically, in the pink zone, or actually in what should be called the red zone. other sabotage took place at the lancer motel near apopa.    in a communique, the manuel jose arce urban command states that on 15 september, a lengthy organizational process to create a new political-military group--in which 25 delegations representing neighborhood commands participated--ended with the establishment of the manuel jose arce urban command.    the communique warns the army high command, its officers, christian democratic and arena (nationalist republican alliance) officials, and u.s. advisers that the manuel jose arce urban command is a weapon that will be used against them wherever they may be--at home, work, and at recreation and corruption centers. in addition, their property has been declared permament military targets until they stop the bloodshed against the people. (passage omitted)    in the past few hours, the fmln's pedro pablo castillo urban command executed an air force officer as part of the \"murder the criminals\" operation against repression, the massacre in san vicente, and the persecution of the university community.    the execution of an air force pilot officer was carried out in san salvador's las brisas neighborhood. we can imagine the happiness of our people upon hearing the news that one of the criminals among criminals--that is, one of the pilots who have bombed villages and cantons throughout our fatherland--was killed as a result of revolutionary justice. from now on, bombs will not only explode in the villages of chalatenango, cabanas, usulutan, morazan, and northern san miguel; more powerful bombs will now explode more frequently in the escalon and san benito neighborhoods, that is, in the neighborhoods of the rich, in their recreation centers, mansions, and wherever else they may go.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [[["manuel jose arce urban command", 15]]],
+      "Target": [[["commercial building", 74]], [["businesses", 213]]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [[["manuel jose arce urban command", 15]]],
+      "Target": [[["parking lot", 318]]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [[["manuel jose arce urban command", 15]]],
+      "Target": [[["lancer motel", 447]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "docid": "TST4-MUC4-0066",
+  "doctext": "luz leon, patriotic union (up) councilwoman for meta department, was seriously wounded today during an attack in villavicencio in which her husband, parmenides cuenca, was killed. the murderers have not yet been identified.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["luz leon", 0]], [["parmenides cuenca", 149]]],
+      "Weapon": []
+    }
+  ]
+}

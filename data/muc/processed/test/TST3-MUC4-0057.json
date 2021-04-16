@@ -1,0 +1,24 @@
+{
+  "docid": "TST3-MUC4-0057",
+  "doctext": "a high-ranking united nations official in san salvador today voiced disapproval regarding the support expressed by nicaraguan president daniel ortega for the farabundo marti national liberation front (fmln).    \"nicaragua's support for the fmln is an insult to the central american peace process,\" said the united nations official who wished to remain anonymous.  he is participating in the united nations peace efforts in the area.    the offensive launched by the fmln on 11 november, the most important one since 1981, has already resulted in 139 dead and 313 wounded, including soldiers, rebels, and civilians, government sources reported today.    ortega, on 11 november, described the army's actions as a \"genocide\" and a \"massacre,\" referring to the bombings of neighborhoods occupied by the guerrillas.    according to the official, the open support voiced by ortega to the salvadoran rebels \"is a mistake and an intervention.\"      the un official emphasized that \"this gives the salvadoran conflict an international dimension and the united states has said that is has not ruled out an intervention in the area due to the nicaraguan support to the marxist guerrilla of el salvador.\"      the salvadoran government of rightist alfredo cristiani has blamed ortega for violating the central american peace agreements by giving moral and logistical support to the fmln.    on 12 november, cristiani asked the international community to condemn president ortega's position.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["rebels", 592],
+          ["salvadoran rebels", 882]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["farabundo marti national liberation front", 158],
+          ["fmln", 201]
+        ]
+      ],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

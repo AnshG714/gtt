@@ -1,0 +1,27 @@
+{
+  "docid": "TST3-MUC4-0044",
+  "doctext": "police have confirmed that a bomb exploded early this morning in front of the offices that former president raul alfonsin has in this city. the explosion broke the windows of neighboring buildings and a woman was wounded slightly in an arm.    the attack occurred at 0320 (0620 gmt) in front of the ricardo rojas cultural center, located at 132 ayacucho street, where the former president has offices for his political activities. the explosion wounded the arm of beatriz iero, damaged the doors and walls of the offices, and broke the windows of neighboring buildings.    personnel from the 5th police precinct are investigating.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["offices that former president raul alfonsin has in this city", 78],
+          [
+            "ricardo rojas cultural center, located at 132 ayacucho street, where the former president has offices for his political activities",
+            299
+          ],
+          ["ricardo rojas cultural center", 299]
+        ],
+        [
+          ["neighboring buildings", 175],
+          ["buildings", 187]
+        ]
+      ],
+      "Victim": [[["beatriz iero", 464]]],
+      "Weapon": [[["bomb", 29]]]
+    }
+  ]
+}

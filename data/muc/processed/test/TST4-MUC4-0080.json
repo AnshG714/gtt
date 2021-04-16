@@ -1,0 +1,22 @@
+{
+  "docid": "TST4-MUC4-0080",
+  "doctext": "it was barely noon when a man who had just arrived on a flight from medellin went into the national bookstore to buy some newspapers.  meanwhile, his bodyguard-chauffeur waited for him in the lobby. the man with the newspapers, a cattleman named gustavo de jesus escobar fernandez, had just left the bookstore when the trouble started. escobar was preparing to go to his car when a man approached him.  the man, around 35 years old and 5 feet 9 inches tall, took out a 7.65 caliber pistol and began firing. panic spread throughout the terminal as people threw themselves on the floor to avoid being shot.    escobar immediately fell to the floor as his attacker tried to escape through one of the exits. apparently, he did not take into account the presence of the bodyguard, who had enough time to draw his gun and shoot the aggressor, who died at the scene. escobar fernandez was taken to the san pedro claver clinic, where he was pronounced dead on arrival. but the tragic event did not end there. a 20-year-old woman who was at the airport, maria florez gutierrez, was seriously wounded and her condition was listed as serious when this edition went to print.    early details did not clarify the motivation for the attack. according to documents found in his clothing, in addition to his activities as a cattleman, gustavo de jesus escobar was a legal advisor in congress, although this was denied by spokesmen from that institution. things took another turn that evening, when the television news program 24 hours reported that escobar fernandez was the cousin of pablo escobar gaviria. this gave rise to the supposition that the attack was linked to the series of killings in the so-called \"cartel war.\"    as to the attacker, neither his real motives nor his identity were known at the end of the week. (passage omitted)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["man", 26]]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [
+        [["gustavo de jesus escobar fernandez", 246]],
+        [["maria florez gutierrez", 1045]]
+      ],
+      "Weapon": [
+        [
+          ["7.65 caliber pistol", 469],
+          ["pistol", 482]
+        ]
+      ]
+    }
+  ]
+}

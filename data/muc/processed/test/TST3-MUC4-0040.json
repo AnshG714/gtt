@@ -1,0 +1,68 @@
+{
+  "docid": "TST3-MUC4-0040",
+  "doctext": "authorities have officially reported that several bank offices were adversely affected tonight in the chapinero neighborhood of northern bogota when two bombs exploded, causing minor injuries to a child and a security guard.    the first bomb exploded by the door of a banco de occidente branch at 2115 local time (0215 gmt), and the shock wave damaged other nearby banks.    following the explosion, a 9-year-old boy who lives near the banco de occidente was wounded by pieces of glass, said his relatives, who took him to the \"marly\" clinic near the area.    at the same time, another bomb exploded at a banco popular branch, two blocks away from where the first explosion took place, police said.    other banks and shops were damaged by the second explosion, and the security guard at the banco popular was also injured by pieces of flying glass, the authorities said.    according to preliminary reports, two men placed the explosive devices and left the scene on foot.    both of these attacks tonight, attributed to the drug trafficking cartels, took place after 10 bombs exploded early this morning in the teusaquillo area in downtown bogota.  the bombs were placed in nine political offices of the liberal and social conservative parties and in another bank office.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["two men", 910],
+          ["men", 914]
+        ],
+        [["drug trafficking cartels", 1027]]
+      ],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["banco de occidente branch", 269],
+          ["banco de occidente", 269]
+        ],
+        [
+          ["other nearby banks", 353],
+          ["nearby banks", 359],
+          ["banks", 366]
+        ],
+        [
+          ["banks", 366],
+          ["other banks", 703]
+        ],
+        [
+          ["banco popular branch", 606],
+          ["banco popular", 606]
+        ],
+        [["shops", 719]]
+      ],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["two bombs", 149],
+          ["bombs", 153],
+          ["bomb", 153],
+          ["explosive devices", 929]
+        ]
+      ]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        [["bank office", 50]],
+        [
+          [
+            "political offices of the liberal and social conservative parties",
+            1182
+          ],
+          ["political offices", 1182]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["bombs", 153],
+          ["10 bombs", 1070]
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "docid": "TST3-MUC4-0005",
+  "doctext": "salvadoran social democratic politician hector oqueli colindres was kidnapped today in guatemala city, his party reported in mexico city.    oqueli colindres is the secretary of the national revolutionary movement (mnr).  the mnr is directed by guillermo ungo.  oqueli is also socialist international secretary for latin america.    in a communique, the mnr said oqueli had arrived in guatemala on 11 january and was planning to travel today to nicaragua as a member of a socialist international delegation.    the communique adds that oqueli colindres was kidnapped between 0630 and 0700 by heavily armed men while on his way to the airport along with guatemalan social democratic leader gilda flores, who was also kidnapped.    oqueli, who returned last year to el salvador after a long exile in mexico, where he represented the farabundo marti national liberation front and the revolutionary democratic front (fmln-fdr) political-diplomatic commission.",
+  "templates": [
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [[["heavily armed men", 592]]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["hector oqueli colindres", 40]], [["gilda flores", 689]]],
+      "Weapon": []
+    }
+  ]
+}

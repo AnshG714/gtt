@@ -1,0 +1,30 @@
+{
+  "docid": "TST3-MUC4-0038",
+  "doctext": "das (administrative department of security) director miguel maza marquez confirmed today that the government and the judicial authorities had known for over 1 year that there were mercenaries in our country, but police authorities apparently prevented an investigation that had been ordered, as a matter of fact, by a female judge.  our reporter hernando corrales has the details:    (begin recording) (corrales) if the authorities in charge of an operation near puerto boyaca on 18 july last year had not sabotaged it, the foreign instructors at the service of the medellin cartel would now be jail.  on that date, marta lucia gonzalez, second judge of public order, wrote a file note saying that the judicial inspection was unjustly torpedoed with the argument that nothing had been found and that this argument was senseless and illogical since absolutely no one other than the undersigned judge could decide if he or she had anything to inspect, or if he or she should or should not conduct the judicial proceeding.    the document, which is contained in the dossier on the massacre in la hondura and la negra, uraba region, says that she was left 2 days inside a plane at the airport of the texas petroleum company in puerto boyaca and that the police authorities accompanying her failed to explain to her why they had not taken any action.    (unidentified speaker) in fact, she and several das inspectors encountered some obstacles.  the attorney general's office was informed of these obstacles in order for it to make an investigation. i think that when she and the das personnel were preparing to go to puerto boyaca it was already known that these people would be present there for these proceedings and this was quite worrisome.    (corrales) as is known, judge gonzalez had to leave colombia because her life was threatened, and her father, former boyaca governor alvaro gonzalez santana, was subsequently murdered.    moreover, gen maza marquez said further that the fact that a payment is being offered for the capture of pablo escobar and gonzalo rodriguez gacha does not mean that other persons accused of being capos of the mafia are not being sought too.    (maza) we are taking action the length and breadth of the country. we are not showing any special considerations because we intend to act indiscriminately.  what we want is to fight a scourge that has greatly harmed all colombians.    (corrales) the das director said that if anyone being held in connection with the investigation of the killing of luis carlos galan is released, that does not mean that the investigations are not proceeding well.  (end recording)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["marta lucia gonzalez", 616]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["alvaro gonzalez santana", 1877]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["luis carlos galan", 2526]]],
+      "Weapon": []
+    }
+  ]
+}

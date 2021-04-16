@@ -1,0 +1,64 @@
+{
+  "docid": "TST3-MUC4-0030",
+  "doctext": "two criminal attacks, the resignation of three judges, and a 24-hour strike by workers in the judicial sector--this sums up the judicial situation in colombia over the past 20 days.  the chaotic situation unleashed in bogota last night with the assasination of justice carlos valencia began on 28 july in medellin, when motorized paid assasins murdered third public order judge maria elena diaz.  diaz' murder unleashed a wave of protests; 17,000 empemployees from the legal sector staged a strike on 1 august and forced a statement from the government.    (begin recording) (president of national association of the judicial branch antonio suarez) i am warning the country that the next murder in the judicial branch will necessarily result in the collective resignation of all the judges.  (end recording)    protective measures have been adopted for all judges and work continues.  on 14 august, due to death threats against his daughter, first public order judge alvaro medina moreno, who was investigating the wanumen arms-trafficking case and the attack on the das (administrative department of security) director, announced his resignation.  two days later, on 16 august, due to death threats the eighth public order judge in medellin, who was investigating the governor of antioquia's murder, resigned.    shortly before justice valencia's murder yesterday, the seventh public order judge in bogota, who was investigating the search of a building in northern bogota, decided to resign and leave the country.  to conclude, the intimidation of judges led to valencia's murder last night in downtown bogota.    (begin recording) (unidentified witnesses) two people approached valencia and began shooting at him.  valencia's bodyguards stooped down, they did not have time to respond.  when their attackers fled, the bodyguards came out and began shooting wildly.  it was a dangerous situation for people in the area.  (end recording)    stupefied by the criminal attacks on the judicial sector, the government is seeking ways to solve the problems of intimidation.    madrid efe in spanish at 1824 gmt on 17 august reports that \"antonio suarez nino, president of the national association for the judicial branch (asonal), has reported that all of colombia's judges today presented their resignations because of the assasination last night of justice carlos valencia garcia.    \"the president of asonal announced the resignation en masse of the country's judges, saying they will present their resignations at the country's higher courts, and he requested a meeting with colombian president virgilio barco.    \"asonal president antonio suarez said that 'in response to this horrible massacre of the judicial branch, we have decreed an indefinite strike and the resignation en masse of all the judges, because the colombian people are not in any condition to continue killing each other with impunity while the executive branch looks on almost complacently.'\"    \"asonal issued a communique stating that 'this government lacks the authentic political resolve to guarantee and protect the integrity and lives of illustrious fellow patriots such as valencia.'\"",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["two people", 1659],
+          ["people", 1663]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["carlos valencia garcia", 2355]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["motorized paid assasins", 320],
+          ["paid assasins", 330]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["maria elena diaz", 378]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

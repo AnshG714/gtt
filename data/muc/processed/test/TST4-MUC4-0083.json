@@ -1,0 +1,14 @@
+{
+  "docid": "TST4-MUC4-0083",
+  "doctext": "today a 9-year-old student lost his left hand as a result of the serious injuries he sustained after he picked up a bomb that was hidden among some garbage bags near his school in the city of copiapo.    aldo crason, the regional education ministry secretary, has reported that the minor, who was identified as mauricio vera barrios, a 3d-year student in the catholic lyceum of atacama, was injured this morning at 0815.    according to crason, the minor was on his way to school when he stopped at the intersection of o'higgins and diana streets, some five blocks from his school. a bomb had been planted there next to some garbage bags.    the minor picked up the bomb and it exploded, sustaining serious injuries to his left hand. this hand was later amputated at the regional hospital where he was taken urgently.    shrapnel also hit the minor in his face, chest, abdomen, and legs, according to the regional education ministry secretary.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["mauricio vera barrios", 311]]],
+      "Weapon": [[["bomb", 116]]]
+    }
+  ]
+}

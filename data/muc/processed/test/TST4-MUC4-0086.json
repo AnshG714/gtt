@@ -1,0 +1,19 @@
+{
+  "docid": "TST4-MUC4-0086",
+  "doctext": "it was officially announced today that mayor hector arevalo of the ruling christian democratic party (pdc), who was elected mayor in a town in san vicente department last march, resigned because of death threats from salvadoran guerrillas.    arevalo is the first mayor to resign as a result of fmln threats. the fmln claims mayors are part of the counterinsurgency plan conducted by the salvadoran army.    arevalo, 39, was reportedly threatened with death by the guerrillas, who also ordered him to leave the town of santa clara, 65 km east of san salvador.    after announcing his resignation, arevalo said: \"i want to live and to feel untainted. i do not want to have enemies. i have a wife and children who need me.\"  arevalo said, however, that he cannot leave santa clara, a town of approximately 10,000 people, because he cannot afford to do so.    the fmln also claims that in many towns in northern and eastern el salvador, an area over which it claims to have more control than the army, there are two power centers: one is the guerrilla movement, and the other is the government. the fmln has stated that it will not allow the government to control that region.    thus far this year, the fmln has killed eight pdc and rightist nationalist republican alliance mayors in santa ana, morazan, san miguel, and usulutan departments.    the catholic church and the salvadoran political parties have condemned the murder of these government officials.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["salvadoran guerrillas", 217],
+          ["guerrillas", 228]
+        ]
+      ],
+      "PerpOrg": [[["fmln", 295]]],
+      "Target": [],
+      "Victim": [[["hector arevalo", 45]]],
+      "Weapon": []
+    }
+  ]
+}

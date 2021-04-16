@@ -1,0 +1,51 @@
+{
+  "docid": "TST4-MUC4-0037",
+  "doctext": "two bombs set off by fmln urban guerrillas last night partially destroyed the recently built la torre de cristal building on roosevelt avenue in san salvador.  the explosions caused no injuries, but damage to the eastern side of the first floor is estimated at several million colons. it is not known who owns the building.  (passage omitted)    in other military actions, one guerrilla was killed and two soldiers were injured in clashes in san vicente department.  according to official reports, the clash took place near tecoluca when rebels tried to attack troops from the military engineers detachment.    the fmln last night blew up the administrative offices of the (name indistinct) seaside resort in la paz department.  there were no injuries.    at daybreak today, fmln guerrillas blew up a power pole at galera quemada canton, ilobasco jurisdiction.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["fmln urban guerrillas", 21],
+          ["urban guerrillas", 26]
+        ]
+      ],
+      "PerpOrg": [[["fmln", 21]]],
+      "Target": [
+        [
+          ["recently built la torre de cristal building", 78],
+          ["la torre de cristal building", 93],
+          ["building", 113]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["two bombs", 0],
+          ["bombs", 4]
+        ]
+      ]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [[["fmln", 21]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["guerrillas", 32],
+          ["fmln guerrillas", 775]
+        ]
+      ],
+      "PerpOrg": [[["fmln", 21]]],
+      "Target": [[["power pole", 801]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "docid": "TST3-MUC4-0099",
+  "doctext": "official sources have reported blackouts in many parts of the country because of guerrillas sabotaging the electric power system during the night of 31 may and the morning of 1 june.    according to a military bulletin, the guerrillas destroyed 12 electric poles and 2 power pylons in the central and western parts of the country in less than 12 hours.    in the eastern part of the country, the lempa river hydroelectric executive commission (cel) reported that one of the country's main power lines was out of service on the morning of 1 june because a number of pylons were destroyed.    the armed forces press committee (coprefa) reported that on the morning of 1 june guerrillas, using mortars and rifles, attacked a cel sub-station in the natividad canton in the western department of santa ana. there were no casualties, but the guerrillas had damaged a transformer.    on the morning of 1 june, there was a blackout throughout most of the capital caused by urban commandos of the farabundo marti national liberation front (fmln).    the guerrillas have increased their activity on the first anniversary of president alfredo cristiani's government.  cristinai is scheduled to address the nation on 1 june to comment on his first year in office.    the army has increased its patrols aided by helicopters that overfly the capital city.    coprefa reported that one soldier was killed and seven were wounded on 1 june during an ambush of a military convoy near texistepeque, west of san salvador.    according to coprefa, another soldier was wounded in a guerrilla ambush against the elite bracamonte battalion on a highway in central el salvador.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["guerrillas", 81],
+          ["urban commandos", 965],
+          [
+            "urban commandos of the farabundo marti national liberation front (fmln)",
+            965
+          ],
+          [
+            "urban commandos of the farabundo marti national liberation front",
+            965
+          ]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["farabundo marti national liberation front", 988],
+          ["fmln", 1031]
+        ]
+      ],
+      "Target": [
+        [["electric poles", 248]],
+        [
+          ["power pylons", 269],
+          ["pylons", 275]
+        ],
+        [
+          ["power pylons", 269],
+          ["pylons", 275]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["guerrillas", 81]]],
+      "PerpOrg": [
+        [
+          ["farabundo marti national liberation front", 988],
+          ["fmln", 1031]
+        ]
+      ],
+      "Target": [[["cel sub-station", 722]], [["transformer", 861]]],
+      "Victim": [],
+      "Weapon": [[["mortars", 691]], [["rifles", 703]]]
+    }
+  ]
+}

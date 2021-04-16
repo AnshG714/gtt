@@ -1,0 +1,44 @@
+{
+  "docid": "TST3-MUC4-0061",
+  "doctext": "farabundo marti national liberation front (fmln) detachments have conducted the largest military operation in the entire history of the salvadoran conflict in the country's capital.    an offensive was launched simultaneously throughout the country's territory; however, san salvador's city blocks, which were the scene of fierce fighting between fmln detachments and government troops, were the epicenter of sunday's events.  the intense firefight involving artillery and helicopters lasted approximately 18 hours and encompassed virtually the entire capital, completely paralyzing life in the city.  according to reuter, attempts were made to storm president alfredo cristiani's official and personal residences; however, it is reported that the president was not hurt.    reports of the losses on both sides are contradictory.    a state of siege has been introduced in el salvador and constitutional guarantees have been suspended.  a curfew is in force in the capital, and the international airport has been closed. according to president cristiani, whose speech was broadcast on the radio, these steps are needed to \"defend the population against left-wing terrorism.\"  according to the president, the military are in complete control of the situation; however, it is reported from san salvador that these words by a.  cristiani were heard on the airwaves accompanied by continual explosions and shooting.    international observers regard events in san salvador in the context of the interrupted talks between the government and the insurgents.  the third round of these talks should have been held recently in caracas, but opposition representatives refused to take part in them after a left-wing trade union's headquarters was subjected to artillery bombardment resulting in the deaths of at least 10 people.  according to the insurgents, the government decided on dialogue with them solely out of propaganda considerations, with no intention of reaching any agreement.  sunday's offensive was thus an attempt on their part to show themselves to be a force to be reckoned with.    in the opinion of observers, however, events in san salvador practically rule out all hopes of success for future talks between the government and representatives of the insurgents.  moreover, the fighting in the salvadoran capital, a reuter correspondent believes, dealt the fragile peace settlement process in central america a considerable blow.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["detachments", 49],
+          ["fmln detachments", 347]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["farabundo marti national liberation front", 0],
+          ["fmln", 43]
+        ]
+      ],
+      "Target": [
+        [
+          [
+            "president alfredo cristiani's official and personal residences",
+            651
+          ]
+        ]
+      ],
+      "Victim": [[["alfredo cristiani", 661]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack / bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["left-wing trade union's headquarters", 1695],
+          ["trade union's headquarters", 1705]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [[["artillery", 459]]]
+    }
+  ]
+}

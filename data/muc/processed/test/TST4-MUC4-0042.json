@@ -1,0 +1,82 @@
+{
+  "docid": "TST4-MUC4-0042",
+  "doctext": "according to military sources, a bloody guerrrilla offensive today left 35 guerrillas and 5 soldiers dead, 6 civilians wounded, and 5 bridges partially destroyed.    the outbreak of the violence coincided with the reply from all the rebel groups to an official peace plan and with the confirmation by the labor federations that they will hold a general strike on thursday despite government efforts to prevent it.    the so-called national guerrilla coordinating board (cng) proposed to president virgilio barco the holding of a summit between the rebel leaders and the government, defense, and energy and mines ministers at a place and date to be agreed upon.    the document proposed that the mediator of the dialogue be the democratic coexistence commission (comision de convivencia democratica), headed by msgr dario castrillon, president of the latin american bishops conference. the document is viewed as the cng's official reply to the government's peace plan.    guerrillas of the farc and the popular liberation army (epl) attacked four towns in northern colombia, leaving 17 guerrillas and 2 soldiers dead and 3 bridges partially destroyed.    the defense ministry reported that farc guerrillas ambushed a military convoy in huila department, killing three soldiers. it also reported that three rebels were killed in clashes in southern colombia.    it added that nine guerrillas of the army of national liberation were killed in clashes with troops of the 4th infantry brigade on the border of antioquia and choco departments and that six farc rebels were killed in caqueta department.    suspected guerrillas dynamited at dusk a bridge in bogota's urban center, injuring six people. the bridge did not sustain major damage. another bridge was blown up in santander department.    military sources said these were rebel actions in support of the strike and they charged that workers, peasants, and bus drivers are being threatened to force them to join the strike.    president virgilio barco headed a meeting of the national security council to adopt measures to prevent disorders during the planned strike and to guarantee public transportation for the people.    the government and the workers yesterday broke off their talks after being unable to reach agreement on an increase of the minimum wage and on a freeze in the prices of staples.    the strike, called by the united workers confederation and the general confederation of labor, will protest the fact that the government has not replied to labor demands they presented in may.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["guerrillas", 75],
+          ["guerrillas of the farc and the popular liberation army (epl)", 971],
+          ["guerrillas of the farc and the popular liberation army", 971]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["epl", 215],
+          ["popular liberation army", 1002]
+        ],
+        [["farc", 989]]
+      ],
+      "Target": [[["bridges", 134]]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["guerrillas", 75],
+          ["guerrillas of the farc and the popular liberation army", 971],
+          ["guerrillas of the farc and the popular liberation army (epl)", 971],
+          ["suspected guerrillas", 1600]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["epl", 215],
+          ["popular liberation army", 1002]
+        ],
+        [["farc", 989]]
+      ],
+      "Target": [[["bridge", 134]]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["guerrillas", 75],
+          ["guerrillas of the farc and the popular liberation army", 971],
+          ["guerrillas of the farc and the popular liberation army (epl)", 971],
+          ["suspected guerrillas", 1600]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["epl", 215],
+          ["popular liberation army", 1002]
+        ],
+        [["farc", 989]]
+      ],
+      "Target": [[["bridge", 134]]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "forced work stoppage",
+      "PerpInd": [],
+      "PerpOrg": [
+        [
+          ["epl", 215],
+          ["popular liberation army", 1002]
+        ],
+        [["farc", 989]]
+      ],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

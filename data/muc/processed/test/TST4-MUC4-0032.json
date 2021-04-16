@@ -1,0 +1,24 @@
+{
+  "docid": "TST4-MUC4-0032",
+  "doctext": "a small home-made bomb exploded at dawn today at the headquarters of the shoe industry workers union, in this city, causing small material damages.    the bomb, made with black gunpowder, was planted at 0330 on the windowsill of the building located on 2157 tucuman street in barrio alta, cordoba, where the bomb interrupted union functions. this union is headed by miguel montero.    the explosion caused some panic near the area, but it was soon discovered that the blast only shattered windows.  no casualties were reported. (passage omitted)",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [[["headquarters of the shoe industry workers union", 53]]],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["small home-made bomb", 2],
+          ["home-made bomb", 8],
+          ["bomb", 18]
+        ],
+        [
+          ["black gunpowder", 171],
+          ["gunpowder", 177]
+        ]
+      ]
+    }
+  ]
+}

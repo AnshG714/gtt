@@ -1,0 +1,39 @@
+{
+  "docid": "TST4-MUC4-0087",
+  "doctext": "government sources have reported that four unidentified civilians carrying large-caliber firearms kidnapped alberto celis sanchez, mayor of el carmen de atrato, on 8 december at el doce on the quibdo-medellin highway. the kidnappers handed humberto florez sanchez, the mayor's driver, a document signed by the ernesto \"che\" guevara front of the national liberation army's camilist unity claiming responsibility for the action.    mayor celis was unescorted at the time he was kidnapped, and he had failed to notify the police that he was leaving town.    celis, 42, a businessman and social conservative party member, was elected mayor in june.    the choco authorities met to consider the situation and report to government minister cesar gaviria trujillo.    in addition, sipi mayor manuel santos cruz arboleda was seriously wounded by a gunshot to the head in an unexplained incident.    cruz was rushed to the eduardo santos hospital in istmina, where doctors were trying to save his life.",
+  "templates": [
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [
+        [
+          ["four unidentified civilians carrying large-caliber firearms", 38],
+          ["four unidentified civilians", 38],
+          ["unidentified civilians", 43]
+        ],
+        [
+          [
+            "ernesto \"che\" guevara front of the national liberation army's camilist unity",
+            310
+          ],
+          ["ernesto \"che\" guevara front", 310]
+        ],
+        [
+          ["national liberation army's camilist unity", 345],
+          ["camilist unity", 372]
+        ]
+      ],
+      "PerpOrg": [[["national liberation army", 345]]],
+      "Target": [],
+      "Victim": [[["alberto celis sanchez", 108]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["manuel santos cruz arboleda", 785]]],
+      "Weapon": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "docid": "TST4-MUC4-0038",
+  "doctext": "honduran military sources yesterday reported that several times in september, eps soldiers entered honduran territory and harassed the 6th infantry battalion observation post in el pital, cifuentes, el paraiso department.    the raids into honduran territory and the harassments occurred as follows:    1. on 19 august 1988, eps troops set up communications tracking equipment (radar) in loma fria, which was protected by missiles and antiaircraft machineguns.    2. on 21 august 1988, eps soldiers kidnapped honduran citizens rosalio mejia rodriguez and her son guillermo saul mejia herrera, who were taken to nicaraguan territory.    3. on 6 september 1988, an eps patrol entered honduran territory and harassed the 6th infantry battalion posts located in el pital, cifuentes. our troops responded to their fire and suffered no casualties.    4. on 9 september 1988, eps soldiers attacked with machinegun and mortar fire the 9th infantry brigade battalion post in cerro pelon, la lampara, quebrada del oro, and tapalchi, in poteca river, paraiso. during the attack, soldier jose mario chicas diaz was wounded.  our troops responded to the fire and reported no (further) casualties.    5. on 10 september 1988, eps troops continued attacking the same 9th infantry brigade battalion post with 50-mm machineguns; patrols were increased and personnel and weapons were deployed to the guapinol, comarca, paraisito, and comarca guanito sectors, near the poteca river.    6. on 14 september 1988, eps soldiers harassed with machinegun fire the 9th infantry brigade post located in el guineo and pueblo nuevo, cifuentes. no casualties were reported.    7. on 18 september 1988, eps soldiers attacked positions held by the 9th infantry battalion at la congolona on the poteca river with 82 - and 120-mm mortars, rpg-7's, and rifle fire. the fire was returned without any reported casualties.    8. on 19 september 1988, eps soldiers attacked, with mortars, rifle, and rpg-7's, positions held by the 6th infantry battalion in el pital, and also in aduena vieja, guasapo, and cifuentes. our troops returned the fire without any reported casualties.    9. on 20 september 1988, the eps freed hector rosales mejia rodriguez and his son guillermo saul mejia herrera, who had been kidnapped by eps troops on 21 august 1988.    10. on 24 september 1988, eps troops harassaed with rifle fire a 6th infantry battalion position in aduana vieja, cifuentes, without any reported casualties.    11. on 25 september 1988, eps troops harassed aduana cifuentes with rifle fire, without any reported casualties.    12. on 25 september 1988, eps troops shot a 120-mm mortar that fell 75 meters from casa de ladrillo in cifuentes.",
+  "templates": [
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [
+        [
+          ["eps soldiers", 78],
+          ["soldiers", 82],
+          ["eps troops", 325],
+          ["troops", 329]
+        ]
+      ],
+      "PerpOrg": [[["eps", 78]]],
+      "Target": [],
+      "Victim": [
+        [["rosalio mejia rodriguez", 527]],
+        [["guillermo saul mejia herrera", 563]],
+        [["hector rosales mejia rodriguez", 2182]]
+      ],
+      "Weapon": []
+    }
+  ]
+}

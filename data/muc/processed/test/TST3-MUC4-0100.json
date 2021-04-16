@@ -1,0 +1,19 @@
+{
+  "docid": "TST3-MUC4-0100",
+  "doctext": "cauhtemoc cardenas, national coordinator for the party of the democratic revolution (prd), said during a news conference on 7 june that the visit to mexico by salvadoran president alfredo cristiani is a visit by \"a repressive ruler who oppresses a large sector of his people.\"    at the same news conference, prd senator porfiiro munoz ledo said that, as a sign of protest, his party will not attend the 8 june congressional session, which will be attended by cristiani. munoz, who is deputy for the federal district, said that \"cristiani is the head of a repressive government that is guilty of flagrant human rights violations.\"    he said that \"there is evidence that cristiani was involved in the murder of the six jesuit priests\" which occurred on 16 november in san salvador.  he also referred to the \"illegal\" arrest on 31 may of mexican professor maria eugneia ochoa garcia, whom the salvadoran government accused of having connections with the salvadoran guerrillas.  she was released on 7 june.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["salvadoran president alfredo cristiani", 159],
+          ["president alfredo cristiani", 170]
+        ]
+      ],
+      "PerpOrg": [[["government", 567]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

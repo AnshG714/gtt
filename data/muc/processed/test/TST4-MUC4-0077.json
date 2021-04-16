@@ -1,0 +1,61 @@
+{
+  "docid": "TST4-MUC4-0077",
+  "doctext": "presumed shining path maoist extremists ambushed and killed 68 peasants in the locality of balcon, 200 km north of the southern city of ayacucho.    a peasant defense patrol unit was combing the area in search of guerrillas when it was ambushed on 22 november, the newspaper expreso reported today.    the wave of violence has hit peruvian tourist establishments in the city of huaraz, capital of the ancash department, where four inns and hotels were bombed last night, damaging the buildings and injuring an 18 year-old girl.    in cusco, 1,000 km southeast of lima, a bus (as received) heading toward machu pichu went out of control as the result of sabotage and fell into a 60-meter ravine. the wives of the jersey city, united states, and cusco mayors died in this accident.    leftist senator enrique bernales ballesteros, president of the special commission for the investigation and study of terrorism and violence, has noted that the escalation of violence has claimed the lives of 21 people per day during the month of november. he said that the increased violence can be traced to actions by the terrorist groups shining path and tupac amaru revolutionary movement (mrta). these attacks were repressed by the forces of order.    senator bernales reported that 630 people were killed in violent acts in november and that 1,775 have been killed over the past 12 months.    bernales said that 403 people were killed in november as a result of violent acts, including 147 civilians, 165 presumed terrorists, 65 armed forces members, and 26 drug traffickers. a total of 227 people were killed in urban violent acts.    senator bernales added that a total of nearly 13,000 people have been killed since the terrorist violence began in 1980.    bernales expressed his concern over the fact that 67 percent of the people killed in violent acts involved youths who were between 15 and 29 years of age. he asked the government to establish guidelines to counter this social phenomenon.    amid this bloody and destructive situation, the peruvian episcopal conference has made a christmas appeal, asking that--without ignoring \"the seriousness of the situation\"--for a truce \"for peace, reconciliation, and tranquillity\" to prevail in the country.    the bishops said: \"recalling he who prevailed over death, we call upon those who have resorted to violence and killings as a solution to the evils of society, to allow the citizens for whom they claim to struggle to live like brothers.\"",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["presumed shining path maoist extremists", 0],
+          ["shining path maoist extremists", 9],
+          ["maoist extremists", 22],
+          ["extremists", 29]
+        ]
+      ],
+      "PerpOrg": [[["shining path", 9]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["terrorist groups", 1107],
+          ["presumed terrorists", 1494],
+          ["terrorists", 1503]
+        ]
+      ],
+      "PerpOrg": [
+        [["shining path", 9]],
+        [
+          ["tupac amaru revolutionary movement", 1141],
+          ["mrta", 1177]
+        ]
+      ],
+      "Target": [[["inns", 431]], [["hotels", 440]]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["terrorist groups", 1107],
+          ["presumed terrorists", 1494],
+          ["terrorists", 1503]
+        ]
+      ],
+      "PerpOrg": [
+        [["shining path", 9]],
+        [
+          ["tupac amaru revolutionary movement", 1141],
+          ["mrta", 1177]
+        ]
+      ],
+      "Target": [[["bus", 42]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

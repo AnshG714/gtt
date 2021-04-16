@@ -1,0 +1,30 @@
+{
+  "docid": "TST3-MUC4-0073",
+  "doctext": "a powerful bomb hidden in a truck exploded outside the headquarters of colombia's secret police wednesday, causing severe damage, bogota mayor andres pastrana said.    early reports said several people were killed and injured.    mr. pastrana said the bomb exploded outside the building of the secret police, known from the spanish initials as das (administrative department of security), in western bogota at 7:35 a.m.    the nearby offices of the bogota transportation department were also damaged, he said.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["headquarters of colombia's secret police", 55],
+          ["building of the secret police", 278],
+          ["das", 344],
+          ["administrative department of security", 349]
+        ],
+        [
+          ["nearby offices of the bogota transportation department", 427],
+          ["offices of the bogota transportation department", 434]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["powerful bomb hidden in a truck", 2],
+          ["bomb hidden in a truck", 11]
+        ]
+      ]
+    }
+  ]
+}

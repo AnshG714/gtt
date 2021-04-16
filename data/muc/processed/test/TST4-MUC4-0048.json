@@ -1,0 +1,19 @@
+{
+  "docid": "TST4-MUC4-0048",
+  "doctext": "the second meeting of the so-called group of eight concluded today in punta del este, uruguay. after the uruguay declaration was signed, the presidents hosted a news conference. colombian president virgilio barco answered a uruguayan journalist's question on the current situation in our country:    (begin recording) (reporter) the situation in your country is very serious. thousands are dead, paramilitary death squads go unpunished despite their murders of patriotic union (up) members and popularly elected legislators. mr president, how can you explain this situation and how can you reconcile the situation existing in your country with your affirmation of the existence of democracy? thank you.    (barco) i do not believe your question is relevant to the composition and purpose of the group of eight meeting.  the question arises from a lack of information. colombia is a democracy, supported by a professional armed forces.  the soldiers are colombians who are complying with the requirement to perform military service. they are youths from all groups, from the rural areas, the cities, and from all political parties. the officers are professionals, and they do not follow militarist doctrines.    the armed forces members who have participated--may i add on an individual and personal basis--in any human rights violations are under investigation, will be arraigned before a military court, and many of them have been expelled. civil courts have been notified of some of those crimes, and some arrest warrants have been issued. military justice authorities are also conducting legal actions. (end recording)    during the same news conference this morning, president barco notified journalists that last thursday's strike had been an attempt by armed rebel groups against democracy. he also said that the press censorship decree was no longer valid.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["paramilitary death squads", 396],
+          ["death squads", 409]
+        ]
+      ],
+      "PerpOrg": [[["armed forces", 921]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

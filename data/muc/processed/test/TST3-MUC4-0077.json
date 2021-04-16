@@ -1,0 +1,17 @@
+{
+  "docid": "TST3-MUC4-0077",
+  "doctext": "in view of the successful operation today in which gonzalo rodriguez gacha, his son freddy, and several of his bodyguards were killed, president virgilio barco today called an urgent council of ministers meeting to discuss the situation and receive a full report from military and police authorities.  here is the second part of the news conference featuring das director general miguel maza marquez.    (begin recording) (maza) the das has evidence showing that this individual masterminded two attacks including the the most recent and worst one in which more than 60 innocent people were killed.    (reporter) how do you know that gonzalo rodriguez gacha masterminded the recent attack on das?    (maza) because the investigations that we have conducted along with the national police ever since the attack occurred point in that direction.  if we compare the modus operandi of rodriguez and his people, we come to the conclusion that the period between the (word indistinct) and the action itself are very similar.  furthermore, this man was in there celebrating the genocide that he had committed in bogota.    (reporter) (question indistinct)    (maza) because the intelligence reports indicate this, and according to certain statements we have, he was overjoyed by the damage that he had caused in the city given the large number of people who were killed; seeing him sunbathing and swimming on the atlantic coast led us to believe this.    (reporter) is this a police reaction to the drug traffickers' attack on das?    (maza) no, i am not saying that it is a reaction.  this is the result of very professional work on the part of the national police. that is what i told the president today.  i briefed him on the events which led to the action that has changed the situation which had prevailed in the country just a few hours ago.  (end recording)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [["gonzalo rodriguez gacha", 51]],
+        [["drug traffickers", 1492]]
+      ],
+      "PerpOrg": [],
+      "Target": [[["das", 359]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

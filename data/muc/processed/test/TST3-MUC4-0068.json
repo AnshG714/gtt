@@ -1,0 +1,61 @@
+{
+  "docid": "TST3-MUC4-0068",
+  "doctext": "the rebel commanders who directed the occupation of several san salvador neighborhoods last week, today headed the seizure of the sheraton hotel, where oas secretary general joao baena soares was trapped for more than 8 hours.    newsmen who entered the hotel this afternoon during the evacuation of baena by diplomats were able to confirm that commander amilcar, known as \"el choco,\" who directed the combat operations in the zacamil neighborhood, was seen today on the third floor of the sheraton hotel.    several rebels have said that facundo guardado (\"commander esteban\"), one of the founders of the farabundo marti national liberation front and one of the leaders of the offensive that began in the capital on 11 november, is somewhere near the hotel.    according to the rebels, guardado expected to initiate this afternoon's \"negotiations\" with the manager of the hotel, robert newell.  several u.s. military advisers, as well as one from guatemala and another one from chile remain in the hands of the rebels.  el choco said: \"we can resist for as long as we have to.  all they can do is bomb the place and let us see if they are willing to do that.\"    according to the young guerrilla commander, the rebel withdrawal from the zacamil, cuscatancingo, and mejicanos neighborhoods, among others, \"was part of the plan\" that was completed today with the arrival at the sheraton hotel area.  the rebel said: \"we have come here today, to the escalon colony, to their area, the area of the bourgeoisie, to see if they do here what they did with the people, who were hurt by the air force bombing operations.\"    at 0430 (1030 gmt) today, the fmln guerrillas initiated heavy fighting around the sheraton hotel, where oas secretary general joao baena soares was staying.    baena soares was evacuated from the sheraton hotel to the headquarters of the armed forces staff where he met with the \"highest salvadoran authorities,\" according to diplomatic and military sources.    this afternoon, the guerrillas are still occupying several floors of the hotel, which has bullet holes, destroyed windows, and broken furniture all over the floor.    the area has been surrounded by light armored tanks and is being patrolled by several armed salvadoran air force helicopters.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [["rebel commanders", 4]],
+        [["commander amilcar", 345]],
+        [
+          ["rebels", 517],
+          ["fmln guerrillas", 1647],
+          ["guerrillas", 1652]
+        ],
+        [
+          ["facundo guardado", 539],
+          ["commander esteban", 558]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["farabundo marti national liberation front", 606],
+          ["fmln", 1647]
+        ]
+      ],
+      "Target": [
+        [
+          ["sheraton hotel", 130],
+          ["hotel", 139]
+        ]
+      ],
+      "Victim": [[["joao baena soares", 174]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [
+        [["rebel commanders", 4]],
+        [["commander amilcar", 345]],
+        [
+          ["rebels", 517],
+          ["fmln guerrillas", 1647],
+          ["guerrillas", 1652]
+        ],
+        [
+          ["facundo guardado", 539],
+          ["commander esteban", 558]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["farabundo marti national liberation front", 606],
+          ["fmln", 1647]
+        ]
+      ],
+      "Target": [],
+      "Victim": [[["joao baena soares", 174]]],
+      "Weapon": []
+    }
+  ]
+}

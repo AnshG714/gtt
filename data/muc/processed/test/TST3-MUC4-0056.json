@@ -1,0 +1,14 @@
+{
+  "docid": "TST3-MUC4-0056",
+  "doctext": "we have a last minute report from san miguel.  at exactly 1100 1700 gmt yesterday, 12 november, an armored personnel carrier was destroyed with an rpg-7 rocket (words indistinct).  four enemy casualties were reported.  we repeat: an armored personnel carrier was destroyed by our fighters in san miguel.  our fighters used an rpg-7 rocket launcher to destroy the armored personnel carrier.    now we have more information from san salvador.  at 0800 1400 gmt this morning, a c-47 plane flew over and strafed the mejicanos downtown area, where thousands of people live.  according to the report we received, many civilians have been injured.  we were also advised that the c-47 left the area after its attack.    we once again call on the international community to pressure alfredo cristiani's government to stop this kind of human rights violation.  these actions are directed against the civilian population.  the armed forces has been shelling and strafing densely populated areas in san salvador since saturday.  in the past we have denounced indiscriminate shelling of rural areas; however, these are unprecedented attacks.  this shelling and bombing has already resulted in many civilian casualties.",
+  "templates": [
+    {
+      "incident_type": "attack / bombing",
+      "PerpInd": [],
+      "PerpOrg": [[["armed forces", 916]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

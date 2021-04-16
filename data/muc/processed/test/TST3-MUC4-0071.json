@@ -1,0 +1,42 @@
+{
+  "docid": "TST3-MUC4-0071",
+  "doctext": "our fmln (farabundo marti national liberation front) forces have taken over bunkers from the various military chiefs in escalon and manuel jose arce neighborhoods where our units seized thousands of cartridges, rifles, grenades, and other types of arms which these military chiefs usually store in the bunkers that they maintain in these residential sectors.    as we have reported, the general staff responded with a 4-pronged delayed response.  the armed forces attacked from four advanced positions, one held by the bracamonte battalion, which advanced toward escalon; it was neutralized by our ambushes.  our units are entrenched in the mansions of the oligarchs in that sector of escalon neighborhood.  they ambushed and repelled attacks from the vanguard positions launched by the armed forces.  the second direction in which the enemy responded to our presence was directed on the southern freeway.  this second position was ambushed with rpg-7 rocket launchers and machinegun fire.  the third enemy position, which was advancing on santa tecla, was ambushed at la universal point and was also neutralized.  the atlacatl battalion deployment along guadalupe gardens was also neutralized.  our battalions are staging sabotage actions on electricity posts in the escalon and san benito neighborhoods.    also, we have a new report which indicates that fmln units have set up downed electricity posts as barricades along the south freeway and in the escalon neighborhood.  we repeat, along the south freeway and in the escalon neighborhood, fmln units have used downed electricity posts and vehicles as barricades.    this is the situation in el salvador.  throughout the northern sector of the capital, our units are maintaining positions.  the troops in the interior part of the republic in that northern region refuse to advance toward our positions, while our units are extending along the northwestern and southwestern region of the capital.  our units are extending and moving foward along these zones.  the air force has opened fire on some of our positions in the escalon and san benito neighborhoods.  we reiterate the call to the inhabitants of the escalon and san benito neighborhoods to abandon all those zones immediately.  the air force is beginning new air raids on fmln positions in those regions.  therefore, we call on the inhabitants of the escalon and san benito neighborhoods to leave those areas.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["forces", 53],
+          ["battalions", 1200]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["fmln", 4],
+          ["farabundo marti national liberation front", 10]
+        ]
+      ],
+      "Target": [[["electricity posts", 1243]]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["forces", 53],
+          ["battalions", 1200]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["fmln", 4],
+          ["farabundo marti national liberation front", 10]
+        ]
+      ],
+      "Target": [[["electricity posts", 1243]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

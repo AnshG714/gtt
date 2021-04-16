@@ -1,0 +1,14 @@
+{
+  "docid": "TST3-MUC4-0053",
+  "doctext": "we are hearing statements by commander jorge shafik handal, who is talking about col ponce and cristiani's responsibility in the terrorist attack on fenastras.  this incident prompted a visit to our country by u.s. official bernard aronson.  let us hear what commander handal has to say about the u.s.  official's visit.    (begin recording) (handal) of course, the united states does not want to appear as if it were withdrawing support from president cristiani.  we were just saying that aronson had arrived and he looked worried.  the nice looking glass house they had built has rapidly begun to fall apart.  aronson apparently came to see how he could patch things up.  we recall a similar high-level visit back around 1984, if my memory serves me right, when the current u.s. president arrived.  at that time he was vice president under the bush administration, no, the reagan administration, and came to see how to improve the supposedly centrist government and how to put an end to the death squads.  he took a list back with him...(changes thought) let us take a look at how they operate.  when they take any action they are very clear and direct.  they had a political interest in putting all this together, so bush took back with him a list of 15 military members so they could be fired. (end recording)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["col ponce", 81]], [["president cristiani", 443]]],
+      "PerpOrg": [],
+      "Target": [[["fenastras", 149]]],
+      "Victim": [[["fenastras", 149]]],
+      "Weapon": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "docid": "TST4-MUC4-0054",
+  "doctext": "six guerrillas of a still unidentified group died today in a skirmish with army troops in morelia, caqueta department.    meanwhile, in ciudad bolivar, antioquia department, insurgents apparently belonging to the national liberation army placed a bomb in the city's administrative offices and also destroyed four farms, causing approximately 100 million pesos in damage.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          [
+            "insurgents apparently belonging to the national liberation army",
+            174
+          ],
+          ["insurgents", 174]
+        ]
+      ],
+      "PerpOrg": [[["national liberation army", 213]]],
+      "Target": [[["city's administrative offices", 259]], [["farms", 313]]],
+      "Victim": [],
+      "Weapon": [[["bomb", 247]]]
+    },
+    {
+      "incident_type": "attack / bombing",
+      "PerpInd": [
+        [
+          [
+            "insurgents apparently belonging to the national liberation army",
+            174
+          ],
+          ["insurgents", 174]
+        ]
+      ],
+      "PerpOrg": [[["national liberation army", 213]]],
+      "Target": [[["farms", 313]]],
+      "Victim": [],
+      "Weapon": [[["bomb", 247]]]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "docid": "TST4-MUC4-0015",
+  "doctext": "bogota inravision television cadena 1 in spanish at 1730 gmt on 1 september broadcasts approximately 3 minutes of reports by national police director general jose guillermo medina sanchez, who confirms that 15 civilians were killed \"tuesday night\" in el tomate, canaletes municipality, cordoba department, by a gang \"possibly belonging to the popular liberation army.\" the initial report mentions 10 killed, but gen medina mentions \"12 killed, 15 injured, and 26 shacks burned.\" the reporter asks gen medina if those who were killed belonged to a civil defense group, gen medina says they did not. in another report, which lasts 1 minute, the announcer says president virgilio barco will tonight disclose his government's peace proposal, which contains three basic points: \"regional dialogue, demobilization, handing over of weapons, and pardon.\" the rest of this report gives the 40-year background of violence.  near the end of the cast, the announcer adds to the initial report on the el tomate attack with a 3-minute update that adds \"2 injured, 21 houses destroyed, and 1 bus burned.\" reporter osvaldo castilla describes video images of how the area was left. castilla reports that \"tuesday night, while residents slept or watched television, 30 guerrillas dressed in military uniforms set the shacks on fire, indiscriminately shooting those who ran for their lives, while spraying gasoline on others and setting them on fire.\" the announcer says that besides the dead, there are several people missing, and that the attackers left slogans painted on walls. the announcer says the attack is thought to have been carried out by an army of national liberation group.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["gang \"possibly belonging to the popular liberation army.\"", 311],
+          ["gang", 311]
+        ],
+        [
+          ["30 guerrillas dressed in military uniforms", 1248],
+          ["guerrillas dressed in military uniforms", 1251],
+          ["guerrillas", 1251],
+          ["army of national liberation group", 1635]
+        ]
+      ],
+      "PerpOrg": [
+        [["popular liberation army", 343]],
+        [["army of national liberation", 1635]]
+      ],
+      "Target": [[["houses", 1053]]],
+      "Victim": [],
+      "Weapon": [[["fire", 1309]]]
+    },
+    {
+      "incident_type": "arson",
+      "PerpInd": [
+        [
+          ["gang \"possibly belonging to the popular liberation army.\"", 311],
+          ["gang", 311]
+        ],
+        [
+          ["30 guerrillas dressed in military uniforms", 1248],
+          ["guerrillas dressed in military uniforms", 1251],
+          ["guerrillas", 1251],
+          ["army of national liberation group", 1635]
+        ]
+      ],
+      "PerpOrg": [
+        [["popular liberation army", 343]],
+        [["army of national liberation", 1635]]
+      ],
+      "Target": [
+        [
+          ["shacks", 463],
+          ["houses", 1053]
+        ],
+        [["bus", 1077]]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

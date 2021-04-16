@@ -1,0 +1,27 @@
+{
+  "docid": "TST4-MUC4-0021",
+  "doctext": "three new terrorist attacks were carried out early this morning, at an airport in barranquilla, at the communist party headquarters in florencia, and at the cerro azul military installations in uraba. the police confirmed that unidentified individuals armed with machineguns attacked the colombian air force installations in the capital of atlantico. there were no casualties.    the malambo area, close to the barranquilla international airport, where the air base is located, was immediately militarized. guards at the site repelled the attack, which was apparently staged by guerrillas.    similarly, it was learned that a bomb exploded today at the communist party headquarters in the capital of caqueta, causing considerable property damage. it was immediately announced that no one had been injured or killed in the extremist action.    it was also announced that suspected subversives staged another attack on the installations of the battalion stationed in uraba at cerro azul, near turbo.    these terrorist attacks took place 1 day after the serious attack launched at the 2d army division headquarters in bucaramanga, which resulted in seven people injured and considerable property damage, affecting nine homes.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["terrorist", 10],
+          ["extremist", 822]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [[["communist party headquarters", 103]]],
+      "Victim": [],
+      "Weapon": [[["bomb", 626]]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["terrorist", 10]]],
+      "PerpOrg": [],
+      "Target": [[["2d army division headquarters", 1083]], [["homes", 1217]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

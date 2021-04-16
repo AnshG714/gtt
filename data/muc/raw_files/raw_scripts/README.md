@@ -1,9 +1,8 @@
 # Proc scripts for the raw MUC
 
-
 ## Requirement
 
-* Python 2.7
+- Python 2.7
 
 ## Usage
 
@@ -18,4 +17,3 @@ Process keys:
 ```
 bash go_proc_keys.sh
 ```
-

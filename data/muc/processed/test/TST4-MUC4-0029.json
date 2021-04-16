@@ -1,0 +1,44 @@
+{
+  "docid": "TST4-MUC4-0029",
+  "doctext": "terrorists of the maoist shining path group during the past few hours killed a university professor, a policeman, and a pedestrian, while the police authorities reported today that an armed attack against the u.s. embassy in lima has been frustrated.    in the central andean town of huancayo, 350 km east of lima, professor herminio parra, who has criticized subversive movements, was shot at the door of his house early in the morning on saturday by four terrorists who claimed to be his students, his widow rita avendano reported.    in paucarbambilla, a locality in huanuco, two shining path members this past weekend machinegunned a civil guard and a pedestrian at the door of a police club, and detonated a car bomb, police sources have reported.  they added that the attackers left communist propaganda at the site.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["terrorists of the maoist shining path group", 0],
+          ["terrorists", 0],
+          ["four terrorists who claimed to be his students", 452],
+          ["four terrorists", 452]
+        ]
+      ],
+      "PerpOrg": [[["shining path", 25]]],
+      "Target": [],
+      "Victim": [[["herminio parra", 325]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["terrorists of the maoist shining path group", 0],
+          ["terrorists", 0],
+          ["two shining path members", 579],
+          ["shining path members", 583]
+        ]
+      ],
+      "PerpOrg": [[["shining path", 25]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [[["shining path", 25]]],
+      "Target": [[["embassy", 214]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

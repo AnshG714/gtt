@@ -1,0 +1,40 @@
+{
+  "docid": "TST3-MUC4-0097",
+  "doctext": "guerrilla groups have reported 185 salvadoran armed forces casualties during clashes which occurred in the last few hours in six of the country's 14 departments, but the army claims that it only sustained 48 casualties in those clashes.    according to radio farabundo marti, a radio station of the guerrilla group, the casualties were sustained by the armed forces in clashes which occurred on 1 and 2 may and early this morning when several ambushes, attacks, and sabotage aimed at the economy were carried out in several places throughout the country.    radio farabundo marti has reported that the military actions, the largest since the rebel offensive in november 1989, which resulted in thousands of casualties, is part of the \"with the workers and for democracy\" military campaign.    the farabundo marti national liberation front (fmln), which does not give details on its casualties, has said that the armed forces sustained 30 casualties in ilobasco, cabanas department, located approximately 55 km from san salvador.    nevertheless, according to military reports issued eight hours after the clashes in that town, the armed forces killed 11 guerrilla members and sustained six casualties.    radio farabundo marti has also reported that the guerrila forces caused 28 army casualties in clashes on 2 may in la laguna, chalatenango department, located approximately 90 km north of san salvador.    the armed forces press committee (coprefa) admitted that the government troops sustained 11 casualties in these clashes, adding that they inflicted three casualties on the rebels.  coprefa also reported that 26 houses were damaged.    coprefa also reports that military actions have occurred in cabanas, la libertad, chalatenango, santa ana, la libertad, and san salvador departments during the past two days.  in some places the electrical systems were sabotaged, causing long blackouts.    the guerrilla forces' general command issued a communique in san salvador on 2 may, stating that the military actions are in response to \"the triumphant and arrogant attitude of the government and the military, for the fmln's alleged weakness, which precludes the negotiation process.\"    the communique reasserts their willingness to continue the negotiation process with the government to end a war which has lasted more than a decade.  the negotiation process is being undertaken with the mediation of un secretary general javier perez de cuellar.    perez de cuellar's special envoy, alvaro de soto, arrived in san salvador on 2 may as part of the negotiations.  he met with president alfredo cristiani and the national dialogue commission today, and later he will meet with other leaders.    guillermo ungo, secretary general of the social democratic national revolutionary movement (mnr), told acan-efe that opposition leaders could \"possibly\" meet with fmln delegates in mexico city to learn their views concerning the negotiations.    \"the meeting will have an open agenda so that everyone's position can be heard and so that the role of the political parties in the negotiations can be determined,\" ungo said.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["guerrilla groups", 0],
+          ["guerrilla group", 0],
+          ["guerrilla members", 1154],
+          ["guerrila forces", 1254],
+          ["rebels", 1581]
+        ],
+        [["government troops", 1470]]
+      ],
+      "PerpOrg": [
+        [
+          ["armed forces", 46],
+          ["army", 170]
+        ],
+        [
+          ["farabundo marti national liberation front", 797],
+          ["fmln", 840]
+        ]
+      ],
+      "Target": [[["houses", 1620]]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [[["electrical systems", 1839]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

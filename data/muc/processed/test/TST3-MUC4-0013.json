@@ -1,0 +1,96 @@
+{
+  "docid": "TST3-MUC4-0013",
+  "doctext": "the fmln reports to our people and the people of the world the following:    1.  the massacre against the salvadoran workers national union federation (fenastras) was planned in cold blood.  the site and the moment when the fenastras leaders were meeting had been selected.    2.  we have trustworthy information from our intelligence organs that this action was ordered by colonel ponce, that cristiani knew about it and approved it, and that it was carried out by colonel elena fuente as the head of the morbid death squad of the army's 1st infantry brigade in response to our military attack on the army staff.  this behavior by cristiani should surprise no one.  terrorism is an old practice of the nationalist republican alliance (arena).    only a few days ago, arena assassins tried to kill the president of the mortgage bank, mr mason, for not following their orders.    3.  the people demand the resignation of chief of staff col emilio ponce because his responsibility in this criminal action is real.    4.  the fmln has prudently taken time before adopting a definite position.  the government and the armed forces have adopted an irresponsible attitude and have brazenly accused the fmln of the crimes they commit.    in view of this attitude and of the people's indignation, we have to prevent our presence at the dialogue from being used to cover up the government's responsibility in this massacre and to enhance the mask of moderator and negotiator that cristiani has been using to secure political support and u.s. financial support to extend the war.    in san jose, speaking on its view of the war, the government said that it considers popular movements as support organizations of the fmln, and therefore, as enemies of the government in the armed conflict.    we demanded that the government delegation give us a list of those organizations, but to no avail.  the terrorist attacks and massacres are now yielding the lists that were denied to us at the dialogue table.    even before the san jose meeting, the government had greatly increased its repression.  since the meeting, it has increased its detentions and attacked the residences of leaders of the social christian people's movement and the udn (nationalist democratic union), university, fecmasan (msgr oscar arnulfo romero federation of committees of mothers and relatives), and fenastras.  meanwhile, cristiani is maintaining his hypocritical position of moderation.    the massacres, detentions, and repression of earthquake victims, the repatriated, universities, labor unions, peasant cooperatives, mothers' organizations, and other segments of the population show that the war of the armed forces, government, and arena is aimed against the people and, therefore, these groups cannot and will not remain idle.    the salvadoran people have the right to take up arms and exercise their legitimate defense.  the armed people's and revolutionary struggle headed by the fmln is just, legitimate, and necessary.  (words indistinct) two-faced cristiani administration, the fmln has decided to immediately contact the dialogue observers and the church, which is the mediator, to demand through them guarantees for opposition civic and labor groups and a review of the current conditions of the dialogue, negotiation process, and its prospects.  meanwhile, we believe that it is necessary to suspend our participation in the caracas meeting.    (signed) fmln general command: commanders salvador sanchez ceren, francisco jovel, shafik jorge handal, eduardo sancho, and joaquin villalobos     el salvador, 2 november 1989",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["colonel ponce", 374],
+          ["chief of staff col emilio ponce", 920]
+        ],
+        [["cristiani", 394]],
+        [["colonel elena fuente", 466]],
+        [
+          ["morbid death squad of the army's 1st infantry brigade", 506],
+          ["morbid death squad", 506],
+          ["death squad", 513]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["army", 532],
+          ["army's 1st infantry brigade", 532],
+          ["armed forces", 1114]
+        ],
+        [
+          ["nationalist republican alliance", 703],
+          ["arena", 736],
+          ["government", 1095]
+        ]
+      ],
+      "Target": [
+        [
+          ["salvadoran workers national union federation", 106],
+          ["fenastras", 152]
+        ]
+      ],
+      "Victim": [
+        [
+          ["salvadoran workers national union federation", 106],
+          ["fenastras", 152]
+        ]
+      ],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["arena assassins", 768],
+          ["assassins", 774]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["nationalist republican alliance", 703],
+          ["arena", 736]
+        ]
+      ],
+      "Target": [],
+      "Victim": [[["mason", 837]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [[["government", 1095]]],
+      "Target": [
+        [
+          ["salvadoran workers national union federation", 106],
+          ["fenastras", 152]
+        ],
+        [
+          [
+            "residences of leaders of the social christian people's movement",
+            2151
+          ]
+        ],
+        [
+          ["udn", 2223],
+          ["nationalist democratic union", 2228]
+        ],
+        [["university", 2259]],
+        [
+          ["fecmasan", 2271],
+          [
+            "msgr oscar arnulfo romero federation of committees of mothers and relatives",
+            2281
+          ]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

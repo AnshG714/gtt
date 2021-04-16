@@ -1,0 +1,56 @@
+{
+  "docid": "TST3-MUC4-0088",
+  "doctext": "calm appears to be returning to the country following the death of one noncommissioned officer and six soldiers on 23 february as a result of guerrilla attacks in five antioquia department municipalities, the kidnapping of a mayor, a government official, and a candidate in cauca department, and the death of a guerrilla in guaviare.    the guerrilla actions began on the evening of 22 february when a large column of the popular liberation army (eln) entered turbo municipality, northeast of antioquia department, and sabotaged the power system leaving the entire area without electricity.  national army spokesmen said that one noncommissioned officer and six soldiers were killed, four were wounded, and 15 others were kidnapped during the attacks against military bases and police installations in segovia by the 4th front of the farc (revolutionary armed forces of colombia).    meanwhile in bogota, military forces commander nelson mejia henao denied that colombia is in guerrilla hands and reaffirmed the troops' unyielding determination to defend national order and democracy.  the highest-ranking officer, who expressed regret over the deaths of the soldiers in segovia, antioquia department, said that this type of incident is normal within the framework of the war that the government is waging against armed subversion.    last night, president virgilio barco vargas, after the closing ceremony of the 25th agrarian congress of the (fac) (expansion unknown), said that the guerrillas are desperate and this is reflected in their actions.  nevertheless, the armed forces will continue to fight subversion anywhere in the country, he added.  the president expressed his satisfaction at the release of santander department senator jorge serrano gonzalez, whom he described as one of the most important people that colombian democracy has at this moment.  he added finally: i hope that is he already at home with his family.",
+  "templates": [
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [
+        [
+          ["guerrilla", 142],
+          ["guerrillas", 1485]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["popular liberation army", 422],
+          ["eln", 447]
+        ]
+      ],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["guerrilla", 142],
+          ["large column of the popular liberation army", 402],
+          ["guerrillas", 1485]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["popular liberation army", 422],
+          ["eln", 447]
+        ]
+      ],
+      "Target": [[["power system", 533]]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [[["guerrillas", 1485]]],
+      "PerpOrg": [
+        [
+          ["popular liberation army", 422],
+          ["eln", 447]
+        ]
+      ],
+      "Target": [],
+      "Victim": [[["jorge serrano gonzalez", 1740]]],
+      "Weapon": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "docid": "TST3-MUC4-0003",
+  "doctext": "the national police reported today that over 15,000 people have been arrested in lima over the past few hours in a dragnet aimed at uncovering the assassins of former defense minister enrique lopez albujar trint, who was murdered in a terrorist attack yesterday.  the police also stopped 8,000 cars in the search for assassins, who are presumably members of the maoist terrorist organization shining path.    lopez albujar, who left his post at the ministry in may 1989, was riddled with bullets as he was getting out of his car in the lima residential district of san isidro.  lopez albujar, 63, was retired.  he was driving without an escort.    according to the sources, the car in which the criminals fled was abandoned in surquillo district.  the dircote (counterterrorism divison) has identified one of the terrorists as gerardo olivos silva through a composite made from witness' reports.  the police say that olivos silva, a forestry engineer, has participated in other attacks against armed forces personnel in the past.    lopez albujar's murder has made a great impression in peru.  according to political observers, the incident is being regarded as an indication that the shining path intends to continue its terrorist attacks to intimidate the people because of the upcoming general election on 8 april.    some 1600 peruvians were murdered during the last quarter of 1989 due to the political violence surrounding the 12 november municipal elections.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["members of the maoist terrorist organization shining path", 347],
+          ["criminals", 695]
+        ],
+        [["gerardo olivos silva", 827]]
+      ],
+      "PerpOrg": [[["shining path", 392]]],
+      "Target": [],
+      "Victim": [[["enrique lopez albujar trint", 184]]],
+      "Weapon": []
+    }
+  ]
+}

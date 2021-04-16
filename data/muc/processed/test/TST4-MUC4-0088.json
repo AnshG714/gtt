@@ -1,0 +1,62 @@
+{
+  "docid": "TST4-MUC4-0088",
+  "doctext": "four alleged terrorists, all wearing ski masks, murdered mayor alfredo chamorro in the small town of pallanchacra. chamorro was a member of the governing apra.    this information was released in lima today. the attack was perpetrated at dawn on tuesday, 13 december, when the terrorists burst into the mayor's home. chamorro had previously received death threats.    pallanchacra is located some 30 km from cerro de pasco, capital of pasco department, in central peru.    moreover, one of the bodyguards of hugo garcia salvatecci, bank and insurance superintendant, is recovering in a clinic in lima from an attack by alleged terrorists who shot him as a \"warning.\"    in other events, police have identified the body of a man found last saturday, 10 december, on kilometer 12 of the south panamerican highway. he was apparently shot.    the individual was identified as an alleged member of the peruvian communist party, with entries in police records.    a poster which read \"an eye for an eye. for what the workers revolutionary movement (mor) in bolivia did,\" was found on the body.    the authors of the crime were presumably referring to the murder in la paz, bolivia, of peruvian naval attache juan carlos vega llona. the self-styled mor claimed responsibility for the killing.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["four alleged terrorists, all wearing ski masks", 0],
+          ["four alleged terrorists", 0],
+          ["terrorists", 13]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["alfredo chamorro", 63]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["terrorists", 13]]],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["alfredo chamorro", 63]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["alleged terrorists", 5],
+          ["terrorists", 13]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [
+        [
+          ["mor", 74],
+          ["workers revolutionary movement", 1011]
+        ]
+      ],
+      "Target": [],
+      "Victim": [[["juan carlos vega llona", 1202]]],
+      "Weapon": []
+    }
+  ]
+}

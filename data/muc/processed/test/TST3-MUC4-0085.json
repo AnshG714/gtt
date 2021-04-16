@@ -1,0 +1,19 @@
+{
+  "docid": "TST3-MUC4-0085",
+  "doctext": "smartly dressed and speaking in nearly perfect english, salvadoran president alfredo cristiani has again visited the united states, where he tried to appear at the congress and the united nations as a statesman aware of his rights.    this is, however, a critical moment for the salvadoran president, and he knows it.  but this point was also stressed by the large numbers of people who booed him at nearly every large u.s.  city he visited.  although the ghosts of the assassinated jesuits shadowed him all during his tour, the arena (nationalist republican alliance) representative, just as his predecessor jose napoleon duarte did, flew to the united states to try to convince the legislators, particularly the democrats, that he intends to resume the dialogue for peace and check the army's criminal aspirations.  waving the human rights flag has been the most important thing for cristiani, particularly because he is aware that with this action he can continue to receive washington's financial support for his government.    according to to some experts, cristiani went farther than his predecessor.  he asked the un secretary general to help in the resumption of talks with the guerrillas, replaced several military officers of doubtful reputation, and assured he will punish severely eight soldiers accused of assassinating the six jesuit priests.  we must keep in mind that, prior to his trip, the salvadoran president succeeded in curbing a coup attempt staged by army reactionary groups. members of the salvadoran opposition have coincided in ther view that never before had a head of state challenged the military hierarchy to such an extent, a hierarchy that opposes all negotiation with the guerrillas.  the experts also said, however, that the country's internal situation has never been so serious.    the rebel offensive launched in november is a landmark, after which everything will be different in el salvador, beginning with the government party, which was left in a very delicate situation in the eyes of influential u.s. power circles.  the guerrilla drive also demonstrated that only two alternatives are left for the country.  if serious peace negotiations are not initiated, the counterinsurgency policy will be aggravated. this could even give the united states a pretext to intervene directly in the country.    although president george bush said he would continue to aid el salvador, a large number of legislators for a long time have been questioning what use has been nearly $4 billion delivered to the salvadoran army in 10 years of war.  if for the white house the alternative is to continue to give military aid to el salvador or resign itself to an eventual victory of the rebels, for cristiani the situation is even more difficult because, to get more money, he must ensure that human rights are respected.  this is equivalent to influencing the most reactionary military officers and guaranteeing the fulfillment of the famous economic recovery plan advocated by his party.  these points are nearly impossible to comply with in a country immersed in war.  if the economy is weak, respect for human rights is even weaker.  anyway, the u.s. government is planning to increase aid for the salvadoran government.  this contributes to putting far into the distance any plans to end the war.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["eight soldiers", 1293],
+          ["soldiers", 1299]
+        ]
+      ],
+      "PerpOrg": [[["army", 788]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

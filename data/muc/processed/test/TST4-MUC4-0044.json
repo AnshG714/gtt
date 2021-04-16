@@ -1,0 +1,19 @@
+{
+  "docid": "TST4-MUC4-0044",
+  "doctext": "the manuel rodriguez patriotic front (fpmr) will develop a new form of struggle called the \"national patriotic war,\" \"which will start at any moment.\"    this information was disclosed yesterday to el mercurio by fpmr spokesman victor diaz caro, who said that the truce during the plebiscite was to prepare the phase they are now starting.    he also confirmed the statement in brussels this week by fpmr international spokesman marcelo reyes.    diaz caro, who has confessed to being one of the snipers who participated in the attack on president augusto pinochet, is currently under arrest in the santiago prison, and, together with vasily carillo nova, he is national spokesman for one of the factions of this extremist organization.    diaz caro, who was arrested in late 1986 by the police, announced that in \"a matter of hours\" they will start subversive actions. he explained that this new phase of armed struggle will be carried out \"from arica down to magallanes.\"    at the same time he referred to the results of the plebiscite, stating that although they respect those who voted \"no,\" \"the only aspect of the victory of the `no' we accept is that pinochet leave power.\"    in referring to the fpmr's change of strategy, diaz caro disclosed that the decision was made during a meeting of the organization's leaders last april.    of this occasion they discussed the line that the terrorist organization should follow. they also decided to give up the idea of an \"armed rebellion,\" which prevailed until then. the main characteristic of that idea was that the organization served to complement class struggle (as it did in its origin in 1983), to support the people's rebellion to paralyze the country and to perpetrate attacks against the established regime.    diaz caro disclosed that during the meeting they decided to replace the rebellion with the search for a patriotic unity government. he said that \"we realize that ousting the regime is subject to negotiations under a provincial government.\"    according to diaz caro this is when they realized the \"need for a `truce' because they needed to plan greater steps.\"    he added that \"this is when what we call the `national patriotic war' surfaced. the main issue of this war is the armed struggle; we are no longer a mere complement to the people. it represents a qualitative step forward and entails greater responsibilities.\"    diaz caro disclosed that this new phase will require a greater quantity of weapons, more men, and all the support necessary to operate. he said that the months of truce were used to fulfill these needs.    the spokesman added that during the meeting they also decided on the need to establish a non-isolated action.  \"we thought that actions in santiago, concepcion, and valparaiso would be the solution, but that was not the case.\"    diaz caro explained that \"this is why we now realize that the struggle should be carried out from arica down to magallanes, throughout the territory and in various forms.\" (continued)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["victor diaz caro", 228]], [["snipers", 496]]],
+      "PerpOrg": [
+        [
+          ["manuel rodriguez patriotic front", 4],
+          ["fpmr", 38]
+        ]
+      ],
+      "Target": [],
+      "Victim": [[["augusto pinochet", 548]]],
+      "Weapon": []
+    }
+  ]
+}

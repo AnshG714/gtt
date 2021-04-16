@@ -1,0 +1,19 @@
+{
+  "docid": "TST4-MUC4-0047",
+  "doctext": "nicaraguan president daniel ortega today released a provisional report on the damage caused by hurricane joan and announced an \"imminent contra\" attack against nicaragua.    accompanied by five fsln national directorate commanders--humberto ortega, bayardo arce, victor tirado, carlos nunez, and tomas borge--and members of his cabinet, ortega addressed members of the diplomatic corps accredited in nicaragua and the foreign press to request more international aid for the nicaraguans affected by hurricane joan.    ortega also asked the international community for its mediation in light of a new attack by 3,000 \"contras\" who, according to ortega, are at the honduran border ready to launch an attack against his people \"in this difficult time.\"    \"the international community must demand that the u.s. government forget its plan to attack nicaragua.  the contras have been equipped by the reagan administration and are ready to attack at any moment,\" the nicaraguan president added.    \"we know that the rebels have been ordered to hinder the reconstruction work that is being done to help the people affected by the hurricane. they have also been ordered to sabotage the coffee harvest activities. the biggest help the yankee government could give the nicaraguan people would be to stop the attack,\" the president stressed.    ortega announced that while his country was being hit by hurricane joan, the contras carried out attacks and killed five civilians.    regarding the damage caused by the hurricane, ortega said that this coming week, an ecla team will arrive in managua to make \"final\" evaluations on the damage caused by joan last week.    international aid \"is necessary and urgent because the situation is chaotic,\" ortega added, stressing the role played by cuba in helping his people.    he said that cuba sent 24 planes to nicaragua with food, medicine, and medical teams; mexico sent 2 planes; and spain, great britain, panama, and belgium each sent one; for a total of 2,052 tons of aid.    giving a provisional report on the damage, ortega said there were 116 dead, 178 injured, 110 missing, and 29,152 houses destroyed as well as damage to agriculture and fishing.    he stressed the damage to the ecology because thousands of hectares of forest were destroyed. he said that european technicians will travel to nicaragua next week to evaluate the damage.    ortega said that to face the hurricane, the country used the defense system it would use to repel a military attack and that thanks to this, many human lives were saved.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["contras", 616],
+          ["rebels", 1009]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "docid": "TST4-MUC4-0090",
+  "doctext": "santa ana -- (fmln) urban guerrillas operating in santa ana have claimed responsibility for the murder of rosa imelda gonzalez medrano, a professor at the western campus of the national university.    the guerrillas stated that the dead woman was active within the ranks of the fmln and that her alias was \"marianela.\" they added that her death was a \"revolutionary execution\" because she was considered a traitor to the organization.    gonzalez medrano was killed on the night of 16 december, on 13th avenue south, 11th street east in the san rafael neighborhood, when she was returning from a demonstration sponsored by the national university, san salvador campus.    the third justice of the peace ordered the removal of the body from the scene and its release to the family. at the time of her death, gonzalez medrano was head of the law department. in the past she held the office of attorney general of the poor (procuradora general de pobres).",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["urban guerrillas", 20],
+          ["urban guerrillas operating in santa ana", 20]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["rosa imelda gonzalez medrano", 106]]],
+      "Weapon": []
+    }
+  ]
+}

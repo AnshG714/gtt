@@ -1,0 +1,19 @@
+{
+  "docid": "TST4-MUC4-0059",
+  "doctext": "barranquilla -- a 45 percent cut in available electric power is currently in effect along the entire colombian atlantic coast. today is the 5th day of the energy crisis in the atlantic region, which was caused by the destruction of seven power towers of the national energy network.    only four corelca (electric corporation of the atlantic coast) units are working and generating 440 megawatts, while other corelca units are facing many operational problems due to a lack of gas.    the atlantic hydroelectric plant is generating approximately 70 megawatts. atlantic hydroelectric plant director eduardo velar de la rosa estimated that the electricity rationing will continue for another 5 days until the power towers blown up by terrorists (words indistinct) are repaired.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["terrorists", 732]]],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["power towers of the national energy network", 238],
+          ["power towers", 238]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

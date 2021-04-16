@@ -1,0 +1,19 @@
+{
+  "docid": "TST4-MUC4-0055",
+  "doctext": "members of the bomb squad have deactivated a powerful bomb planted at the andres avelino caceres park, where president alan garcia was due to participate in the commemoration of the battle of tarapaca.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [],
+      "Target": [[["andres avelino caceres park", 74]]],
+      "Victim": [[["alan garcia", 119]]],
+      "Weapon": [
+        [
+          ["bomb", 15],
+          ["powerful bomb", 45]
+        ]
+      ]
+    }
+  ]
+}

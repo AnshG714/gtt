@@ -1,0 +1,19 @@
+{
+  "docid": "TST3-MUC4-0083",
+  "doctext": "concerning the prospects for the dialogue - negotiation based on the mediation of un secretary general javier perez de cuellar and the debate in the u.s.  congress on the aid to el salvador, the farabundo marti national liberation front (fmln) reports:    1.  we have viewed with great concern the government and army's rejection mr perez de cuellar's participation in the dialogue - negotiation process as a mediator.  this attitude is an obstacle to a process that could facilitate the negotiation effort.  on our part, we have accepted this mediation and we have undertaken efforts to achieve it.    2. the state of siege, the assassination of social democratic leader hector oqueli, the doubtful and insufficient initial results in the case of the jesuit priests, the absence of conditions for the political activity of the opposition, the continuation of the persecution of churches, and the lack of freedom of speech through the direct or covert gagging of the press show that cristiani's government is carrying out a policy of confrontation with all the country's social and political forces.  for this reason, the terms of the dialogue - negotiation must be reoriented so that it will be turned into a national process with the participation of all those forces.    3. we view as gravely erroneous the persistence of a government policy based on the idea of the fmln's alleged military weakness.  this position, similar to the one that was put forth prior to 11 november (date of the beginning of the fmln military offensive) will only lead the country to greater levels of confrontation.    4. we reaffirm our willingness to hold the meeting of both sides with the un secretary general soon.  we hope that mr cristiani's visit to the united nations will lead to such a meeting and that we can agree with the mediator on the date to hold it.    5.  we believe that the u.s. aid to the salvadoran government is directed against democratization and a political solution.  the sending of signals to one or another sector of the government or army, using the pressure of setting conditions or threatening the end of aid, does not resolve the problem.  we believe the members of the u.s. congress can make an important contribution to end the war in our country by agreeing to suspend that aid, something which could form part of a negotiated agreement that would simultaneously entail a cease-fire.    (signed) fmln general command    commanders salvador sanchez ceren, shafik jorge handal, francisco jovel, eduardo sancho, joaquin villalobos    30 january 1990",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [
+        [
+          ["government", 298],
+          ["cristiani's government", 983]
+        ]
+      ],
+      "Target": [],
+      "Victim": [[["hector oqueli", 672]]],
+      "Weapon": []
+    }
+  ]
+}

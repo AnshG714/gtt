@@ -1,0 +1,30 @@
+{
+  "docid": "TST4-MUC4-0061",
+  "doctext": "at least two people were killed and four were wounded early this morning during an fmln attack on the el angel sugar mill located near apopa.    the guerrilla action began at approximately midnight when about 50 guerrillas armed with rifles and mortars attacked the sugar mill, which is located 15 km north of san salvador. during the attack, the guerrillas partially destroyed the administrative offices of the sugar mill and a nearby house. the sugar processing equipment and machinery were not damaged. after about an hour, the insurgents withdrew. the number of fmln casualties is unknown. (passage omitted)    at the same time that this attack was taking place, the fmln staged harassment attacks on 1st infantry brigade units guarding the las canas bridge, which is located on the road from apopa to quezaltepeque. it has been unofficially reported that the army suffered two dead and two wounded in this attack, but this report was denied by the armed forces.    the two actions are part of a new fmln military maneuver that began yesterday with the attack on the national guard headquarters, where 4 guardsmen were killed and 30 wounded.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["about 50 guerrillas", 203],
+          ["50 guerrillas", 209],
+          ["guerrillas", 212],
+          ["insurgents", 531]
+        ]
+      ],
+      "PerpOrg": [[["fmln", 83]]],
+      "Target": [
+        [
+          ["el angel sugar mill", 102],
+          ["administrative offices of the sugar mill", 382]
+        ],
+        [
+          ["nearby house", 429],
+          ["house", 436]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [[["rifles", 234]], [["mortars", 245]]]
+    }
+  ]
+}

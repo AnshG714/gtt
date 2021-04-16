@@ -1,0 +1,33 @@
+{
+  "docid": "TST4-MUC4-0001",
+  "doctext": "police sources have reported that unidentified individuals planted a bomb in front of a mormon church in talcahuano district. the bomb, which exploded and caused property damage worth 50,000 pesos, was placed at a chapel of the church of jesus christ of latter-day saints located at no 3856 gomez carreno street.    the shock wave destroyed a wall, the roof, and the windows of the church, but did not cause any injuries.    carabineros bomb squad personnel immediately went to the location and discovered that the bomb was made of 50 grams of an-fo (ammonium nitrate-fuel oil blasting agents) and a slow fuse.    carabineros special forces soon raided a large area to try to arrest those responsible for the attack, but they were unsuccessful.    the police have already informed the appropriate authorities, that is, the national prosecutor and the talcahuano criminal court, of this attack.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["unidentified individuals", 34]]],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["mormon church", 88],
+          ["church", 95],
+          [
+            "chapel of the church of jesus christ of latter-day saints located at no 3856 gomez carreno street",
+            214
+          ],
+          ["chapel of the church of jesus christ of latter-day saints", 214],
+          ["chapel", 214],
+          ["church of jesus christ of latter-day saints", 228]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [
+        [["bomb", 69]],
+        [
+          ["50 grams of an-fo", 532],
+          ["an-fo", 544],
+          ["ammonium nitrate-fuel oil blasting agents", 551]
+        ]
+      ]
+    }
+  ]
+}

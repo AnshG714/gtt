@@ -1,0 +1,40 @@
+{
+  "docid": "TST3-MUC4-0006",
+  "doctext": "the bodies of hector oqueli, undersecretary of the national revolutionary movement (mnr) of el salvador, and gilda flores, a member of guatemala's social democratic party, were found in cuilapa, guatemala, near the border with el salvador, the relatives of one of the victims have reported.  according to the reports, the two bodies appeared to have been shot in their temples.    one of oqueli's relatives, who asked to remain anonymous, told acan-efe that the salvadoran politician still had his personal papers, including his passport, in one of his pockets.    the mnr reported on 12 january that heavily armed men in civilian clothes had intercepted a vehicle with oqueli and flores enroute for la aurora airport and that the two political leaders had been kidnapped and were reported missing.    oqueli was to fly to nicaragua to join an international socialist delegation which will observe the nicaraguan electoral campaign.    according to the relative, guatemalan civilian sources reported finding the bodies to him earlier today,    oqueli departed el salvador on 13 november, 2 days after the guerrillas launched their largest offensive in the recent decade.  reportedly, oqueli had been threatened with death by several people who, through a government radio network, had accused him of being an \"accomplice\" of the rebels.    the mnr, whose secretary general is guillermo ungo, is a legally registered party which forms the democratic convergence together with the social christian movement and the social democratic party.",
+  "templates": [
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [
+        [
+          ["heavily armed men in civilian clothes", 601],
+          ["heavily armed men", 601]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["hector oqueli", 14]], [["gilda flores", 109]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["several people", 1225],
+          [
+            "several people who, through a government radio network, had accused him of being an \"accomplice\" of the rebels",
+            1225
+          ],
+          ["people", 1233],
+          [
+            "people who, through a government radio network, had accused him of being an \"accomplice\" of the rebels",
+            1233
+          ]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["hector oqueli", 14]]],
+      "Weapon": []
+    }
+  ]
+}

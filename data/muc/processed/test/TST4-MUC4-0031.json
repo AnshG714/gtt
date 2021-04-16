@@ -1,0 +1,41 @@
+{
+  "docid": "TST4-MUC4-0031",
+  "doctext": "an explosion has destroyed a section of the multipurpose pipeline running from barrancabermeja to bucaramanga. the explosion occurred in alto de san pablo while gasoline and propane gas were being pumped to bucaramanga. we have a report now from teresa rueda.    (begin recording) (rueda) communications to and from puerto petrolero and bucaramanga have been cut off since early today, after an attempt to dynamite the multipurpose pipeline destroyed a 100-meter section of the central highway.    the supply of gas to bucaramanga will also be affected by this event. it is estimated that it will take at least 3 days to restore normal traffic, because it will be necessary to use dynamite to remove rocks currently blocking the highway.    the attempted sabotage occurred at the 65-km mark on the bucaramanga - barrancabermeja highway, 20 km from the place where a military convoy was ambushed last wednesday. this is the second time that an attempted sabotage of the bucaramanga - barrancabermeja multipurpose pipeline, which carries propane gas, gasoline, and acpm (not further identified) has taken place. the explosion destroyed a 30-meter section of pipeline, and sparked a fire that has not yet been extinguished.    losses caused by the sabotage, which has been attributed to the eln, have yet to be ascertained. it is estimated that repairs to the highway alone will cost the public works ministry 5 million pesos.    (ismael orozco, public works director for the 5th district) well, after initial talks with ecopetrol (colombian petroleum enterprise) technicians today, beginning at 1700, after the fire is under control, they will begin restoring service on the oil pipeline.    (rueda) at this time, there is traffic congestion near the sugamoso bridge. (end recording) (passage omitted)    while still on the subject, ecopetrol's president, who traveled this morning to barrancabermeja to attend a forum on the magdalena river, reported that, so far this year, terrorist attacks have cost his company $300 million.  we have this report from maria clara gracia.    (begin recording) (gracia) ecopetrol has lost 95 billion pesos in revenues this year due to the 44 terrorist attacks on the cano limon - covenas oil pipeline. in these attacks, 13.2 million barrels of crude oil have been lost. the areas most affected by these attacks are in sucre, arauca, norte de santander, and santander departments.    (reporter alvaro ayala) doctor, could these terrorist attacks lead to an increase in fuel prices in colombia?    (dr andres restrepo londono, president of ecopetrol) obviously, there will come a time when, faced with increasing internal production costs and falling revenues, we are going to have to consider compensating our losses with an increase in domestic oil prices, but that is a measure we are not about to adopt at this time.    (gracia) today's landslide, which destroyed a section of the multipurpose pipeline between barrancabermeja and bucaramanga, has resulted in estimated losses totalling 1.435 billion pesos. (passage omitted) (end recording)",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["terrorist", 1974]]],
+      "PerpOrg": [[["eln", 1288]]],
+      "Target": [
+        [
+          [
+            "section of the multipurpose pipeline running from barrancabermeja to bucaramanga",
+            29
+          ],
+          ["section of the multipurpose pipeline", 29],
+          [
+            "multipurpose pipeline running from barrancabermeja to bucaramanga",
+            44
+          ],
+          ["multipurpose pipeline", 44],
+          ["pipeline", 57],
+          ["bucaramanga - barrancabermeja multipurpose pipeline", 969],
+          ["30-meter section of pipeline", 1136],
+          ["oil pipeline", 1673],
+          [
+            "section of the multipurpose pipeline between barrancabermeja and bucaramanga",
+            2902
+          ]
+        ],
+        [
+          ["100-meter section of the central highway", 453],
+          ["section of the central highway", 463],
+          ["central highway", 478],
+          ["highway", 486]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

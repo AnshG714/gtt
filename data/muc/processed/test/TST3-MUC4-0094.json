@@ -1,0 +1,128 @@
+{
+  "docid": "TST3-MUC4-0094",
+  "doctext": "fmln-fdr (farabundo marti national liberation front-revolutionary democratic front) terrorist groups have continued their treacherous attacks against civilians and police officers in the capital and throughout the countryside, openly ignoring the agreements reached by their leaders with a government delegation in geneva, switzerland.    the armed forces telecommunications instruction center (citfa) reported that a man and a woman were critically wounded when the vehicle in which they were travelling near olocuilta, la paz department, was machinegunned by fmln terrorists on the evening of 4 april.    the wounded are mauricio campos and concepcion herrera, who were taken to a health center by the red cross, the sources added.    the national police reported that two of its agents and a civilian were fired at by terrorists at 1800 on 4 april, as they inspected a car crash between the highway to comalapa airport and 49th south avenue in the montserrat neighborhood.    \"the policemen were machinegunned down by people in a moving vehicle and sustained wounds which have left them in extremely critical condition,\" a security corps spokesman said.    the two agents were assisted by people who repudiated the attack.    a pedestrian, later identified as manuel alvaro mendoza, was also struck by the bullet and he is at rosales hospital.    a military spokesman also reported that a group of persons who identified themselves as fmln-fdr members kidnapped a peasant, jose manuel posada, near la colmena, in el carmen district, cuscatlan department.    meanwhile, 9-year-old yohalmo antonio ortiz was injured by shrapnel when terrorists threw a bomb at civil defense members in nejapa, north of san salvador, while harassing the paramilitary group's outpost. the boy is at bloom hospital.    in the document signed by the government delegation and the fmln-fdr leaders, the latter pledged not to engage in terrorists attacks that might damage assets or injure persons, but \"urban commandos\" or \"terrorists squads\" that operate in san salvador have either not been informed of this resolution or they act independently, the military sources said.    referring to the 2 april car bomb explosion perpetrated in santa tecla, the fmln-fdr claimed responsibility for the attack in a communique, and said that it was \"an action aimed directly at the police\" and that \"they regret the death of a civilian,\" but they did not mention compensation for the relatives.    also, the fmln-fdr claimed responsibility for the attack on general rafael humberto larios's son-in-law, accusing him of being a military pilot -- when in fact he has been a civilian pilot and he was working in a small automobile spare parts distribution company at the time of the attack.    the young man, otto milla, is still in a coma and his pancreas was removed in the latest surgical operation.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["fmln terrorists", 561],
+          ["terrorists", 566]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["fmln", 0],
+          ["fmln-fdr", 0],
+          [
+            "farabundo marti national liberation front-revolutionary democratic front",
+            10
+          ]
+        ]
+      ],
+      "Target": [[["vehicle", 467]]],
+      "Victim": [[["mauricio campos", 623]], [["concepcion herrera", 643]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["fmln terrorists", 561],
+          ["terrorists", 566],
+          ["people in a moving vehicle", 1021],
+          ["people", 1021]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["fmln", 0],
+          ["fmln-fdr", 0],
+          [
+            "farabundo marti national liberation front-revolutionary democratic front",
+            10
+          ]
+        ]
+      ],
+      "Target": [],
+      "Victim": [[["manuel alvaro mendoza", 1263]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "kidnapping",
+      "PerpInd": [[["fmln-fdr members", 1438]]],
+      "PerpOrg": [
+        [
+          ["fmln", 0],
+          ["fmln-fdr", 0],
+          [
+            "farabundo marti national liberation front-revolutionary democratic front",
+            10
+          ]
+        ]
+      ],
+      "Target": [],
+      "Victim": [[["jose manuel posada", 1476]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["fmln terrorists", 561],
+          ["terrorists", 566]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["fmln", 0],
+          ["fmln-fdr", 0],
+          [
+            "farabundo marti national liberation front-revolutionary democratic front",
+            10
+          ]
+        ]
+      ],
+      "Target": [
+        [
+          ["paramilitary group's outpost", 1737],
+          ["outpost", 1758]
+        ]
+      ],
+      "Victim": [[["yohalmo antonio ortiz", 1583]]],
+      "Weapon": [[["bomb", 1653]]]
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["urban commandos", 1982]]],
+      "PerpOrg": [
+        [
+          ["fmln-fdr", 0],
+          [
+            "farabundo marti national liberation front-revolutionary democratic front",
+            10
+          ]
+        ]
+      ],
+      "Target": [],
+      "Victim": [],
+      "Weapon": [[["car bomb", 2182]]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["urban commandos", 1982]]],
+      "PerpOrg": [
+        [
+          ["fmln-fdr", 0],
+          [
+            "farabundo marti national liberation front-revolutionary democratic front",
+            10
+          ]
+        ]
+      ],
+      "Target": [],
+      "Victim": [[["otto milla", 2775]]],
+      "Weapon": []
+    }
+  ]
+}

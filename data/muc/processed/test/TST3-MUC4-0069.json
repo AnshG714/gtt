@@ -1,0 +1,30 @@
+{
+  "docid": "TST3-MUC4-0069",
+  "doctext": "the picture published today by the newspaper granma in its third edition speaks for itself.  in fact, as the newspaper suggests, the yankee hand is today in el salvador as it was yesterday in vietnam.  the wounded mother who tries to comfort her daughter, a victim of the bombings, is not an isolated picture.  it is a symbol of the crimes that are being committed against the civilian population in that country.    the united states is not innocent of these crimes because u.s. pilots are participating in the massacre.  in the meantime, what is the human rights champion doing?  in fact, he is doing nothing that could not be predicted.  president bush gets on the phone and calls his salvadoran crony alfredo cristini to assure him that everything is all right, that he can go on, that the u.s.  position is favorable to his regime.  the human rights champion asks no questions about the recent brutal killings of union leaders by the army.  bush asks no questions about the massacre of spanish priests.  the president only praises the army, the air force, the police and paramilitary efforts to stop the guerrilla offensive.    bush and cristiani could not fail to mention the trite slogan of the cuban and nicaraguan aid to the salvadoran guerrillas.  nor did bush fail to express the american people's solidarity.  but, solidarity with whom?  all we have heard about up to now are the protests provoked in the united states by the u.s.  military aid to the salvadoran regime. the only realities are the demonstrations staged from los angeles to new york to repudiate the u.s. aid.  the only fact is that the human rights champion is being publicly questioned about this aid.  the only picture that has been disseminated throughout the world is that of a woman who interrupts bush's speech to shout to him: why are we sending money to el salvador? why are we killing priests in el salvador?  it is not possible to overlook the u.s. government's responsibility in the current salvadoran situation.  the international community must be aware of this reality and must act accordingly.",
+  "templates": [
+    {
+      "incident_type": "bombing / attack",
+      "PerpInd": [[["u.s. pilots", 475]]],
+      "PerpOrg": [[["u.s. government", 1933]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [[["army", 939]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [[["u.s. government", 1933]]],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "docid": "TST3-MUC4-0060",
+  "doctext": "the human rights promotion and protection secretariat (secretaria de promocion y proteccion de los derechos humanos) of the fmln strongly condemns the massacre of five spanish-born jesuit priests and three salvadoran citizens carried out by the salvadoran armed forces soldiers.  ignoring a martial law prohibiting all travel, early this morning a large number of heavily armed soldiers burst into the residence of the priests who manage the jose simeon canas catholic university (uca).  the soldiers broke into the priests' bedrooms, captured them, and brutally murdered them in the garden.    the victims of this hateful collective crime were: priest and dr ignacio ellacuria, the uca director; priest and dr ignacio martin baro, uca deputy director; priest and dr segundo montes, uca human rights institute director; priest and dr amando lopez, uca dean; priest juan ramon moreno; and joaquin lopez y lopez, as well as julia ramos and her 15-year-old daughter, elva ramos.    the persons who ordered the horrible murder of the jesuits and three salvadoran citizens are the same ones who ordered pilots, artillery men, and machinegunners in planes to attack the civilian population.  they are the same ones who are against reaching a political solution to the salvadoran conflict.  they are the top military and political figures in alfredo cristiani's administration.    the human rights promotion and protection secretariat calls on the international community to tie the hands of these murderers of salvadoran people and to aid in finding a solution to the national crisis so we may attain a just and lasting peace our people so desire.    no more barbaric actions in san salvador.  no more injustices. trial and punishment for the murderers.  the military and political leaders of cristiani's government must be ousted.    el salvador, 16 nov 1989",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["salvadoran armed forces soldiers", 245],
+          ["armed forces soldiers", 256],
+          ["soldiers", 269],
+          ["large number of heavily armed soldiers", 348],
+          ["heavily armed soldiers", 364]
+        ],
+        [
+          [
+            "top military and political figures in alfredo cristiani's administration",
+            1297
+          ],
+          ["top military and political figures", 1297]
+        ]
+      ],
+      "PerpOrg": [
+        [["armed forces", 256]],
+        [
+          ["alfredo cristiani's administration", 1335],
+          ["cristiani's government", 1787],
+          ["government", 1799]
+        ]
+      ],
+      "Target": [],
+      "Victim": [
+        [["ignacio ellacuria", 660]],
+        [["ignacio martin baro", 711]],
+        [["segundo montes", 767]],
+        [["amando lopez", 834]],
+        [["juan ramon moreno", 865]],
+        [["joaquin lopez y lopez", 888]],
+        [["julia ramos", 922]],
+        [["elva ramos", 964]]
+      ],
+      "Weapon": []
+    }
+  ]
+}

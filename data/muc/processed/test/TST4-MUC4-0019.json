@@ -1,0 +1,34 @@
+{
+  "docid": "TST4-MUC4-0019",
+  "doctext": "two terrorist attacks were carried out in lima last night.    the lima agrarian unit (unidad agraria de lima) and the economy ministry were the targets of the insane terrorist actions.    a powerful bomb exploded in the front of departmental agrarian unit no 6, located on block no 5 of uruguay avenue. the attack came at approximately 2230 last night. members of the civil guard, the republican guard antiexplosives brigade, and the peruvian investigative police went to the site of the explosion.    the members of the republican guard antiexplosives brigade are investigating to determine the magnitude of the bomb used in this attack. (recorded passage omitted)    the economy and finance ministry building was another target of the terrorists' actions this evening. the terrorists planted a bomb inside a vehicle belonging to emol entero. the bomb went off at approximately 2230.  (recorded passage omitted)",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["terrorists", 737]]],
+      "PerpOrg": [],
+      "Target": [
+        [
+          ["lima agrarian unit", 66],
+          ["unidad agraria de lima", 86],
+          ["departmental agrarian unit no 6", 229]
+        ],
+        [
+          ["economy ministry", 118],
+          ["economy and finance ministry building", 673]
+        ],
+        [
+          ["vehicle belonging to emol entero", 810],
+          ["vehicle", 810]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": [
+        [
+          ["powerful bomb", 190],
+          ["bomb", 199]
+        ],
+        [["bomb", 199]]
+      ]
+    }
+  ]
+}

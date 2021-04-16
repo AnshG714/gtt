@@ -1,0 +1,25 @@
+{
+  "docid": "TST4-MUC4-0045",
+  "doctext": "in another act of violence, 18 people were killed near canasgordas in antioquia department. epl (popular liberation army) guerrillas blew up a bridge as a public bus, in which several policemen were traveling, was crossing it. the attack killed nine policemen and nine civilians, including four employees of the civil registry office, who had been in peque on sunday for the election of a new mayor. the bloody attack occurred in juntas de uramita, where the injured are being treated.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["guerrillas", 122]]],
+      "PerpOrg": [
+        [
+          ["epl", 92],
+          ["popular liberation army", 97]
+        ]
+      ],
+      "Target": [
+        [["bridge", 143]],
+        [
+          ["public bus", 155],
+          ["bus", 162]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

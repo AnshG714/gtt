@@ -1,0 +1,79 @@
+{
+  "docid": "TST3-MUC4-0080",
+  "doctext": "official sources today reported that at least eight people, including soldiers, rebels, and civilians, were killed during clashes between the army and guerrillas over the past weekend in various points of the country.    military spokesmen for the 6th infantry brigade, headquartered in the eastern usulutan department, told acan-efe that two rebels were killed and one wounded during a clash with government troops in san agustin.    meanwhile, the armed forces press committee (coprefa) reported that the bodies of two guerrillas, who were presumably killed during clashes with the army, were found by soldiers in the outskirts of santa tecla, in the central la libertad department.    coprefa reported that two soldiers were killed during a clash with members of the farabundo marti national liberation front (fmln) in comasagua, about 28 km to the southwest of (san) salvador, where a rebel attack on a coffee processing plant was successfully repelled.    it reported that a civilian was killed in the crossfire and that a soldier was also killed during clashes in zaragoza, south of san salvador, where two guerrillas were wounded.    the military report stated that 10 rebels were wounded in tecoluca, san vicente department, about 60 km east of the capital, during an armed clash between insurgents and the 5th (infantry) brigade, headquartered in that department.    three other soldiers were wounded during an fmln ambush in guazapa, north of (san) salvador, one of the guerrillas' main bastions.    the salvadoran (air) force this morning bombed rebel positions in the outskirts of jucuapa, usulutan department, but no results are yet available, area residents told acan-efe.    the fmln this morning harrassed (army positions stationed near) ayutuxtepeque, north of (san) salvador, without inflicting any casualties.    coprefa also reported that the (armed) forces seized from the guerrillas 500 electric catapults, in the northern (chalatenango) department, which the fmln had used since last year to attack (san) salvador garrisons.    salvadoran (red) cross sources today reported that a 48-year-old woman identified as maria luz lopez was wounded last night when a powerful bomb, which damaged several businesses in (san) salvador, exploded.    the bomb was planted in a heavily commercial area of downtown (san) salvador causing heavy property loses, according to the owners who provided no specific figures.    this is the fourth dynamite attack on businesses in (san) salvador so far in 1990.    the guerrillas intensified their acts of sabotage against the economy, especially against the entire electrical power system, on 2 january when an unilateral military truce they decreed over the christmas and new year holidays had expired.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["rebel", 80],
+          [
+            "members of the farabundo marti national liberation front (fmln)",
+            755
+          ],
+          ["members of the farabundo marti national liberation front", 755]
+        ]
+      ],
+      "PerpOrg": [
+        [
+          ["farabundo marti national liberation front", 770],
+          ["fmln", 813]
+        ]
+      ],
+      "Target": [[["coffee processing plant", 907]]],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["soldier", 70]], [["guerrillas", 151]]],
+      "PerpOrg": [
+        [["armed forces", 450]],
+        [
+          ["farabundo marti national liberation front", 770],
+          ["fmln", 813]
+        ]
+      ],
+      "Target": [],
+      "Victim": [],
+      "Weapon": []
+    },
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [
+        [
+          ["farabundo marti national liberation front", 770],
+          ["fmln", 813]
+        ]
+      ],
+      "Target": [[["businesses", 2219]]],
+      "Victim": [[["maria luz lopez", 2136]]],
+      "Weapon": [
+        [
+          ["bomb", 1550],
+          ["powerful bomb", 2182]
+        ],
+        [["dynamite", 2449]]
+      ]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [[["guerrillas", 151]]],
+      "PerpOrg": [
+        [
+          ["farabundo marti national liberation front", 770],
+          ["fmln", 813]
+        ]
+      ],
+      "Target": [
+        [
+          ["entire electrical power system", 2610],
+          ["electrical power system", 2617]
+        ]
+      ],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

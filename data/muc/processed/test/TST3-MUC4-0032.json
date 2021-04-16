@@ -1,0 +1,21 @@
+{
+  "docid": "TST3-MUC4-0032",
+  "doctext": "the israeli embassy in bogota today confirmed that there are israeli terrorists in colombia engaged in training right-wing paramilitary groups that, according to investigations, are financed by drug-trafficking mafias.    israeli charge d'affairs michel ronen admitted there are several israelis engaged in that illegal activity, but warned that they do so \"on their own and do not act on behalf of my government.\"    moreover, this official denied that jubiz hazvumb, captured 22 august by colombian authorities for his alleged involvement in the murder of senator and presidential candidate luis carlos galan, was an israeli citizen.    according to preliminary reports revealed by the press, the suspect is an israeli mercenary paid by the medellin cartel -- the world's most powerful drug-trafficking mafia -- that appears to be directly linked to the murders of galan, a high-ranking police officer, and a judge last week.    reports disclosing the presence of these terrorists in colombia appeared several months ago when television clips showed a man giving instructions in hebrew to a right-wing paramilitary squad.    similar clips were broadcast by the u.s. television network nbc, prompting a communique from jerusalem which requested colombian authorities and interpol to provide all information on the matter.    acording to the israeli official, the terrorists' actions in colombia run \"counter to israel's policies.\"      investigations by the administrative department of security (das) -- the state's intelligence corps -- disclosed the links between the drug-trafficking mafias and ultraright-wing paramilitary groups.    according to das director general miguel maza marquez, the drug-trafficking organizations, especially the medellin cartel, set up several \"schools for gunmen\" in a vast region in the interior of the country with israeli, british, u.s. and west german terrorist instructors.  moreover, nbc warned of the presence of south africans.    the paramilitary squads are accused of hundreds of individual murders and massacres against political and labor leaders, as well as peasants and patriotic union leftist militants in different parts of the country.    the authorities are accusing these squads' killers of being behind the crime wave the country has been experiencing since last week, with the murders of people known for their activities against cocaine trafficking.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["paramilitary groups", 123],
+          ["ultraright-wing paramilitary groups", 1600]
+        ],
+        [["drug-trafficking mafias", 194]],
+        [["jubiz hazvumb", 454]]
+      ],
+      "PerpOrg": [[["medellin cartel", 743]]],
+      "Target": [],
+      "Victim": [[["luis carlos galan", 593]]],
+      "Weapon": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "docid": "TST4-MUC4-0006",
+  "doctext": "a corporal and a guerrilla have been killed in the most recent clashes between the army and the fmln.  according to military reports, corporal alexander molina granados was killed as he was trying to defuse a mine placed by the insurgents on la noria bridge, in san marcos lempa. according to military authorities, a lieutenant and five civilians who were passing through the area at the time were injured by the explosion.    meanwhile, troops of the civiplan battalion killed an fmln guerrilla in a skirmish on the slopes of la cruz hill in chalatenango department.    residents of quetzaltepeque reported that the rebels downed an electric tower last night on the outskirts of the town.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [[["insurgents", 228]]],
+      "PerpOrg": [[["fmln", 96]]],
+      "Target": [[["la noria bridge", 242]]],
+      "Victim": [[["alexander molina granados", 143]]],
+      "Weapon": [[["mine", 209]]]
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["insurgents", 228],
+          ["rebels", 617]
+        ]
+      ],
+      "PerpOrg": [[["fmln", 96]]],
+      "Target": [[["electric tower", 634]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

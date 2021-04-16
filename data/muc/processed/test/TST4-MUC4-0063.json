@@ -1,0 +1,20 @@
+{
+  "docid": "TST4-MUC4-0063",
+  "doctext": "the armed forces have reported that two soldiers and one guerrilla were killed yesterday in fighting in san miguel and morazan departments. they also reported that the antel (national administration for telecommunications) office, court offices, and community center of dulce nombre de maria were dynamited by the fmln early this morning.    according to the reports, a large group of rebels entered the town and, after subduing the military guards, they dynamited the buildings. no casualties were reported.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [
+        [
+          ["large group of rebels", 370],
+          ["group of rebels", 376],
+          ["rebels", 385]
+        ]
+      ],
+      "PerpOrg": [[["fmln", 314]]],
+      "Target": [[["court offices", 231]], [["community center", 250]]],
+      "Victim": [],
+      "Weapon": []
+    }
+  ]
+}

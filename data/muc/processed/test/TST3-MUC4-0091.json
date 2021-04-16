@@ -1,0 +1,26 @@
+{
+  "docid": "TST3-MUC4-0091",
+  "doctext": "general gustavo leigh guzman, a former military regime government junta member and former commander in chief of the air force, and air force general enrique ruiz, retired, a partner in leigh's real estate office, were seriously injured during an attack this morning.    according to witnesses' reports, two 23 to 25-year-old individuals walked to gen. leigh's office, on the fourth floor of the building located at 95 luis talle ojeda street.  (passage omitted)    witnesses said they heard two bursts of gunfire: one burst of three shots lasting three seconds and another burst of seven to eight shots lasting longer.  gen. leigh's secretary, joanna santis retamal, came to a window to report the incident.    other reports said that the two individuals broke into the offices and entered gen. leigh's private office.  (passage omitted)    the individuals used 9 mm semiautomatic pistols.  according to the experts, gen. ruiz was hit three times and gen gustavo leigh was hit five times.  the bullets hit gen. leigh in his eye, nose, right arm, right leg, and stomach.    the two attackers then walked down the stairs and escaped toward providencia.  (passage omitted)    the government has expressed its strong condemnation of the attack on gen. gustavo leigh, the former commander in chief of the air force and member of the military regime's government junta.  on his way to the hospital on express orders of the president, interior minister enrique krauss rejected the attack:    (begin recording) (krauss) we have asked the police authorities to fully clarify this incident.  these attitudes and acts do not help in the effort required to reunite all chileans.  (end recording)    krauss said it was a regrettable incident because it hurt the spirit and purpose of the government and opposition's work.  the attack against leigh would make a good pathological study, the minister added.  (passage omitted)    the national coordinating board for political prisoners has said the attack on gustavo leigh does not reflect the current situation in the country.  communist party leader jorge martinez, movement of the revolutionary left (mir) leader carlos ruig, and manuel rodriguez patriotic front (fpmr) leader francisco escobar heard the news while holding a news conference at the prison house.    the fpmr's francisco escobar said he is sure his organization was not involved in the incident because, as he said, we are not going to achieve anything with it.  (passage omitted)    mir representative carlos ruig said that the mir would not carry out any armed action at this time, irrespective of the level of gen. leigh's involvement in past repressions.    communist leader jorge martinez said that he is committed to respecting the democratic transition.  he said that he does not believe that this type of action will contribute to the country's progress and stability.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["two 23 to 25-year-old individuals", 303],
+          ["individuals", 325],
+          ["two individuals", 739]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["gustavo leigh guzman", 8]], [["enrique ruiz", 149]]],
+      "Weapon": [
+        [
+          ["9 mm semiautomatic pistols", 862],
+          ["semiautomatic pistols", 867],
+          ["pistols", 881]
+        ]
+      ]
+    }
+  ]
+}

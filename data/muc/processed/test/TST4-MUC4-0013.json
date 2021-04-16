@@ -1,0 +1,19 @@
+{
+  "docid": "TST4-MUC4-0013",
+  "doctext": "a judge has ordered the release of former captain alvaro sanabria, who is implicated in the assassination of msgr oscar arnulfo romero, because of contradictory statements by a key witness. court sources have explained, however, that the constitutional court will now have to decide whether or not to accept the acquittal of the soldier.    the decision issued by justice romeo aurora acquitting and ordering the release of the former captain was made, according to the document, because amado antonio garay reyes--the alleged driver of the person who assassinated msgr romero--cannot be considered a reliable witness.    the judgement presented to the constitutional court notes that this witness has made statements that contradict testimony he gave at the 4th criminal court 7 years after the crime was committed. for this reason, the judge, based on articles 497 and 498 of the penal code and article 53 of the constitutional procedures law has ruled that there is no merit for arresting the military man, who has been tried in absentia.    however, court officials have explained that this document issued by judge aurora is only a report on his ruling, which according to the law can be either revoked or confirmed by the constitutional court. for this reason, this decision is not being viewed as a final ruling. (passage omitted)",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [
+        [
+          ["former captain alvaro sanabria", 35],
+          ["captain alvaro sanabria", 42]
+        ]
+      ],
+      "PerpOrg": [],
+      "Target": [],
+      "Victim": [[["oscar arnulfo romero", 114]]],
+      "Weapon": []
+    }
+  ]
+}

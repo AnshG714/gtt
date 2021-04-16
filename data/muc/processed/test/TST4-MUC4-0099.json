@@ -1,0 +1,32 @@
+{
+  "docid": "TST4-MUC4-0099",
+  "doctext": "the terrorist manuel rodriguez patriotic front (fpmr) in the latest issue of its official publication has reported on the failure last may of its operation aimed at murdering military judge fernando torres silva. the article justifies the operation and reiterates that \"the fpmr has not given up its decision to carry out its sentence of capital punishment for this individual.\"    the issue also publishes an editorial confirming the need to reinvigorate the \"national patriotic war.\" remembering the fpmr fifth anniversary, the editorial urges the militants \"to continue the armed fight against tyranny.\"    a report then reviews the most important terrorist attacks perpetrated in 1988. the report emphasizes the ambush on carabineros patrols, the occupation of lo quenes and agua grande village, and retired colonel rojas lobos' execution.    some pages are dedicated to raul pellegrini, alias \"commander rodrigo,\" and other fpmr \"heroes,\" including cecilia magni, alias \"commander tamara.\"    the issue, which was distributed a few days before christmas, includes a pamphlet with instructions on how to manufacture bombs, and poems urging the people to join the subversion and the armed fight.",
+  "templates": [
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [
+        [
+          ["manuel rodriguez patriotic front", 14],
+          ["fpmr", 48]
+        ]
+      ],
+      "Target": [],
+      "Victim": [[["fernando torres silva", 190]]],
+      "Weapon": []
+    },
+    {
+      "incident_type": "attack",
+      "PerpInd": [],
+      "PerpOrg": [
+        [
+          ["manuel rodriguez patriotic front", 14],
+          ["fpmr", 48]
+        ]
+      ],
+      "Target": [],
+      "Victim": [[["fernando torres silva", 190]]],
+      "Weapon": []
+    }
+  ]
+}

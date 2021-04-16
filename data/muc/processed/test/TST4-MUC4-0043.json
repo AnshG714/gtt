@@ -1,0 +1,14 @@
+{
+  "docid": "TST4-MUC4-0043",
+  "doctext": "we are facing an escalation of violence caused by the fmln, which shows its military weakness more than anything else. the fmln is supposedly attacking military targets, but neither a jail nor a shopping mall is a military target. commercial areas or amusement places are not military targets. car bombs went off in such places lately. they went off at a chain of (words indistinct) and at a shopping mall. the fmln's strategy is simply to increase its terrorist actions.    for that reason, it is regrettable that the salvadoran government describes the fmln as a group in arms, because they are merely terrorist criminals. (passage omitted)    there is political weakness, because the armed forces are not given clear missions. we see the actions of the armed forces and the security corps are frustrated, because they spend time, effort, and men capturing terrorists while the government subsequently releases them for humanitarian reasons.    i believe the government must apply the laws more forcefully and stop deceiving the population with words such as democratization and with its great political demagogy. (end recording)    finally, ochoa perez criticized the meeting costa rican president oscar arias will hold with representatives of the fmln general command today. he said oscar arias is not the right person to deal with salvadoran internal affairs.",
+  "templates": [
+    {
+      "incident_type": "bombing",
+      "PerpInd": [],
+      "PerpOrg": [[["fmln", 54]]],
+      "Target": [[["shopping mall", 195]], [["chain", 355]]],
+      "Victim": [],
+      "Weapon": [[["car bombs", 294]]]
+    }
+  ]
+}
